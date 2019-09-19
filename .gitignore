@@ -1,8 +1,14 @@
-# Compiled python modules.
+data/
+
+# 
+.mypy_cache/
+.vscode/*
+!.vscode/settings.json
+!.vscode/launch.json
+
+# Python files
+*.egg
+*.egg-info/
 *.pyc
-
-# Setuptools distribution folder.
 /dist/
-
-# Python egg metadata, regenerated from source files by setuptools.
-/*.egg-info
+__pycache__/data
