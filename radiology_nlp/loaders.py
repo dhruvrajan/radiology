@@ -1,5 +1,6 @@
 import os
 import pandas as pd
+import itertools
 from typing import List, Iterator
 import radiology_nlp.params as params
 from radiology_nlp.types.reports import Report, raw_to_report
@@ -27,17 +28,17 @@ def all_reports() -> Iterator[Report]:
     yield from unlabeled_reports()
 
 
-def list_labeled_reports() -> List[Report]:
-    return list(labeled_reports())
+def list_labeled_reports(n=None, shuffle=False) -> List[Report]:
+    return list(itertools.islice(labeled_reports(), n))
 
 
-def list_unlabeled_reports() -> List[Report]:
-    return list(unlabeled_reports())
+def list_unlabeled_reports(n=None) -> List[Report]:
+    return list(itertools.islice(unlabeled_reports(), n))
 
 
-def list_all_reports() -> List[Report]:
-    return list(all_reports())
+def list_all_reports(n=None) -> List[Report]:
+    return list(itertools.islice(all_reports(), n))
 
 
 if __name__ == "__main__":
-    print(len(list_all_reports()))
+    print(list_all_reports())
