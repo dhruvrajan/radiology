@@ -1,6 +1,6 @@
-data/
+data
 
-# 
+# VSCode
 .mypy_cache/
 .vscode/*
 !.vscode/settings.json
