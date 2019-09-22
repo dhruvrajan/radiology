@@ -1,16 +1,26 @@
 from allennlp.predictors.predictor import Predictor
+from allennlp.data.token_indexers.token_indexer import TokenIndexer
 from collections import defaultdict
 from typing import DefaultDict
 from nltk import sent_tokenize
 from radiology_nlp.loaders import labeled_reports
 import itertools
+import torch
+import time
+
 parser = Predictor.from_path(
-    "data/models/biaffine-dependency-parser-ptb-2018.08.23.tar.gz")
+    "data/models/biaffine-dependency-parser-ptb-2018.08.23.tar.gz", cuda_device=0)
 
 
 def locations(reports):
-    print(len(reports))
+    t = time.time()
+    for i, r in enumerate(reports):
+        for sentenece in sent_tokenize(r.findings):
+            parser.predict(sentence=sentenece)
+            
+    print("parsed in " + str(time.time() - t) + "seconds")
 
+    exit()
     mappings: DefaultDict = defaultdict(set)
     noun_map: DefaultDict = defaultdict(set)
     prep_map: DefaultDict = defaultdict(set)
@@ -51,6 +61,6 @@ def locations(reports):
 if __name__ == "__main__":
     # print(parser.predict("There is a traveler with a stick."))
     # exit()
-    N = 50
+    N = 5
     locations(list(itertools.islice(
         filter(lambda r: r.findings != "", labeled_reports()), N)))
