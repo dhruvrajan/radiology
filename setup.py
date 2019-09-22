@@ -8,4 +8,5 @@ setup(name='radiology_nlp',
       author_email='dhruv@cs.utexas.edu',
       license='MIT',
       packages=['radiology_nlp'],
+      scripts=['bin/get_dell_data.py'],
       zip_safe=False)
