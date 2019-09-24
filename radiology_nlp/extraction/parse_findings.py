@@ -13,14 +13,14 @@ parser = Predictor.from_path(
 
 
 def locations(reports):
-    t = time.time()
-    for i, r in enumerate(reports):
-        for sentenece in sent_tokenize(r.findings):
-            parser.predict(sentence=sentenece)
-            
-    print("parsed in " + str(time.time() - t) + "seconds")
+    # t = time.time()
+    # for i, r in enumerate(reports):
+    #     for sentenece in sent_tokenize(r.findings):
+    #         parser.predict(sentence=sentenece)
 
-    exit()
+    # print("parsed in " + str(time.time() - t) + "seconds")
+
+    # exit()
     mappings: DefaultDict = defaultdict(set)
     noun_map: DefaultDict = defaultdict(set)
     prep_map: DefaultDict = defaultdict(set)
