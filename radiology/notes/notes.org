@@ -1,0 +1,10 @@
+Input: 
+    Sequence of graph stuff
+
+
+Labels:
+    0/1
+    Match up with sentences in the findings.
+    Pool top layer, predict the disease.
+* $x^2$
+-  

@@ -1,0 +1,83 @@
+>>>is
+effect;mild;associated;new;substantial;significant;mass;local;-;minimal;
+amount;moderate;('of', 'edema')
+shift;midline;
+cavum;;
+focus;single;small;nonspecific;('of', 'enhancement');('of', 'signal');('in', 'matter');('of', 'hyperintensity');('in', 'lobe');('within', 'matter');('of', 'hypoenhancement');('in', 'region')
+question;lateral;('of', 'area')
+anomaly;venous;developmental;
+polyp;right;small;('versus', 'cyst')
+lacune;small;old;
+degree;moderate;('of', 'loss')
+encephalomalacia;;
+This;;
+abnormality;definite;
+mass;axial;extra;unchanged;small;new;intracranial;('with', 'enhancement');('in', 'region')
+herniation;worsening;subfalcine;('at', 'level');('at', 'C6');('of', 'mm')
+prolongation;;
+loss;appropriate;cerebral;slight;asymmetric;generalized;('between', 'hemispheres');('with', 'dilatation');('in', 'lobe');('with', 'ex')
+collections;axial;intracranial;intra;fluid;abnormal;
+edema;associated;surrounding;minimal;('in', 'anterior')
+increase;interval;consistent;progressive;('in', 'abnormality');('in', 'size')
+intensity;focal;low;high;normal;increased;('in', 'stem');('on', 'images')
+asymmetry;smaller;minimal;('of', 'ventricles')
+hematoma;subdural;('in', 'region')
+hyperintensity;periventricular;associated;('within', 'region');('within', 'matter')
+opacification;partial;('of', 'cells')
+signal;abnormal;high;artifactual;('on', 'diffusion');('within', 'ganglia')
+lesion;focal;small;('within', 'sella')
+thickening;mild;dural;associated;('in', 'cells')
+suggestion;;('in', 'horn');('of', 'layer')
+alignment;normal;('of', 'spine')
+ventriculostomy;right;frontal;('with', 'tip')
+appearance;normal;interval;convex;nonspecific;('of', 'enhancement');('of', 'contents');('along', 'sulci');('of', 'lesions');('of', 'parenchyma');('of', 'new')
+structural;cortical;focal;('in', 'brain')
+T1;demarcated;due;symmetric;
+blood;subdural;
+patency;;('of', 'transverse');('including', 'arteries');('of', 'circulation')
+enhancement;mild;faint;subtle;dural;heterogeneous;intracranial;pathological;ependymal;mass;greater;vascular;reactive;pathologic;prominent;evident;abnormal;('in', 'horns');('of', 'lobes');('within', 'lobe');('of', 'component');('of', 'brain')
+progression;;('of', 'abnormality');('in', 'matter')
+change;significant;('in', 'number')
+deviation;rightward;('of', 'septum')
+homogeneously;small;
+metastasis;enhancing;('in', 'gyrus')
+extension;;('into', 'tissues')
+age;;
+hemorrhage;intracranial;intraparenchymal;intraventricular;subdural;acute;('with', 'ventricles');('over', 'lobe')
+cm;;
+protrusion;mild;focal;central;small;paracentral;left;('of', 'CSF');('at', 'T8');('without', 'canal');('at', 'C6');('at', 'level')
+area;focal;punctate;small;('of', 'diffusion');('of', 'enhancement');('of', 'hyperintensity');('in', 'lobe');('in', 'region')
+diffusion;mild;bilateral;restricted;('with', 'areas')
+evidence;;('of', 'effect');('of', 'hydrocephalus');('of', 'hemorrhage');('of', 'shift');('of', 'infarct');('of', 'susceptibility');('of', 'infarction')
+rim;;('of', 'tissue')
+lobe;right;temporal;
+oval;;
+prominence;mild;discrepant;('of', 'ventricles');('of', 'tissue');('for', 'age')
+trapping;mild;('of', 'ventricle')
+fluid;greater;small;('within', 'cells')
+volume;elevated;appreciable;relative;
+angioma;venous;probable;
+FLAIR;abnormal;
+disease;;
+dilatation;porencephalic;('with', 'abnormality');('of', 'horns');('with', 'matter')
+diffuse;;
+involvement;likely;('of', 'rest')
+peak;identifiable;
+susceptibility;marked;consistent;
+region;shaped;focal;triangular;('in', 'pons');('of', 'expansile');('of', 'signal')
+restriction;abnormal;
+>>>are
+collections;axial;intracranial;intra;fluid;abnormal;
+hyperintensities;scattered;few;nonspecific;
+spaces;prominent;perivascular;associated;
+foci;few;small;questionable;multiple;suspicious;other;scattered;nonspecific;('in', 'canal');('of', 'enhancement');('of', 'prolongation');('in', 'matter');('of', 'signal');('of', 'T2');('of', 'elongation');('of', 'abnormal');('of', 'intensity')
+regions;;('of', 'stenosis')
+lesions;new;
+examination;prior;('for', 'comparison')
+Ventricles;;
+findings;consistent;('of', 'hemorrhage');('of', 'ischemia')
+examinations;prior;('for', 'comparison')
+areas;focal;scattered;multiple;other;('of', 'diffusion');('of', 'prolongation');('of', 'enhancement');('in', 'matter');('of', 'signal');('of', 'abnormality');('of', 'hyperintensity');('within', 'spaces');('around', 'atrium');('in', 'cortex');('within', 'cord')
+changes;spondylotic;mild;ethmoidal;('with', 'bulge');('in', 'spine')
+cysts;nasopharyngeal;probable;mucous;
+mass;axial;extra;unchanged;small;new;intracranial;('with', 'enhancement');('in', 'region')
