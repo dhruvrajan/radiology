@@ -4,5 +4,5 @@
     "python.linting.flake8Args": ["--max-line-length=120"],
     "python.linting.mypyEnabled": true,
     "python.linting.pylintEnabled": true,
-    "python.pythonPath": "/backup3/dhruv/miniconda3/envs/dl/bin/python",
+    "python.pythonPath": "C:\\Users\\dhruv\\Miniconda3\\envs\\nlp3.6\\python.exe",
 }

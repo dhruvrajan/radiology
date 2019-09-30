@@ -18,7 +18,7 @@ class DellHeaders(ReportHeaders):
     """
     Enumeration of headers found in radiology reports.
     """
-    # COMPARISON = auto()
+    COMPARISON = auto()
     # COMPARISON_DATED = auto()
     # COMPARISON_STUDY = auto()
 
@@ -38,13 +38,15 @@ class DellHeaders(ReportHeaders):
     TECHNIQUE = auto()
 
     @staticmethod
+    def optional_case(word: str):
+        return "".join(["[" + c.lower() + c.upper() + "]" if c.isalnum()
+                        else r"\s" if c == " " else c for c in word]) + "[:\n]\s*"
+
+    @staticmethod
     def make_delimiter():
-        def optional_case(word: str):
-            return "".join(["[" + c.lower() + c.upper() + "]" if c.isalnum()
-                            else r"\s" if c == " " else c for c in word]) + "[:\n]\s*"
 
         names = DellHeaders.header_names().keys()
-        return "(" + "|".join(list(map(lambda name: optional_case(name) + ":?", names))) + ")"
+        return "(" + "|".join(list(map(lambda name: DellHeaders.optional_case(name) + ":?", names))) + ")"
 
     @staticmethod
     def from_raw(raw_report: str) -> Dict[ReportHeaders, str]:
@@ -61,6 +63,18 @@ class DellHeaders(ReportHeaders):
                 section_text = ""
                 if not re.match(delimiter, split_report[i + 1]):
                     section_text = split_report[i + 1].strip(string.whitespace)
+
+                if section_type == DellHeaders.PROCEDURE_AND_FINDINGS:
+                    comp_delim = DellHeaders.optional_case("comparison")
+                    if re.match(comp_delim, split_report[i + 2]):
+                        sections[DellHeaders.PROCEDURE] = section_text
+                        sections[DellHeaders.FINDINGS] = "\n\n".join(
+                            split_report[i + 3].strip(string.whitespace).split("\n\n")[1:])
+                    else:
+                        sections[DellHeaders.PROCEDURE] = section_text.split("\n\n")[
+                            0]
+                        sections[DellHeaders.FINDINGS] = "\n\n".join(
+                            section_text.split("\n\n")[1:])
 
                 sections[section_type] = section_text
 
@@ -91,6 +105,6 @@ class Report:
 
 
 if __name__ == "__main__":
-    with open("data/labeled_neuro_reports/reports/495371.txt") as f:
+    with open("data/labeled_neuro_reports/reports/2729232.txt") as f:
         for k, v in DellHeaders.from_raw(f.read()).items():
             print(k, v)
