@@ -65,18 +65,25 @@ class DellHeaders(ReportHeaders):
                     section_text = split_report[i + 1].strip(string.whitespace)
 
                 if section_type == DellHeaders.PROCEDURE_AND_FINDINGS:
-                    comp_delim = DellHeaders.optional_case("comparison")
-                    if re.match(comp_delim, split_report[i + 2]):
-                        sections[DellHeaders.PROCEDURE] = section_text
-                        sections[DellHeaders.FINDINGS] = "\n\n".join(
-                            split_report[i + 3].strip(string.whitespace).split("\n\n")[1:])
-                    else:
-                        sections[DellHeaders.PROCEDURE] = section_text.split("\n\n")[
-                            0]
-                        sections[DellHeaders.FINDINGS] = "\n\n".join(
-                            section_text.split("\n\n")[1:])
-
-                sections[section_type] = section_text
+                    try:
+                        comp_delim = DellHeaders.optional_case("comparison")
+                        if re.match(comp_delim, split_report[i + 2]):
+                            sections[DellHeaders.PROCEDURE] = section_text
+                            sections[DellHeaders.COMPARISON] = split_report[i + 3].strip(string.whitespace).split("\n\n")[0]
+                            sections[DellHeaders.FINDINGS] = "\n\n".join(
+                                split_report[i + 3].strip(string.whitespace).split("\n\n")[1:])
+                            i += 3
+                        else:
+                            sections[DellHeaders.PROCEDURE] = section_text.split("\n\n")[
+                                0]
+                            sections[DellHeaders.FINDINGS] = "\n\n".join(
+                                section_text.split("\n\n")[1:])
+                            i += 2
+                    except:
+                        pass
+                else:
+                    sections[section_type] = section_text
+                i += 1
 
         return sections
 

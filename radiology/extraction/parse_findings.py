@@ -1,41 +1,53 @@
-from allennlp.predictors.predictor import Predictor
-from allennlp.data.token_indexers.token_indexer import TokenIndexer
-from collections import defaultdict
-from typing import DefaultDict
-from nltk import sent_tokenize
-from radiology.loaders import labeled_reports
 import itertools
-import torch
 import time
+from collections import defaultdict
+from typing import DefaultDict, List
+
+import torch
+from allennlp.data.token_indexers.token_indexer import TokenIndexer
+from allennlp.predictors.predictor import Predictor
+from nltk import sent_tokenize
+
+from radiology.loaders import Reports, labeled_reports
+from radiology.types.reports import DellHeaders, Report
 
 parser = Predictor.from_path(
-    "data/models/biaffine-dependency-parser-ptb-2018.08.23.tar.gz", cuda_device=0)
+    "data/allennlp/models/biaffine-dependency-parser-ptb-2018.08.23.tar.gz")
+
+ 
+def findings_from_sentence(sentence: str):
+    print(sentence)
+    tree = parser.predict(sentence)["hierplane_tree"]
+    root = tree["root"]
+
+    if root["word"] in ["is", "are", "shows"]:
+        subj = [child["word"]
+                for child in root["children"] if child["nodeType"] in ["nsubj", "expl", "shows", "amod"]]
+        print(subj)
+
+        # print(subj, root["children"])
 
 
-def locations(reports):
-    # t = time.time()
-    # for i, r in enumerate(reports):
-    #     for sentenece in sent_tokenize(r.findings):
-    #         parser.predict(sentence=sentenece)
+def decompose_report(report):
+    for sentence in sent_tokenize(report.get(DellHeaders.FINDINGS)):
+        findings_from_sentence(sentence)
 
-    # print("parsed in " + str(time.time() - t) + "seconds")
-
-    # exit()
+def locations(reports: List[Report]):
     mappings: DefaultDict = defaultdict(set)
     noun_map: DefaultDict = defaultdict(set)
     prep_map: DefaultDict = defaultdict(set)
 
     for i, report in enumerate(reports):
         print(i, report.id)
-        for sentence in sent_tokenize(report.findings):
+        for sentence in sent_tokenize(report.get(DellHeaders.FINDINGS)):
             tree = parser.predict(sentence=sentence)["hierplane_tree"]
 
             root = tree["root"]
             children = root["children"]
 
-            if root["word"] in ["is", "are"]:
+            if root["word"] in ["is", "are", "shows", "indicates", "demonstrates"]:
                 nouns = list(map(lambda c: c["word"], filter(
-                    lambda c: c["nodeType"] == "nsubj", children)))
+                    lambda c: c["nodeType"] in ["nsubj", "expl"], children)))
 
                 for n in children:
                     if "children" in n.keys():
@@ -61,6 +73,10 @@ def locations(reports):
 if __name__ == "__main__":
     # print(parser.predict("There is a traveler with a stick."))
     # exit()
-    N = 5
-    locations(list(itertools.islice(
-        filter(lambda r: r.findings != "", labeled_reports()), N)))
+    reports = Reports.from_generator(labeled_reports)
+    decompose_report(reports.get("1190577"))
+    # print(reports.get("1190577").get(DellHeaders.FINDINGS))
+    # locations([reports.get("1190577")])
+    # N = 10
+    # locations(list(itertools.islice(
+    # filter(lambda r: r.get(DellHeaders.FINDINGS) != "", labeled_reports()), N)))

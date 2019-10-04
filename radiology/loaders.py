@@ -47,5 +47,20 @@ def list_all_reports(n=None) -> List[Report]:
     return list(itertools.islice(all_reports(), n))
 
 
+class Reports:
+    def __init__(self, reports: List[Report]):
+        self.reports = {report.id: report for report in reports}
+
+    def get(self, report_id: str):
+        return self.reports[report_id]
+
+    def pick_random(self):
+        return self.get(random.choice(list(self.reports.keys())))
+
+    @staticmethod
+    def from_generator(gen):
+        return Reports(list(gen()))
+
+
 if __name__ == "__main__":
     print(list_all_reports()[500].sections)

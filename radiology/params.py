@@ -9,8 +9,13 @@ HYBRID_BN_TABLE = "data/bayes_network/hybrid/hybrid_bn.csv"
 HYBRID_BN_DISEASES = "data/bayes_network/hybrid/diseases.csv"
 
 # Symbols
+NONE = "<NONE>"
+PAD_SYMBOL = "<PAD>"
 UNK_SYMBOL = "<UNK>"
 
+# Reader IDs
+ATTENDING_THRESHOLD = 21
+FELLOW_THRESHOLD = 41
 
 # Tunable Numbers
-FUZZY_DISEASE_MATCH_THRESHOLD = 80
+FUZZY_DISEASE_MATCH_THRESHOLD = 50
