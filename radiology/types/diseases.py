@@ -8,7 +8,7 @@ from fuzzywuzzy import process
 from nltk import sent_tokenize
 
 from radiology.params import (FUZZY_DISEASE_MATCH_THRESHOLD,
-                              HYBRID_BN_DISEASES, KF_LABELS_PATH, ORIGINAL_BN)
+                              HYBRID_BN_DISEASES, KF_LABELS_PATH, ORIGINAL_BN, ATTENDING_THRESHOLD, FELLOW_THRESHOLD)
 from radiology.types.kf_labels import read_raw_kf_labels
 
 
@@ -60,7 +60,7 @@ def match_diseases_in_impression(impression: str, diseases: List[str],
 
     for i in range(len(dss)):
         dss[i] = dss[i].strip(string.punctuation + string.whitespace)
-    
+
     dss = sorted(dss)
     for ds in dss:
         print(ds)
@@ -88,7 +88,8 @@ def match_diseases_in_impression(impression: str, diseases: List[str],
 if __name__ == "__main__":
     from radiology.types.reports import DellHeaders
     from radiology.loaders import Reports, labeled_reports
-    impression = Reports.from_generator(labeled_reports).pick_random()#get("5853161")
+    impression = Reports.from_generator(
+        labeled_reports).pick_random()  # get("5853161")
     print(impression.id)
     impression = impression.get(DellHeaders.IMPRESSION)
     # impression = "Left hippocampus with increased signal, diminished size and abnormal internal architecture compatible with mesial temporal sclerosis."

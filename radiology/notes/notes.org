@@ -8,3 +8,6 @@ Labels:
     Pool top layer, predict the disease.
 * $x^2$
 -  
+
+
+Label 5 documents with what we think the alignment should be
