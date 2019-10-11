@@ -3,6 +3,8 @@ LABELED_REPORTS_PATH = "data/labeled_neuro_reports/reports/"
 UNLABELED_REPORTS_PATH = "data/unlabeled_neuro_reports/reports/"
 UNLABELED_DISEASES = UNLABELED_REPORTS_PATH + "diseases.csv"
 KF_LABELS_PATH = "data/labeled_neuro_reports/kf_ground_truth_commas.csv"
+ID_MAP_PATH = "data/labeled_neuro_reports/report_id_ocr_output/"
+
 
 ORIGINAL_BN = "data/bayes_network/original/renamed_network.csv"
 HYBRID_BN_TABLE = "data/bayes_network/hybrid/hybrid_bn.csv"
@@ -19,3 +21,5 @@ FELLOW_THRESHOLD = 41
 
 # Tunable Numbers
 FUZZY_DISEASE_MATCH_THRESHOLD = 50
+
+COMMON_DISEASES = ["yoyoboy"]

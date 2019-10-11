@@ -1,12 +1,13 @@
+import itertools
 import os
 import random
-import pandas as pd
-import itertools
 from typing import List, Iterator
+
+import pandas as pd
+
 import radiology.params as params
-from radiology.types.reports import Report, DellHeaders
 from radiology.types.kf_labels import read_raw_kf_labels
-from radiology.utils import case
+from radiology.types.reports import Report, DellHeaders
 
 
 def labeled_reports(shuffle=False) -> Iterator[Report]:
@@ -80,37 +81,5 @@ class Reports:
         return Reports(list(gen()))
 
 
-class LabeledReports:
-    def __init__(self, reports: List[Report], kf: pd.DataFrame):
-        self.reports = {report.id: report for report in reports}
-        self.kf = kf
-
-    def get(self, report_id: str):
-        return self.reports[report_id]
-
-    def all_reports(self):
-        return self.reports.items()
-
-    def field(self, field, level=2):
-        return [self.consensus(report.id, field, level) for report in self.reports]
-
-    def consensus(self, id, field, level=2):
-        assert level in [0, 1, 2]
-        reader_threshold = case(level, {
-            0: params.ATTENDING_THRESHOLD,
-            1: params.FELLOW_THRESHOLD,
-            2: max(set(self.kf["reader_id"])) + 1
-        })
-        print(id in self.kf["case_id"])
-        annotations = self.kf[self.kf["case_id"] ==
-                              id][self.kf["reader_id"] < reader_threshold][field]
-        return max(list(set(annotations)), key=list(annotations).count)
-
-    def pick_random(self):
-        return self.get(random.choice(list(self.reports.keys())))
-
-
 if __name__ == "__main__":
-    LR = LabeledReports(list_labeled_reports(), read_raw_kf_labels())
-    print(read_raw_kf_labels())
-    print(LR.consensus("15549525", "known_ddx"))
+    pass

@@ -1,1 +1,2 @@
-from radiology.loaders import labeled_reports
+from radiology.loaders import Reports, LabeledReports
+
