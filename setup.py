@@ -9,4 +9,4 @@ setup(name='radiology',
       license='MIT',
       packages=['radiology'],
       scripts=['bin/get_dell_data.py'],
-      zip_safe=False)
+      zip_safe=False, install_requires=['allennlp', 'nltk'])

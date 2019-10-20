@@ -6,8 +6,7 @@ from typing import List, Iterator
 import pandas as pd
 
 import radiology.params as params
-from radiology.types.kf_labels import read_raw_kf_labels
-from radiology.types.reports import Report, DellHeaders
+from radiology.datatypes.reports import Report, DellHeaders
 
 
 def labeled_reports(shuffle=False) -> Iterator[Report]:
@@ -19,7 +18,8 @@ def labeled_reports(shuffle=False) -> Iterator[Report]:
     for filename in reports:
         if filename.endswith(".txt"):
             with open(params.LABELED_REPORTS_PATH + filename, "r") as f:
-                yield Report(filename.split(".")[0], DellHeaders.from_raw(f.read()))
+                raw = f.read()
+                yield Report(filename.split(".")[0], DellHeaders.from_raw(raw), raw)
 
 
 def unlabeled_reports(shuffle=False) -> Iterator[Report]:
@@ -38,7 +38,7 @@ def unlabeled_reports(shuffle=False) -> Iterator[Report]:
                 random.shuffle(reports)
 
             for id, report in zip(df["ID"], df["ReportText"]):
-                yield Report(id, DellHeaders.from_raw(report))
+                yield Report(id, DellHeaders.from_raw(report), report)
 
 
 def all_reports() -> Iterator[Report]:
@@ -70,11 +70,15 @@ class Reports:
 
     @staticmethod
     def labeled(shuffle=False):
-        return Reports.from_generator(labeled_reports(shuffle))
+        return Reports.from_reports(labeled_reports(shuffle))
 
     @staticmethod
     def unlabeled(shuffle=False):
-        return Reports.from_generator(labeled_reports(shuffle))
+        return Reports.from_reports(unlabeled_reports(shuffle))
+
+    @staticmethod
+    def from_reports(reports):
+        return Reports(reports)
 
     @staticmethod
     def from_generator(gen):

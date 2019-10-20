@@ -1,16 +1,10 @@
-import itertools
-import time
 from collections import defaultdict
-from typing import DefaultDict, List
+from typing import DefaultDict
 
-import torch
-from allennlp.data.token_indexers.token_indexer import TokenIndexer
 from allennlp.predictors.predictor import Predictor
 from nltk import sent_tokenize
 
-from radiology.loaders import Reports, unlabeled_reports, LabeledReports
-from radiology.types.reports import DellHeaders
-from radiology.types.kf_labels import read_raw_kf_labels
+from radiology.datatypes.reports import DellHeaders
 
 parser = Predictor.from_path(
     "data/allennlp/models/biaffine-dependency-parser-ptb-2018.08.23.tar.gz")
@@ -107,6 +101,7 @@ def locations(reports, kf, f=None):
 
 
 if __name__ == "__main__":
+    pass
     # print(parser.predict("There is a traveler with a stick."))
     # exit()
     #     reports = LabeledReports(list_labeled_reports(), read_raw_kf_labels())
@@ -115,7 +110,7 @@ if __name__ == "__main__":
     # decompose_report(reports.get("1190577"))
     # print(reports.get("1190577").get(DellHeaders.FINDINGS))
     # locations([reports.get("1190577")])
-    N = 300
-    with open("parse_findings_out2.csv", "w") as f:
-        locations(LabeledReports(list(itertools.islice(
-            filter(lambda r: r.get(DellHeaders.FINDINGS) != "", unlabeled_reports()), N)), read_raw_kf_labels()), f)
+    # N = 300
+    # with open("parse_findings_out2.csv", "w") as f:
+    #     locations(LabeledReports(list(itertools.islice(
+    #         filter(lambda r: r.get(DellHeaders.FINDINGS) != "", unlabeled_reports()), N)), read_raw_kf_labels()), f)
