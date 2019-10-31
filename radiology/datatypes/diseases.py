@@ -6,7 +6,7 @@ import regex
 from fuzzywuzzy import process
 from nltk import sent_tokenize
 
-from radiology.params import (FUZZY_DISEASE_MATCH_THRESHOLD,
+from radiology.params import (FUZZY_DISEASE_MATCH_THRESHOLD, UNLABELED_DISEASES,
                               HYBRID_BN_DISEASES, ORIGINAL_BN, NONE)
 
 """
@@ -28,6 +28,13 @@ def original_bn_diseases(original_bn: str = ORIGINAL_BN) -> List[str]:
 
 def kf_diseases(kf):
     return set(list(kf["ddx1"]) + list(kf["ddx2"]) + list(kf["ddx3"]) + list(kf["known_ddx"])) - set([NONE])
+
+
+def unlabeled_diseases(use_ergo=False):
+    with open(UNLABELED_DISEASES) as f:
+        df = pd.read_csv(f)
+
+    return list(df["name"] if not use_ergo else df["ergo_name"])
 
 
 """
@@ -86,7 +93,7 @@ def match_diseases_in_impression(impression: str, diseases: List[str],
     return sorted(predictions.items(), key=lambda p: -p[1])
 
 
-if __name__ == "__main__":
+if __name__ == "__main__2":
     from radiology.datatypes.reports import DellHeaders
     from radiology.loaders import Reports, labeled_reports
     impression = Reports.from_generator(
@@ -95,6 +102,7 @@ if __name__ == "__main__":
     impression = impression.get(DellHeaders.IMPRESSION)
     # impression = "Left hippocampus with increased signal, diminished size and abnormal internal architecture compatible with mesial temporal sclerosis."
     print(impression)
+    # print(match_diseases_in_impression(impression, hybrid_bn_diseases()))
 
     # query = regex.compile("((Hypoxic Ischemic encephalopathy){e<=15}|(doggone){e<2})")
     # print(regex.findall(query, "ischemi encephalpathydoggne"))
@@ -105,4 +113,4 @@ if __name__ == "__main__":
 # edema, the modest nature may be related to partially treated infection.The moderately high rCBV along peripheral margin,
 # however, is not as supportive for abscess. Necrotic neoplasms such as multiple metastasis is included in the differential but
 # felt to be less likely."""
-    print(match_diseases_in_impression(impression, hybrid_bn_diseases()))
+    print(match_diseases_in_impression(impression, hybrid_bn_diseases())[:5])

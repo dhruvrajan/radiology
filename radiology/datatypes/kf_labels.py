@@ -7,7 +7,8 @@ import pandas as pd
 from radiology import params
 from radiology.datatypes.reports import Report
 from radiology.loaders import Reports, list_labeled_reports
-from radiology.params import KF_LABELS_PATH, ID_MAP_PATH, NONE
+from radiology.params import (KF_LABELS_PATH, ID_MAP_PATH, NONE,
+                              KF_EMISSIONS, DISEASE_TERM_MATCHING, VALID_DISEASE_LABELS)
 from radiology.utils import case
 
 
@@ -81,10 +82,19 @@ def kf_ddx_to_bn_disease(ddx):
     return split_disease(ddx)[0].strip(string.whitespace)
 
 
+def disease_term_matching(fr="KF", to="UNLABELED_ERGO") -> pd.DataFrame:
+    with open(DISEASE_TERM_MATCHING) as f:
+        df = pd.read_csv(f)
+
+    return {f: t for (f, t) in zip(list(df[fr]), list(df[to]))}
+
+
 def transform_ddx_fields(kf: pd.DataFrame):
+    matching = disease_term_matching("KF", "UNLABELED_ERGO")
+
     def ddx_transform(ddx):
         transformed = kf_ddx_to_bn_disease(ddx)
-        return transformed
+        return matching[transformed] if transformed in matching else NONE
         # common = set(COMMON_DISEASES)
         # if transformed in common:
         #     return transformed
@@ -99,12 +109,54 @@ def transform_ddx_fields(kf: pd.DataFrame):
     return kf
 
 
-def read_kf_labels():
+def transform_side_field(kf):
+    def side_transform(side):
+        if side == "bilateral asymmeetric":
+            return "bilateral_asymmetric"
+        elif side == "bilateral symmeetric":
+            return "bilateral_symmetric"
+
+        return side
+
+    kf["side"] = kf["side"].map(side_transform)
+
+    return kf
+
+
+def read_kf_labels() -> pd.DataFrame:
     kf = read_raw_kf_labels()
     kf = kf.fillna(NONE)
     kf = transform_ddx_fields(kf)
     kf = transform_location_field(kf)
+    kf = transform_side_field(kf)
     return kf
+
+
+def verify_standard_kf_labels(kf):
+    for field in kf.keys():
+        possible = set(list(kf[field]))
+        if NONE in possible:
+            possible.remove(NONE)
+        if field in KF_EMISSIONS:
+            if possible != set(KF_EMISSIONS[field]):
+                return False
+        elif field.endswith("ddx"):
+
+            for p in possible:
+                if p not in VALID_DISEASE_LABELS:
+                    return False
+    return True
+
+
+def read_standard_kf_labels(check_standard=False) -> pd.DataFrame:
+    kf_fields = ["case_id", "ddx1", "ddx2", "ddx3",
+                 "known_ddx"] + list(KF_EMISSIONS.keys())
+    kf = read_kf_labels()
+    result = kf[kf_fields]
+
+    if check_standard:
+        assert verify_standard_kf_labels(result)
+    return result
 
 
 class LabeledReports(Reports):
@@ -125,7 +177,7 @@ class LabeledReports(Reports):
 
         annotations = self.kf[self.kf["case_id"] ==
                               to[id]][self.kf["reader_id"] < reader_threshold][field]
-        try: 
+        try:
             return max(list(set(annotations)), key=list(annotations).count)
         except ValueError:
             return None
@@ -138,6 +190,4 @@ class LabeledReports(Reports):
     @staticmethod
     def create():
         return LabeledReports(list_labeled_reports(), read_kf_labels())
-
-if __name__ == '__main__':
-    lr = LabeledReports.create()
+        

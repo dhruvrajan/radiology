@@ -1,12 +1,10 @@
 import abc
-from abc import ABC
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score
 from sklearn.model_selection import train_test_split
 
 from radiology.datatypes.indexer import Indexer
-import numpy as np
 from radiology.datatypes.kf_labels import LabeledReports
 from radiology.datatypes.reports import DellHeaders as DH
 
@@ -48,7 +46,7 @@ class SklearnReportClassifier(KFClassifier):
 
 
 class NGramFeatureExtractor(KFFeatureTransform):
-    def __init__(self, ngram_range=(1, 2), stopwords=None):
+    def __init__(self, ngram_range=(1, 3), stopwords=None):
         self.ngram_range = ngram_range
         self.stopwords = stopwords
 
@@ -130,15 +128,6 @@ class KFEvaluator:
 if __name__ == '__main__':
 
     kfe = KFEvaluator()
-    kfe.evaluate_one_task("mass_effect",
-                          SklearnReportClassifier(LogisticRegression()),
-                          NGramFeatureExtractor((1, 2)))
-#     ad = AccessionData.load_reindexed_data()
-#     reports = ad.report_text()
-#     feat_extractor = NGramFeatureExtractor((1, 2))
-#     fields = ["number_of_lesions", "side", "size", "t1", "mass_effect"]
-#     clfs = MultiFieldClassifierFromFeatureExtractor(fields, [SklearnReportClassifier(
-#         LogisticRegression()) for x in range(len(fields))], feat_extractor)
-#     dataset = ad.create_dataset_from_model(fields, clfs)
-
-#     print([len(x) for x in dataset])
+    kfe.evaluate_all_one_task(["mass_effect", "number_of_lesions", "side"],
+                              SklearnReportClassifier(LogisticRegression()),
+                              NGramFeatureExtractor((1, 2)))

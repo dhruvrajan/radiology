@@ -20,9 +20,6 @@ def findings_from_sentence(sentence: str):
                 for child in root["children"] if child["nodeType"] in ["nsubj", "expl", "shows", "amod"]]
         print(subj)
 
-        # print(subj, root["children"])
-
-
 def decompose_report(report):
     for sentence in sent_tokenize(report.get(DellHeaders.FINDINGS)):
         findings_from_sentence(sentence)
@@ -101,7 +98,6 @@ def locations(reports, kf, f=None):
 
 
 if __name__ == "__main__":
-    pass
     # print(parser.predict("There is a traveler with a stick."))
     # exit()
     #     reports = LabeledReports(list_labeled_reports(), read_raw_kf_labels())
