@@ -7,6 +7,7 @@ import pandas as pd
 
 import radiology.params as params
 from radiology.datatypes.reports import Report, DellHeaders
+from fuzzywuzzy import process
 
 
 def labeled_reports(shuffle=False) -> Iterator[Report]:
@@ -22,13 +23,21 @@ def labeled_reports(shuffle=False) -> Iterator[Report]:
                 yield Report(filename.split(".")[0], DellHeaders.from_raw(raw), raw)
 
 
-def unlabeled_reports(shuffle=False) -> Iterator[Report]:
-    filenames = os.listdir(params.UNLABELED_REPORTS_PATH)
+def unlabeled_reports(diseases=None, shuffle=False) -> Iterator[Report]:
+    files = os.listdir(params.UNLABELED_REPORTS_PATH)
+    if not diseases:
+        filenames = files
+    else:
+        filenames = []
+        for d in diseases:
+            for fn in files:
+                if d.lower() in fn.lower():
+                    filenames.append(fn)
 
     if shuffle:
         random.shuffle(filenames)
 
-    for filename in os.listdir(params.UNLABELED_REPORTS_PATH):
+    for filename in filenames:
         if filename.endswith(".csv"):
             with open(params.UNLABELED_REPORTS_PATH + filename, "r") as f:
                 df = pd.read_csv(f)
@@ -77,6 +86,10 @@ class Reports:
         return Reports.from_reports(unlabeled_reports(shuffle))
 
     @staticmethod
+    def all(shuffle=False):
+        return Reports.from_reports(all_reports(shuffle))
+
+    @staticmethod
     def from_reports(reports):
         return Reports(reports)
 
@@ -84,6 +97,3 @@ class Reports:
     def from_generator(gen):
         return Reports(list(gen()))
 
-
-if __name__ == "__main__":
-    pass

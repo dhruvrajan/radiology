@@ -9,21 +9,14 @@ from sklearn.linear_model import LogisticRegression, SGDClassifier
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score, precision_score, f1_score
+from radiology.models.kf.ddx_data import get_findings_disease_data
 
 
-def kf_prediction_dataset(*fields, filter_none=False):
-    lr = LabeledReports.create()
 
-    ids, reports, labels = [], [], []
 
-    for id in lr.reports.keys():
-        consensus = [lr.consensus(id, field) for field in fields]
-        if not (filter_none and NONE in consensus):
-            ids.append(id)
-            reports.append(lr.reports[id])
-            labels.append(consensus if len(fields) > 1 else consensus[0])
 
-    return ids, reports, labels
+def unlabeled_prediction_dataset():
+    return get_findings_disease_data()
 
 
 def get_pipeline(clf) -> Pipeline:
@@ -35,23 +28,24 @@ def get_pipeline(clf) -> Pipeline:
 
 
 dummy_clfs = [
-    ("dummy: stratified", DummyClassifier(strategy="stratified")),
-    ("dummy: most_frequent", DummyClassifier(strategy="most_frequent")),
-    ("dummy: maximize_prior", DummyClassifier(strategy="prior")),
-    ("dummy: uniform dist", DummyClassifier(strategy="uniform"))
+    # ("dummy: stratified", DummyClassifier(strategy="stratified")),
+    # ("dummy: most_frequent", DummyClassifier(strategy="most_frequent")),
+    # ("dummy: maximize_prior", DummyClassifier(strategy="prior")),
+    # ("dummy: uniform dist", DummyClassifier(strategy="uniform"))
 ]
 
 clfs = [
-    ("logistic regression", LogisticRegression(solver="lbfgs")),
+    # ("logistic regression", LogisticRegression(solver="lbfgs")),
     ("SGD", SGDClassifier()),
-    ("multinomial naive bayes", MultinomialNB())
+    # ("multinomial naive bayes", MultinomialNB())
 ]
 
 
 def run_classification(clf, clf_name, field, filter_none=True):
-    ids, reports, labels = kf_prediction_dataset(
-        field, filter_none=filter_none)
-    report_text = [report.get(DH.FINDINGS) for report in reports]
+    # ids, reports, labels = kf_prediction_dataset(
+    # field, filter_none=filter_none)
+    ids, report_text, labels = unlabeled_prediction_dataset()
+    # report_text = [report.get(DH.FINDINGS) for report in reports]
     pipeline = get_pipeline(clf)
 
     X_train, X_test, y_train, y_test, ids_train, ids_test = train_test_split(
@@ -86,9 +80,4 @@ def run_experiment(field):
 
 
 if __name__ == "__main__":
-    # run_experiment("number_of_lesions")
-    # run_experiment("ddx1")
-    # run_experiment("ddx2")
-    # run_experiment("ddx3")
     run_experiment("known_ddx")
-    

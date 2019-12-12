@@ -11,7 +11,7 @@ ID_MAP_PATH = "data/labeled_neuro_reports/galileo_index/"
 ORIGINAL_BN = "data/bayes_network/original/renamed_network.csv"
 HYBRID_BN_TABLE = "data/bayes_network/hybrid/hybrid_bn.csv"
 HYBRID_BN_DISEASES = "data/bayes_network/hybrid/diseases.csv"
-
+HYBRID_DISEASE_ALIASES = "data/diseases/disease_aliases.csv"
 DISEASE_TERM_MATCHING = "data/matching/disease_term_matching.csv"
 
 # Symbols
@@ -59,3 +59,12 @@ KF_EMISSIONS = {
 # Valid DDX Labels
 with open(DISEASE_TERM_MATCHING) as f:
     VALID_DISEASE_LABELS = set(pd.read_csv(f)["UNLABELED_ERGO"])
+
+ALIASES = dict()
+
+with open(HYBRID_DISEASE_ALIASES) as f:
+
+    for line in f:
+        disease, strong, weak = line.split("<;>")
+        disease, strong, weak = eval(disease), eval("""{}""".format(strong[1: -1])), eval("""{}""".format(weak[1:-2]))
+        ALIASES[disease] = {"strong": strong, "weak": weak}

@@ -35,7 +35,10 @@ class DellHeaders(ReportHeaders):
     NARRATIVE = auto()
 
     RESULT = auto()
+    RESULT_NOTIFICATION = auto()
     TECHNIQUE = auto()
+
+    ATTENDING_COMMENTS = auto()
 
     @staticmethod
     def optional_case(word: str):

@@ -4,7 +4,7 @@ class Indexer(object):
         self.ints_to_objs = {}
 
     def __repr__(self):
-        return str([str(self.get_object(i)) for i in range(0, len(self))])
+        return "Indexer(" + str([str(self.get_object(i)) for i in range(0, len(self))]) + ")"
 
     def __str__(self):
         return self.__repr__()

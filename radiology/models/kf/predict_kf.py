@@ -7,6 +7,9 @@ from sklearn.model_selection import train_test_split
 from radiology.datatypes.indexer import Indexer
 from radiology.datatypes.kf_labels import LabeledReports
 from radiology.datatypes.reports import DellHeaders as DH
+from radiology.datatypes.diseases import hybrid_bn_diseases
+
+diseases = hybrid_bn_diseases(use_ergo=False)
 
 
 class KFClassifier:
@@ -83,6 +86,7 @@ class ClassifierFromFeatureExtractor(KFClassifier):
         self.clf.train(transformed, y, *args, **kwargs)
 
     def predict(self, X):
+
         transformed = self.feature_extractor.transform(X)
         return self.clf.predict(transformed)
 
@@ -128,6 +132,6 @@ class KFEvaluator:
 if __name__ == '__main__':
 
     kfe = KFEvaluator()
-    kfe.evaluate_all_one_task(["mass_effect", "number_of_lesions", "side"],
+    kfe.evaluate_all_one_task(["known_ddx"],
                               SklearnReportClassifier(LogisticRegression()),
                               NGramFeatureExtractor((1, 2)))
