@@ -1,44 +1,43 @@
 import re
-from enum import Enum, auto
 import string
 from typing import Dict
 
-
-class ReportHeaders(Enum):
-    @classmethod
-    def header_names(cls):
-        """
-        Retrieves a list of header names as strings
-        (as they would appear in a text report).
-        """
-        return dict(map(lambda header: (re.sub("_", " ", header.name.lower()), header), cls))
+from datatypes.headers import ReportHeaders, DellHeaders
 
 
-class DellHeaders(ReportHeaders):
+class Report:
     """
-    Enumeration of headers found in radiology reports.
+    Represents a radiology report as a collection
+    of (optional) individual sections.
     """
-    COMPARISON = auto()
-    # COMPARISON_DATED = auto()
-    # COMPARISON_STUDY = auto()
 
-    PROCEDURE_AND_FINDINGS = auto()
-    PROCEDURE = auto()
-    FINDINGS = auto()
+    SOURCES = ["dell_labeled", "dell_unlabeled"]
 
-    CLINICAL_INDICATION = auto()
-    CONCLUSION = auto()
+    def __init__(self, id: str, sections: Dict[ReportHeaders, str], raw=None, source=None):
+        # Identifier for Report
+        self.id = id
 
-    REPORT = auto()
-    HISTORY = auto()
-    IMPRESSION = auto()
-    NARRATIVE = auto()
+        # Report Sections
+        self.sections = sections
+        self.raw = raw
+        self.source = source
 
-    RESULT = auto()
-    RESULT_NOTIFICATION = auto()
-    TECHNIQUE = auto()
+    def get(self, header: ReportHeaders) -> str:
+        if header not in self.sections:
+            return ""
 
-    ATTENDING_COMMENTS = auto()
+        return self.sections[header]
+
+    def has_section(self, header: ReportHeaders) -> bool:
+        return self.get(header) != ""
+
+    def __repr__(self):
+        return "Report (%s)" % self.id
+
+
+class DellReport(Report):
+    def __init__(self, id: str, sections: Dict[ReportHeaders, str], raw: str = None, source: str = None):
+        super().__init__(id, sections, raw, source)
 
     @staticmethod
     def optional_case(word: str):
@@ -47,7 +46,6 @@ class DellHeaders(ReportHeaders):
 
     @staticmethod
     def make_delimiter():
-
         names = DellHeaders.header_names().keys()
         return "(" + "|".join(list(map(lambda name: DellHeaders.optional_case(name) + ":?", names))) + ")"
 
@@ -72,7 +70,8 @@ class DellHeaders(ReportHeaders):
                         comp_delim = DellHeaders.optional_case("comparison")
                         if re.match(comp_delim, split_report[i + 2]):
                             sections[DellHeaders.PROCEDURE] = section_text
-                            sections[DellHeaders.COMPARISON] = split_report[i + 3].strip(string.whitespace).split("\n\n")[0]
+                            sections[DellHeaders.COMPARISON] = \
+                                split_report[i + 3].strip(string.whitespace).split("\n\n")[0]
                             sections[DellHeaders.FINDINGS] = "\n\n".join(
                                 split_report[i + 3].strip(string.whitespace).split("\n\n")[1:])
                             i += 3
@@ -91,32 +90,7 @@ class DellHeaders(ReportHeaders):
         return sections
 
 
-class Report:
-    """
-    Represents a radiology report as a collection
-    of (optional) individual sections.
-    """
-
-    def __init__(self, id: str, sections: Dict[ReportHeaders, str], raw=None):
-        # Identifier for Report
-        self.id = id
-
-        # Report Sections
-        self.sections = sections
-
-        self.raw = raw
-
-    def get(self, header: ReportHeaders):
-        if header not in self.sections:
-            return ""
-
-        return self.sections[header]
-
-    def __repr__(self):
-        return "Report (%s)" % self.id
-
-
 if __name__ == "__main__":
     with open("data/labeled_neuro_reports/reports/2729232.txt") as f:
-        for k, v in DellHeaders.from_raw(f.read()).items():
+        for k, v in DellReport.from_raw(f.read()).items():
             print(k, v)

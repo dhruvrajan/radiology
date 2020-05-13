@@ -2,19 +2,15 @@ from typing import List
 
 from nltk import sent_tokenize, word_tokenize
 from nltk.corpus import stopwords
-
-from sklearn.model_selection import train_test_split
-from sklearn.metrics import accuracy_score
-from sklearn.preprocessing import OneHotEncoder, LabelEncoder
 from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.linear_model import LogisticRegression
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import OneHotEncoder, LabelEncoder
+
 from radiology.datatypes.indexer import Indexer, indexer_from_values
 from radiology.datatypes.kf_labels import LabeledReports
 from radiology.datatypes.reports import DellHeaders
-import numpy as np
-from sklearn.linear_model import LogisticRegression
-
-from radiology.loaders import Reports
-from radiology.params import NONE, PAD_SYMBOL, UNK_SYMBOL, KF_EMISSIONS
+from radiology.params import NONE, KF_EMISSIONS
 
 
 def create_vocabulary(reports: List[str], use_stopwords=False) -> Indexer:

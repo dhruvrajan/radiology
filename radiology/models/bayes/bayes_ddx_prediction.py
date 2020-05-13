@@ -49,20 +49,20 @@ class HybridDiagnosisModel():
         return 1 - self.disease(disease_id)
 
     def feature_given_disease(self, feature, emission, disease):
-        label = "/".join([feature,  emission, "yp"])
+        label = "/".join([feature, emission, "yp"])
         return self.hybrid_model[self.hybrid_model["disease"] == disease][label][0]
 
     def feature_given_not_disease(self, feature, emission, disease):
-        label = "/".join([feature,  emission, "np"])
+        label = "/".join([feature, emission, "np"])
         return self.hybrid_model[self.hybrid_model["disease"] == disease][label][0]
 
     def disease_given_feature(self, feature, emission, disease):
         return self.feature_given_disease(feature, emission, disease) * self.disease(disease) \
-            / (self.disease(disease) * self.feature_given_disease(feature, emission, disease)
-                + self.not_disease(disease) * self.feature_given_not_disease(feature, emission, disease))
+               / (self.disease(disease) * self.feature_given_disease(feature, emission, disease)
+                  + self.not_disease(disease) * self.feature_given_not_disease(feature, emission, disease))
 
     def disease_given_features(self, features, disease):
-        return 
+        return
 
 
 if __name__ == "__main__":
