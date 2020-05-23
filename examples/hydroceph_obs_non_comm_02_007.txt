@@ -1,0 +1,7 @@
+Diseases: ['hydrocephalus']
+FINDINGS:
+
+There has been interval resection of the midline cerebellar mass via a suboccipital craniotomy. Expected postoperative changes including blood/fluid within the surgical resection cavity extra-axial fluid/blood and soft tissue swelling hemorrhage and fluid in the scalp overlying the craniotomy are visualized. There is continued mass effect over the fourth ventricle with mild interval increase in the size of third and the lateral ventricles. Also there is partial effacement of the basal cisterns with tonsils seen at the level of the foramen magnum. The previously seen enhancing midline cerebellar mass is no longer visualized. No residual nodular postcontrast enhancement is seen. The calvarium is normal in marrow signal. The orbital contents are grossly unremarkable. The mastoid air cells and visualized paranasal sinuses are clear.
+IMPRESSION:
+
+1. Interval resection of the midline cerebellar mass via a suboccipital craniotomy with expected postsurgical changes as above. No residual enhancing mass visualized. Contunued follow-up recommended. 2. Effacement of the fourth ventricle with interval slight increase in the lateral and third ventricular. There is also partial effacement of the basal cisterns. These changes may suggest early obstructive hydrocephalus.

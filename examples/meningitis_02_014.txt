@@ -1,0 +1,7 @@
+Diseases: ['meningitis']
+FINDINGS:
+
+No acute hemorrhage no mass lesion no extra axial collections. Scattered foci of T2 prolongation in the bilateral white matter again noted. Cerebellar tonsils terminate just below the foramen magnum as before. The pituitary gland is normal in size neither expanded nor compressed. There is normal fluid in the optic nerve sheaths. No abnormal restricted diffusion. With contrast there is a mild prominence of leptomeningeal enhancement in the sulci somewhat more so than before. MRV shows patent dural venous sinuses.
+IMPRESSION:
+
+1. Still no evidence of venous thrombosis. 2. Scattered foci of signal abnormality in the white matter nonspecific. Differential diagnosis includes demyelinating inflammatory infectious vascular and ischemic etiologies. 3. Leptomeningeal enhancement slightly worse than prior study. Significance is unclear particularly in light of recent lumbar punctures which may cause meningeal enhancement although there are no other findings to suggest intracranial hypotension. Given history of breast cancer possibility of carcinomatous meningitis cannot be excluded.

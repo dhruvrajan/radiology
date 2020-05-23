@@ -1,0 +1,7 @@
+Diseases: ['cerebritis']
+FINDINGS:
+
+Within the right frontal lobe there are approximately 3 foci of increased T2/flair signal abnormality that demonstrate enhancement on postcontrast images. The largest focus measures approximately 8 mm in size. No associated mass effect is visualized. The foci of abnormal contrast enhancement do not demonstrate restricted diffusion. Moderate diffuse brain volume loss is visualized for the patient's stated age. No intracranial hemorrhage shift of midline structures mass effect or extra-axial fluid collections. Intracranial flow voids are preserved. No regions of restricted diffusion. Opacification of the left mastoid air cells is noted.
+IMPRESSION:
+
+1. Three subcentimeter foci of contrast enhancement in the right frontal lobe without restricted diffusion representing possible subacute ischemia in the setting of vasculitis in the current clinical setting. This is felt unlikely to represent cerebritis given the lack of restricted diffusion. A short term follow up MRI examination may be helpful for further evaluation. 2. Moderate diffuse brain volume loss. Findings were discussed with Dr. Mehta.

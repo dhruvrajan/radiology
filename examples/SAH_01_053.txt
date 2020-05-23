@@ -1,0 +1,7 @@
+Diseases: ['meningitis', 'meningitis']
+FINDINGS:
+
+Some images are motion degraded. There is no restricted diffusion to suggest acute infarct. There is no parenchymal hemorrhage midline shift mass effect or extra-axial collection. Axial FLAIR sequence demonstrates hyperintensity within the cerebral sulci bilaterally. This is a nonspecific finding which can be seen in this setting a high levels of inspired oxygen at the time of imaging. Subarachnoid hemorrhage and meningitis can have this appearance. Clinically correlate. The superior sagittal sinus straight sinus bilateral transverse and sigmoid sinuses are patent. The right transverse sinus is dominant a normal anatomic variant. Gradient echo sequence show no evidence of cortical vein thrombosis.
+IMPRESSION:
+
+1. No evidence of acute stroke. 2. No evidence of venous sinus thrombosis. 3. CSF FLAIR hyperintensity. This is a nonspecific finding which can be seen in this setting a high levels of inspired oxygen at the time of imaging. Subarachnoid hemorrhage and meningitis can have this appearance. Clinically correlate. ATTENDING RADIOLOGIST AGREEMENT: I agree with the preliminary report without modification. CSF FLAIR hyperintensity on the current clinical setting increases concern for meningitis. Recommend correlation with CSF sampling. These findings were discussed with the neurology resident caring for the patient at 11 a.m. on December 28 2010. I certify that I have personally reviewed this examination and agree with this report.

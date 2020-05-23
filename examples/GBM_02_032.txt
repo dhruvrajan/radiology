@@ -1,0 +1,7 @@
+Diseases: ['glioblastoma']
+FINDINGS:
+
+There is an enhancing mass in the left inferior temporal lobe. It shows rim enhancement character although there are multiple lobules with a separate ring enhancement. There is a cystic component which is not diffusion right in the center; however enhancing portions of the mass do show some decreased effusion which may indicate cellularity. Overall enhancing component measures approximately 3 cm in diameter with relatively little surrounding vasogenic edema or mass effect. There is one very tiny diffusion-bright focus in the right posterior frontal subcortical white matter which is a little dark on ADC maps and may represent a tiny subcortical ischemic focus which is acute or subacute (less than 10-14 days). Ventricles and CSF spaces are otherwise symmetric and moderately prominent probably age-appropriate. There are patchy hyperintensities in the periventricular and deep white matter on long-TR images which are nonspecific probably chronic small vessel ischemic changes.
+IMPRESSION:
+
+1. Aggressive appearing enhancing mass with multiple ring enhancing components likely some cellularity minimal local mass effect or edema and no midline shift or herniation. Pattern is most suggestive of high grade neoplasm glioblastoma is favored. 2. Tiny subcortical probable ischemic focus right posterior frontal white matter likely acute or subacute in age. 3. Parenchymal volume loss and probable chronic white matter small vessel ischemic changes.

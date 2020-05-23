@@ -1,0 +1,7 @@
+Diseases: ['contusion']
+FINDINGS:
+
+There are bilateral pleural effusions which are incompletely imaged.
+IMPRESSION:
+
+1. Small focus of restricted diffusion lateral aspect right temporal lobe which may reflect a small contusion or less likely small focus of acute/subacute infarct. 2. New layering hemorrhagic products right greater than left lateral ventricles. Consider correlation with head CT. Probable small right subdural effusion. 3. Nonspecific white matter changes as detailed. Given patient age favor that this probably reflects sequela of microvascular ischemic changes. No convincing evidence of suggest posterior reversible encephalopathy syndrome. 4. Mild edema within the pre-vertebral soft tissues which is nonspecific. While this could reflect inflammatory changes related to endotracheal/enteric tube placement or may reflect volume overload subtle ligamentous injury cannot be entirely excluded. There is no frank evidence of ligamentous discontinuity to suggest frank ligamentous rupture. Mild nonspecific edema within the paraspinous soft tissues and to a lesser degree intraspinous soft tissues. 5. Spondylotic changes of the cervical spine overall moderate to marked with marked canal narrowing at C4-5 with suggestion of mild cord signal abnormality at this level. Multilevel foraminal narrowing as detailed. 6. Bilateral pleural effusions incompletely imaged.

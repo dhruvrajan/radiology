@@ -1,0 +1,7 @@
+Diseases: ['migraine', 'contusion']
+FINDINGS:
+
+There are a few punctate foci of T2 prolongation within both cerebral hemispheres nonspecific. Following contrast administration none demonstrate enhancement. There is no intracranial hemorrhage extracerebral fluid collection midline shift or mass effect. No areas of restricted diffusion. Visualized paranasal sinuses and mastoid air cells are clear. Evaluation of the cervical and thoracic spine demonstrates normal alignment. No focal marrow lesions are identified. The cervical and thoracic spinal cord are intrinsically normal in size without focal regions of volume loss or expansion. T2-weighted images do not show lesions in the spinal cord that can be confirmed in two imaging planes. Following contrast administration there is no pathologic enhancement. At C5/6 there is a right paracentral disc protrusion with an annular tear that effaces the CSF space and deforms the ventral surface of the spinal cord; there is no associated signal abnormality.
+IMPRESSION:
+
+1. Few scattered nonspecific foci of T2 prolongation within the white matter. Differential considerations include sequela of migraine headaches vasculitis Lyme's disease or demyelinating process. 2. No areas of signal abnormality within the spinal cord. 3. Right paracentral disc contusion at C5/6 with annular tear that deforms the ventral surface of the spinal cord without associated signal abnormality.

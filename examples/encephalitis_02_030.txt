@@ -1,0 +1,7 @@
+Diseases: ['encephalitis', 'myelinolysis', 'myelinolysis']
+FINDINGS:
+
+Motion artifact despite pulse the acquisition making exam suboptimal. There is no restricted diffusion in the brain. There are foci of increased T2/FLAIR signal in the white matter which are nonspecific. There are also signal abnormalities in the pons midbrain and bilateral basal ganglia also nonspecific. The medial thalami appear particularly involved (see series 5 image 17). The ventricles and sulci are normal in size and position. No extraaxial fluid collection. There is no abnormal enhancement. No mass lesions. No intracranial hemorrhage. The intracranial flow voids are normal. The calvarium is normal. The orbits are normal. The paranasal sinuses are normal.
+IMPRESSION:
+
+1. Motion degraded study. 2. No acute ischemia no abnormal enhancement. 3. Nonspecific white matter signal perhaps chronic ischemic disease. 4. Nonspecific signal changes in pons midbrain basal ganglia and bilateral thalami. Differential diagnosis is broad and includes Wernicke's disease viral encephalitis osmotic myelinolysis chronic ischemic change or perhaps an unusual variant of drug toxicity. Of note there are case reports of osmotic myelinolysis associated with hyperglycemia.

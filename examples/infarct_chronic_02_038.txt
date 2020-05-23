@@ -1,0 +1,7 @@
+Diseases: ['infarction']
+FINDINGS:
+
+There is T2/FLAIR signal abnormality and restricted effusion within the posteromedial right frontal lobe compatible with right ACA territory infarction. Mild associated enhancement is identified. There is no significant mass effect or midline shift. There are no acute intra or extra-axial areas of hemorrhage or abnormal fluid collections. Prominence of the ventricular system and sulci is compatible with volume loss. Marked confluent and discrete areas of T2/FLAIR hyperattenuation again noted throughout the white matter compatible with sequela from chronic microvascular ischemic change. Flow voids are maintained within the anterior and posterior circulation. The mastoid air cells orbits and paranasal sinuses are grossly normal. Bone marrow signal is unremarkable.
+IMPRESSION:
+
+1. Acute/subacute infarction within the posteromedial right frontal lobe as detailed above. 2. Volume loss and sequela from extensive small vessel ischemic disease. The findings were discussed with Dr. Kapur @ 1:12 pm on 3/15/2009.

@@ -1,0 +1,7 @@
+Diseases: ['thrombosis']
+FINDINGS:
+
+There has been interval right suboccipital craniotomy for resection of the previously described enhancing extra-axial right posterior fossa mass. There are post surgical changes including blood products in the surgical cavity intracranial gas small extra-axial and soft tissue collections at the craniotomy site. Mass effect on the regional sulci and the fourth ventricle as well as midline shift are grossly stable. There is no enhancement to suggest residual tumor. There is a small area of cytotoxic edema medial to the resection cavity. Venogram reveals partial thrombosis of the right transverse sinus. The right sigmoid sinus appears patent but there is suggestion of focal thrombus at the junction of the right sigmoid sinus and jugular vein.. The remainder of the venous system is patent.
+IMPRESSION:
+
+1. Status post resection of enhancing extra-axial right posterior fossa mass with postsurgical changes. Small area of cytotoxic edema medial to surgical cavity. No evidence of residual tumor. Persistent mass effect. 2. Partial thrombosis of the right transverse sinus. Suggestion of focal thrombus at the junction of the right sigmoid sinus and jugular vein.

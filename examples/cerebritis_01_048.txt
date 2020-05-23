@@ -1,0 +1,7 @@
+Diseases: ['normal']
+FINDINGS:
+
+Normal appearance of the brain parenchyma. No restricted diffusion in the brain. No definite abnormal enhancement. Ventricles and sulci are normal in size and position. No extraaxial collection. No abnormal FLAIR signal or enhancement in parieto-occipital sulci where signal abnormality was noted on review of prior outside study. Small hypoenhancing left pituitary nodule better seen on prior study. The intracranial flow voids are normal. Right vertebral artery is dominant. The calvarium is normal. The orbits are normal. The paranasal sinuses are normal. Grossly stable 12-mm cyst adjacent to the right parotid gland (series 4 image 20) evaluated by ultrasound on 5/8/2013.
+IMPRESSION:
+
+1. Normal brain MRI. 2. Previously noted small left pituitary nodule not well visualized on current study. 3. Grossly stable 12 mm cyst adjacent to the right parotid gland which has now been evaluated by ultrasound. ATTENDING RADIOLOGIST ADDITIONS: I have personally reviewed the images and agree with the preliminary report with the following additions: Sagittal postcontrast T1 weighted sequences also obtained.

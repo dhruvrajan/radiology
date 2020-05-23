@@ -1,0 +1,7 @@
+Diseases: ['hydrocephalus']
+FINDINGS:
+
+Stable position of right frontal approach ventriculostomy catheter with tip terminating within the right lateral ventricle. There is a small amount of hemorrhage around the catheter tract. Ventricles are again noted to be dilated but stable to most recent CT given differences in technique. There is persistent intraventricular and subararchnoid blood. Small foci of restricted diffusion in bilateral parietal lobes and cerebellum. Again noted are periventricular and subcortical white matter areas of T2 prolongation nonspecific likely reflecting sequela of small vessel ischemic disease. Post-contrast images are motion degraded however there is no definite evidence of pathologic enhancement. There is patency of the intracranial circulation including the bilateral distal vertebral arteries basilar artery and its distal branches the bilateral intracranial internal carotid arteries and the A1 and M1 segments. The 4-5 mm right cavernous internal artery is less conspicuous but best appreciated on the MIP images. There are no regions of focal stenosis formation. Please note MRA is less sensitive for those aneurysms under 4 mm.
+IMPRESSION:
+
+1. Staus post placement of right frontal ventriculostomy cather changes with persistent hydrocephalus; unchanged. 2. Intraventricular and subarachnoid hemorrhage unchanged from prior study. 3. Incidental 4-5 mm right cavernous internal carotid artery best seen on MIP images; also stable.

@@ -1,0 +1,7 @@
+Diseases: ['hematoma']
+FINDINGS:
+
+Motion degraded study. The ventricles and sulci are diffusely prominent relating to volume loss. The corpus callosum is diffusely thinned. There are extensive confluent areas of periventricular white matter T2/FLAIR hyperintensities. Stable scattered areas of subcortical white matter signal abnormalities are also present. These likely represent sequela of chronic small vessel ischemic disease. A small subdural fluid collection in the posterior left parietal region has signal characteristics suggestive of subacute/chronic subdural hematoma. No evidence mass effect or midline shift. After the administration of gadolinium there are no areas of abnormal enhancement. The calvarium is normal in marrow signal. The orbital contents are grossly unremarkable. The mastoid air cells and visualized paranasal sinuses are clear.
+IMPRESSION:
+
+1. Stable extensive signal abnormalities within the white matter likely representing sequela of chronic small vessel ischemic disease.2. Volume loss. The corpus callosum is diffusely thinned.3. Small subdural fluid collection along the left parietal convexity likely small subacute/chronic hematoma.

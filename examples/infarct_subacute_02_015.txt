@@ -1,0 +1,7 @@
+Diseases: ['infarction']
+FINDINGS:
+
+There is late subacute infarction of the left caudate head and anterior putamen. Mild mass effect from edema associated with the infarction causes mild deformity of the anterior horn of the left lateral ventricle. There is no acute intracranial hemorrhage extracerebral fluid collection or midline shift. There is generalized cerebral and cerebellar volume loss more than expected for the patient's age. Additional foci of T2 and flair intensity of the bilateral periventricular and subcortical white matter are most consistent with chronic small vessel ischemic change however in this age group other etiologies such as demyelinating disease should also be considered. The visualized paranasal sinuses and mastoid air cells are clear.
+IMPRESSION:
+
+1. Late subacute infarction of the left caudate head and anterior putamen. 2. Periventricular and subcortical white matter changes most consistent with chronic small vessel ischemic disease. These findings were discussed with and confirmed by Dr. Tamba on March 20 2010 at 00:06. ATTENDING RADIOLOGIST AGREEMENT: I agree with the preliminary report without modification. Findings most likely reflect an infarct of the left basal ganglia. I certify that I have personally reviewed this examination and agree with this report.

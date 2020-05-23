@@ -1,0 +1,7 @@
+Diseases: ['oligodendroglioma']
+FINDINGS:
+
+The patient is status post left frontal craniotomy and resection of oligodendroglioma from the medial left frontal lobe which extended into the anterior right frontal lobe anterior corpus callosum and left cingulate gyrus. Adjacent to the surgical bed is a region of T2 prolongation and FLAIR hyperintensity which appears mildly increased from the prior examination. This region also extends more posteriorly into the left frontal cortex and left cingulate gyrus which is increased compared to the prior study. The region of signal abnormality involves botht the gray and white matter and does not enhance. This finding is in keeping with non-enhancing tumor. Within the anterior corpus callosum is a small focus of T1 isointense tissue which demonstrates peripheral rim enhancement. The size of this lesion and imaging characteristics are unchanged. No restricted diffusion is seen. Some increased susceptibility is present in the prior surgical bed representing old blood products. Few scattered nonspecific nonenhancing foci of T2 elongation and FLAIR hyperintensity are present in the left periventricular white matter as well of the right parietal lobe which are unchanged. Radiation changes are present within the bone marrow.
+IMPRESSION:
+
+1. Status post left frontal craniotomy with resection of oligodendroglioma. 2. Slightly increased nonenhancing tumor involving the left frontal cortex and left cingulate gyrus posterior to the resection cavity

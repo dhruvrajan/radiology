@@ -1,0 +1,7 @@
+Diseases: ['aneurysm', 'hydrocephalus']
+FINDINGS:
+
+Evaluation of multiple sequences are limited due to patient motion artifact. There are at least ten scattered small foci of restricted diffusion predominately in cortical left parietal and posterior frontal lobes as well as the bilateral occipital lobes representing infarction. There is no extraaxial collection. The large right-sided aneurysm is identified and measures 1.7 cm. Enhanced MRA of the brain is limited by patient motion. There is filling of the proximal portion of the coiled aneurysm. The central vasculature is grossly patent. There is stable intraventricular hemorrhage greater on the right. There is a stable right-sided ventriculostomy catheter. The lateral ventricles are mildly enlarged. There is bilateral maxillary mucosal thickening. These findings were discussed with and acknowledged by Dr. Robert Bailey the clinician caring for the patient at 1:54 pm on 7/6/2010.
+IMPRESSION:
+
+1. Multiple infarctions in the left parietal and posterior left frontal lobes and bilateral occipital lobes. 2. Small residual lumen in coiled aneurysm exam is markedly limited by patient motion. 3. Mild hydrocephalus.

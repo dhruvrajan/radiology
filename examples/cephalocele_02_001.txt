@@ -1,0 +1,7 @@
+Diseases: ['meningioma', 'schwannoma']
+FINDINGS:
+
+The mass at the right cavernous sinus just above the right cavernous carotid artery is stable in size since 3/9/11 but increased since 12/31/07. No significant narrowing of the right carotid artery. Stalk remains deviated to the left. The optic chiasm is not compressed. Slight prominence of the right lacrimal gland again noted. Left petrous apex cephalocele again noted. The cerebrum and cerebellum are normal in morphology - no mass lesion no hemorrhage no acute ischemia no abnormal enhancement. Scattered foci of T2 prolongation in the white matter are nonspecific but stable. The calvarium is normal in marrow signal intensity. The paranasal sinuses are clear.
+IMPRESSION:
+
+1. Stable right cavernous sinus mass. Differential diagnosis includes pituitary adenoma meningioma schwannoma hemangioma and granulomatous disease including sarcoid. 2. Left petrous apex cephalocele.

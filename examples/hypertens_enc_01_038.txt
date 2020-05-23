@@ -1,0 +1,7 @@
+Diseases: ['myelinolysis']
+FINDINGS:
+
+Motion degraded study. Pericentral areas of T2 hyperintensity in the central pons which demonstrates restricted diffusion. Given that the areas of restricted diffusion are linear and symmetric it is felt that this reflects artifact particularly since the patient's blood sodium levels have been within normal limits. Osmotic myelinolysis is felt to be less likely. Clinical correlation advised. Gradient echo images are negative for susceptibility artifact There is no acute intracranial hemorrhage extracerebral fluid collection midline shift or mass effect. The cerebral volume is appropriate for the patient's stated age. Scattered foci of subcortical white matter T2/FLAIR hyperintensity are nonspecific and may represent sequela of chronic small vessel ischemic disease. The calvarium is normal in marrow signal. The orbital contents are grossly unremarkable. The mastoid air cells and visualized paranasal sinuses are clear except for trace fluid in the left maxillary sinus and ethmoid air cells.
+IMPRESSION:
+
+1. Linear areas of restricted diffusion in the center for pons are felt to be artifactual discussed above. Osmotic myelinolysis is felt to be less likely. Clinical correlation advised.2. Nonspecific white matter T2 hyperintensities likely reflecting small vessel ischemic disease.Results were discussed Dr. Cottrell at 9 PM on 4/27/07.Attending

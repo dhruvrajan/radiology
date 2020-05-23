@@ -1,0 +1,7 @@
+Diseases: ['amyloid']
+FINDINGS:
+
+No comparison MRI studies of the brain are available. There are CT studies of the head most recent from 8/26/06. On the current study weighted imaging sequences are degraded by motion. Ventricles and CSF spaces are nearly symmetric and moderately prominent in excess of the expected for stated age of 73. There are patchy areas of increased intensity on long-TR images in the deep and periventricular white matter. Deep gray matter structures are also involved including the medial thalamus. There is abnormal increased signal intensity extending into the left cerebral peduncle malacic appearance. No abnormal enhancement. No acute ischemic findings. On gradient echo images there are foci of susceptibility in the anterior medial right temporal lobe and left posterior medial temporal lobe. These are nonspecific possibly old microbleeds cavernomas possibly amyloid angiopathy. Findings are concordant with comparison CT head trauma 8/26/06 although brainstem findings appear to have progressed since 11/9/1999 study.
+IMPRESSION:
+
+1. Moderate parenchymal volume loss and moderate to marked white matter signal abnormalities with malacic appearance also involving the gray matter and brainstem as described above nonspecific pattern but possibly chronic ischemic changes.2. Microbleeds versus cavernoma versus amyloid angiopathy medial temporal lobes as detailed above.

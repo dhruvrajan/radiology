@@ -1,0 +1,7 @@
+Diseases: ['hydrocephalus', 'aneurysm']
+FINDINGS:
+
+There is porencephalic dilatation of the atria and posterior horns of the lateral ventricles with periventricular white matter signal abnormality without diffusion restriction or enhancement likely related to periventricular leukomalacia given patient's history of cerebral palsy. Situated within the third ventricle there is a 7-8 mm mass with questionable enhancement. This does not cause obstruction of the lateral ventricles. There is no evidence of an acute transcortical infarct. There is no pathologic enhancement. There is no acute intracranial hemorrhage or midline shift. The visualized paranasal sinuses are grossly clear.
+IMPRESSION:
+
+1. Subcentimeter third ventricular mass with questionable enhancement without hydrocephalus. Differential considerations include a colloid cyst versus subependymoma. 2. Additional findings most likely representing sequela of periventricular leukomalacia. 3. Possible aneurysm near right internal carotid artery terminus. Recommend MRA of head for further evaluation.

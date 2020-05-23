@@ -1,0 +1,7 @@
+Diseases: ['hematoma']
+FINDINGS:
+
+There is a bilobed subacute subdural hematoma overlying the left cerebral hemisphere. Fluid-fluid levels in this collection suggest hemorrhage at different timepoints. These collections exert mild mass effect with sulcal effacement on the left frontal lobe. Scattered subacute subarachnoid blood is present in the sulci of the left frontal. The ventricles sulci and cisterns are otherwise symmetric and patent. Cerebral volume is somewhat diminished and may reflect patient age and/or treatments. No acute infarcts. Minimal periventricular white matter signal abnormality suggests small vessel ischemic disease. Flow voids are maintained in the anterior and posterior circulation as well as the superior sagittal sinus. Pituitary fossa posterior fossa and both orbits are unremarkable. There is proteinaceous material within both maxillary sinuses compatible with the provided history of fungal sinusitis. There is also mild mucosal disease involving the sphenoid and left ethmoid sinuses. No abnormal enhancing lesions in the brain or its covering.
+IMPRESSION:
+
+1. Subacute subdural hematoma on left with mild mass effect but no midline shift (see comment). 2. No evidence for leukemic metastases to brain or meninges.

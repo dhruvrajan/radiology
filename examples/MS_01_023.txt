@@ -1,0 +1,7 @@
+Diseases: ['normal']
+FINDINGS:
+
+Evaluation of the cervical spine demonstrates straightening of the cervical lordosis. The visualized vertebrae are otherwise in anatomic alignment. The spinal cord is normal in morhphology and signal intensity without pathologic enhancement. There are multilevel degenerative changes with disc osteophyte complexes at C3/4 C4/5 C5/6 and C6/7 and mild canal stenosis at C4/5 and C5/6. Mild thoracic degenerative changes are also seen. Extrarenal renal pelves bilaterally are noted.
+IMPRESSION:
+
+1. Findings in the supra and infra tentoraial white matter consistent with the given diagnosis of multiple sclerosis. 2. There is a lesion in the right centrum semiovale which demonstrated intrinsic T1 shortening on study from 2003. On the current exam there does appear to be mild enhancement and new diffusion restriction. This suggests active disease. There are no other new lesions in the brain. 3. Normal spinal cord.4. Spinal degenerative changes as described above.

@@ -1,0 +1,7 @@
+Diseases: ['metastasis']
+FINDINGS:
+
+A cortical to subcortical enhancing mass is seen within the left parietal lobe measuring 2.5 cm. Surrounding nonspecific FLAIR hyperintensity following the white matter is seen within the left parietal and frontal lobes and extends into the splenium and body of corpus callosum. Mass-effect with effacement upon the atria left lateral ventricle is noted. Left to right midline shift measures 6 mm. Subtle areas of restricted diffusion are noted within the periphery of the mass. No other enhancing masses are demonstrated. Trace fluid within the right mastoid air cells. Perfusion imaging demonstrates elevated cerebral blood volume within the mass. MR spectroscopy demonstrates elevated levels of choline with decreased NAA and consistent with malignancy. Lipid lactate peaks are demonstrated within the mass reflect necrosis.
+IMPRESSION:
+
+1. Cortical to subcortical irregularly enhancing mass with evidence of central necrosis and mass effect as above. Findings are consistent with high grade neoplasm probably primary glioma or alternately ovarian metastasis. I certify that I have personally reviewed the image and interpretation

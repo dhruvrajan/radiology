@@ -1,0 +1,7 @@
+Diseases: ['hydrocephalus']
+FINDINGS:
+
+Studies are significantly degraded by motion artifact particularly the cervical spine. MRI of the brain shows no acute hemorrhage no areas of restricted diffusion. The ventricles are enlarged out of proportion to the sulci as seen on CT. Cystic structure again noted in posterior fossae perhaps a mega cisterna magna versus arachnoid cyst. Cervical spine MRI shows grossly stable alignment. Multilevel degenerative changes with disk/osteophyte complexes at C3-4 C4-5 C5-6 indenting the ventral thecal sac and probably flattening the ventral cord. No marrow edema within the limits of the motion degraded study.
+IMPRESSION:
+
+1. No intracranial hemorrhage or edema. 2. Large ventricles; clinical correlation advised for hydrocephalus. 3. Motion degraded MRI of cervical spine no gross fracture or malalignment. If there is continued clinical concern suggest repeat study. 4. Multilevel degenerative changes with probable stenosis.

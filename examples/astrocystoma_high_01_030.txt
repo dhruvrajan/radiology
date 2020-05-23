@@ -1,0 +1,7 @@
+Diseases: ['encephalitis']
+FINDINGS:
+
+The ventricles and sulci are normal in size and configuration. There is no intracranial hemorrhage extracerebral fluid collection midline shift or mass effect. There is no pathologic parenchymal or meningeal enhancement. There is mild gyriform subcortical T2 prolongation in the right posteromedial frontal lobe see seres 4 image 33 without associated restricted diffusion mass effect or enhancement. Evaluation of the temporal lobes demonstrate symmetry in size and signal intensity of the hippocampi and parahippocampal structures. No focal volume loss or abnormal enhancement is identified. Temporal horns are symmetric in size. The paranasal sinuses show mild bilateral maxillary sphenoid and ethmoid mucosal thickening.
+IMPRESSION:
+
+1. Mild gyriform subcortical T2 prolongation in the right posteromedial frontral lobe without associated restricted diffusion mass effect or enhancement nonspecific and most likely related to an area of chronic small vessel ischemic injury in a patient of this age. However other etiologies including sequela of prior trauma encephalitis or low grade glioma are not excluded. 2 Symmetric temporal lobes as well as hippocampi and parahippocampal structures without abnormal signal or enhancement.

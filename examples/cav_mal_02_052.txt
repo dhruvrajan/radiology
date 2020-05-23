@@ -1,0 +1,7 @@
+Diseases: ['lymphoma']
+FINDINGS:
+
+Status post left suboccipital craniectomy. There are mild encephalomalacic changes in the left cerebellum and left middle cerebellar peduncle in keeping with prior treatment. There is a new focus of T2 hyperintensity in the dorsal ponto-mesencephalic junction descending to the facial colliculus with mild mass effect on the 4th ventricle measuring 9 x 14 mm on image 11 of series 3. This focus demonstrates intense enhancement. There is a small focus of T2 hypointensity in the left dorsal medulla possibly related to prior surgery. There is also a focus of enhancement in the superior right cerebellum which is unchanged from the prior study and likely represents a venous angioma. There are multiple maxillary sinus mucus retention cysts similar to the prior study. There is mastoid air cell opacification increased from the prior study. Findings discussed with Dr. Volpe 11:10 a.m. 12/6/07.
+IMPRESSION:
+
+1. New focus of enhancement in the right dorsal ponto-mesencephalic junction descending to the facial colliculus with mild mass effect upon the fourth ventricle. This is highly suspicious for recurrent tumor. Post treatment effects are considered less likely due to the extremely long interval though other neoplasms including lymphoma are not excluded. Preoperative imaging  if available may be helpful.

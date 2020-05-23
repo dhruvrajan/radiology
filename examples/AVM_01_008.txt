@@ -1,0 +1,7 @@
+Diseases: ['aneurysm']
+FINDINGS:
+
+Again seen are abnormal flow voids and enhancing tangle of vessels in the lateral aspect of the left inferior frontal gyrus just above the sylvian fissure in keeping with the known arteriovenous malformation. The appearance is grossly unchanged from MRI from August 4 2008. Also again seen is the venous aneurysm versus varix seen posterior to the AVM and is grossly unchanged in appearance. The left MCA is minimally larger. FLAIR imaging does not demonstrate gross signs of subarachnoid hemorrhage. Gradient echo susceptibility images do not demonstrate brain parenchymal hemorrhage. There is no midline shift. The ventricles and sulci are within range of normal for age. There is no abnormal extra-axial fluid collection. Diffusion weighted imaging does not demonstrate an acute infarct. There is otherwise no abnormal enhancement within the brain parenchyma. The cerebellar tonsils are low lying more so on the right displaced slightly below the foramen magnum approximately 5 to 6 mm with a slightly beaked appearance in keeping with borderline Chiari I malformation. The visualized paranasal sinuses are unremarkable except for stable thickening and small mucous retention cysts in the right maxillary sinus. The mastoid air cells are unremarkable.
+IMPRESSION:
+
+1. Unchanged appearance of arteriovenous malformation in left inferior frontal gyrus. Unchanged appearance of associated venous varix or venous aneurysm. 2. No MRI evidence of subarachnoid or brain parenchymal hemorrhage. 3. Borderline Chiari I malformation.

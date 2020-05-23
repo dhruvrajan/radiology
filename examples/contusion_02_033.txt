@@ -1,0 +1,7 @@
+Diseases: ['contusion', 'hematoma']
+FINDINGS:
+
+Ventricle and sulci are normal size for patient's age. Again seen is the area of the hemorrhagic contusion overlying the right frontal lobe with areas of susceptibility artifact on GRE. There is also abnormal T2 signal in the left frontal cortex consistent with patient's known left frontal contusion/subarachnoid hemorrhage. Overall appearance is not significantly changed when compared to the most recent CT. T1 hyperintensity with associated T2 isointensity is also noted in the left parietal region consistent with a tiny amount of subdural hematoma. No abnormal parenchymal enhancement identified. Expected to a flow voids of the intracranial vessels are patent. There is a small right frontal scalp hematoma. Visualized paranasal sinuses are normal in appearance.
+IMPRESSION:
+
+1. Stable right frontal hemorrhagic contusion and left frontal cortical contusion/subarachnoid hemorrhage. 2. Trace amount of left subdural hematoma. Findings discussed with and acknowledged by Dr. Endress at 1240 hrs 07/10/2009.

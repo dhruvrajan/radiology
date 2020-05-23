@@ -1,0 +1,7 @@
+Diseases: ['hematoma']
+FINDINGS:
+
+There is a T1 hyperintense subdural collection overlying most ofthe right cerebral hemisphere and right interhemispheric falxwhich demonstrates susceptibility on gradient echo sequences.There is no restricted diffusion or abnormal enhancement. Thesefindings are most representative of a subdural hematoma. There isvery mild mass effect with minimal sulcal effacement.There is no midline shift. The ventricles cisterns and sulciare normal in size and configuration. Following contrastadministration there is no pathologic enhancement.The visualized paranasal sinuses are clear.
+IMPRESSION:
+
+1. Right hemispheric subdural hematoma with very minimalassociated sulcal effacement as detailed above.Transcribed by: Interface TalkStationLast Edited by: Interface TalkStation

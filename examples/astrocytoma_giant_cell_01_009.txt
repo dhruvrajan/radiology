@@ -1,0 +1,7 @@
+Diseases: ['astrocytoma', 'hydrocephalus', 'astrocytoma']
+FINDINGS:
+
+There are multiple foci of abnormal signal intensity on a long-TR images peripherally in some cases subcortical and others involving cortex with some thickening of cortex left greater than right overall stable appearance compared to prior. Focus of susceptibility lateral margin left lateral ventricle suggestive of hamartoma techniques are different between studies but this is probably stable. In addition there is an enhancing nodule adjacent to left foramina from Monroe most suggestive of subependymal giant cell astrocytoma without evidence of hydrocephalus or change since prior small focus of susceptibility near this lesion as well. Diameter of enhancing focus measures about 10 mm transverse and about 12-13 mm superior-inferior similar to prior study accounting for differences in technique and slice angulation. There is a second enhancing focus near the right transverse foramen of Monroe which measures about 3 mm transverse in greatest transverse diameter appears more vascular on axial images but suspect solid on axial FLAIR and coronal postcontrast images however stable over time.
+IMPRESSION:
+
+1. Probable left subependymal giant cell astrocytoma with focal calcification or nearby subependymal hamartoma stable and without hydrocephalus. 2. Probable additional small subependymal giant cell astrocytoma near right foramen of Monro also stable. 3. Calcified subependymal hamartoma left lateral ventricle margin multiple cortical and/or subcortical tubers peripherally stable.

@@ -1,0 +1,7 @@
+Diseases: ['migraine']
+FINDINGS:
+
+Redemonstrated are a few subcortical and deep white matter foci of increased FLAIR signal in the frontal lobes. Otherwise the brain parenchyma is unremarkable. There are no areas restricted diffusion. There is no susceptibility artifact. The ventricles and sulci are normal in size for the patient's stated age. No extraaxial collection.
+IMPRESSION:
+
+1. No acute intracranial abnormality. 2. Redemonstrated nonspecific small foci of FLAIR hyperintensity in the frontal lobe white matter. This can be seen in the setting of migraine headaches among other etiologies. ATTENDING RADIOLOGIST AGREEMENT: I have personally reviewed the images and agree with the preliminary report without modification. Hypoplastic clivus. I certify that I have personally reviewed the image and interpretation and agree with the findings in this report.

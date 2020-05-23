@@ -1,0 +1,7 @@
+Diseases: ['infarction']
+FINDINGS:
+
+There are a few small foci of hyperintense T2 signal within the subcortical and periventricular white matter nonspecific and possibly related to chronic ischemic white matter changes. There is a focal area of hyperintense T2 signal with associated encephalomalacia within the left inferior cerebellar hemisphere compatible with an infarction. Patchy enhancement at this site suggest a subacute nature of the infarction. There is no restricted diffusion to suggest acute infarction. No additional areas of pathologic enhancement. There is no acute intracranial hemorrhage extra-axial fluid collection mass effect or midline shift. There is a left maxillary sinus mucous retention cyst.
+IMPRESSION:
+
+1. Probable chronic ischemic white matter changes. 2. Left cerebellar infarction likely subacute in nature. No evidence of acute infarction. Attending note: I agree with the report above and have personally reviewed the images. There is a prominent vessel in the midline extending into the superior vermis. There is a blush of enhancement after administration of contrast in the superior vermis CT image 10 on series 6. These findings are most typical for a developmental venous anomaly.

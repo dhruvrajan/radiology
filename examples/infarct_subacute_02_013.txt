@@ -1,0 +1,7 @@
+Diseases: ['infarction']
+FINDINGS:
+
+Please note that the images are slightly degraded by motion artifacts. Ventricles sulci and cisterns are symmetric and patent. There has been slight increase in the ventricular size. There are several new small foci of abnormally restricted diffusion and T2 prolongation in the left frontal lobe and left frontoparietal region. There is one in the centrum semi-ovale adjacent of the left lateral ventricle. The others are located more peripherally in the gray matter. These findings are consistent with new acute/subacute infarcts in the left MCA territory. Again seen are areas of abnormal T2/FLAIR signal in bilateral occipital lobes in keeping with the previous PCA territory infarcts left larger than right. Following contrast administration there is enhancement in these areas. There is no mass mass effect or intracranial hemorrhage. No extraaxial fluid collections. Pituitary fossa posterior fossa and both orbits are unremarkable.
+IMPRESSION:
+
+1. Several new small foci of acute/subacute infarction in the left MCA territory. 2. Evolving bilateral PCA territory infarcts left greater than right now enhancing. 3. Slight interval increase in ventricular size since last MRI. Dr. Sander was notified of these findings at 18:10.

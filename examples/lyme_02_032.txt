@@ -1,0 +1,7 @@
+Diseases: ['meningitis', 'thrombosis']
+FINDINGS:
+
+There is slightly thickened slightly nodular enhancement of the basilar meninges and over the inferior bilateral temporal poles. There is a 4 mm focus of enhancement in the left thalamus without associated abnormal T2/flair signal and with associated abnormal susceptibility in keeping with a small cavernoma. There is T2 signal prolongation greater than expected for age in the periventricular and subcortical white matter of the right frontal operculum left frontal and left parietal lobes. Ventricles and sulci are normal in size and configuration. The calvarium is normal in marrow signal. MRV demonstrates loss of flow related signal in the proximal right transverse sinus confirmed on two planes likely due to stenosis however the possibility of thrombosis cannot be definitely excluded. The remainder of the MRV examination is unremarkable
+IMPRESSION:
+
+1. Thickened slightly nodular enhancement of the basilar meninges concerning for carcinomatous meningitis. Correlation with lumbar puncture is recommended. 2. Loss of flow related signal in the proximal right transverse sinus may represent focal stenosis vs. thrombosis. 3. Nonspecific white matter T2 signal prolongation greater than expected for age without associated enhancement. Differential diagnosis includes demyelination vasculitis lyme disease and other more rare etiologies.

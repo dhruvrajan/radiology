@@ -1,0 +1,7 @@
+Diseases: ['hydrocephalus']
+FINDINGS:
+
+There is interval resolution of an enhancing lesion within the cerebral aqueduct and resolution of associated lateral and third ventricular hydrocephalus; previously seen transependymal flow of CSF has resolved and ventricular size has improved. In addition a focus of enhancement within the left cerebellar hemisphere seen previously is no longer present and now there is a focus of susceptibility within this region representing a microhemorrhage. No definite new abnormal enhancement is seen to suggest new metastases. There is a questionable focus of enhancement in the left cerebellum without signal abnormality on FLAIR which is probably artifactual. No extra-axial fluid collections or mass effect. No evidence of acute infarct or intracranial hemorrhage. Sulci and and cisterns are symmetric and patent. Flow voids are maintained in the anterior and posterior circulation as well as superior sagittal sinus. Pituitary fossa and orbits are unremarkable There are polyps versus retention cysts within the right sphenoid sinus and left maxillary sinus.
+IMPRESSION:
+
+1. Interval resolution of enhancing lesion within the cerebral aqueduct and resolution of obstructive hydrocephalus. 2. Resolution of previously seen enhancing nodule within the left cerebellar hemisphere. 3. No definite new brain metastases. I certify that I have personally reviewed the image and interpretation for this examination and agree with the findings in this report.

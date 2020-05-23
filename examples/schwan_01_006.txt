@@ -1,0 +1,7 @@
+Diseases: ['meningioma', 'schwannoma']
+FINDINGS:
+
+Again noted is an extra-axial mass in the left prepontine cistern with stable mass effect upon the pons. The mass enhances homogeneously and overall measures 1.6 x 0.9 x 1.3 cm and allowing for differences in measurement technique and patient positioning is stable. Again noted are multiple nonspecific T2 hyperintensities in the periventricular and deep white matter which in a patient of this age likely represent sequela of small vessel ischemic disease. There is a faint small focus of enhancement in the right frontal lobe seen on prior exams. No other areas of abnormal enhancement. No ventriculomegaly midline shift or extra-axial fluid collection. The paranasal sinuses and mastoid air cells are essentially clear. Vascular fluids are preserved. Evidence of bilateral eye surgery.
+IMPRESSION:
+
+1. Extra-axial mass in the left prepontine cistern which likely represents a meningioma which is little changed compared to recent and more distant prior studies back to 2002. Less likely this could also represent a 5th nerve schwannoma. 2. There is a stable faint small focus of enhancement in the right frontal lobe which likely represents a small development venous anomaly or telangiectasia.

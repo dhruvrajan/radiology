@@ -1,0 +1,7 @@
+Diseases: ['lipoma']
+FINDINGS:
+
+Stable 5 x 2 mm left superior cerebellar vermis curvilinear focus of T1 hyperintensity. Its imaging features however correspond to that of fat. There is a CT scan from presbyterian hospital it confirms that finding on CT. This has imaging features typical for midline lipoma and of no clinical significance. No focal brain parenchymal abnormalities extra-axial fluid collections or mass effect. Stable scattered foci of T2 prolongation in bilateral frontoparietal subcortical white matter and centrum semiovale nonspecific likely small vessel ischemic change. No evidence of acute infarct or intracranial hemorrhage. Ventricles sulci and cisterns are symmetric and patent. Flow voids are maintained in the anterior and posterior circulation as well as superior sagittal sinus. Pituitary fossa and orbits are unremarkable No abnormal enhancement in the brain or its coverings
+IMPRESSION:
+
+1. Stable curvilinear focus high signal intensity on T1-weighted imaging most consistent with a midline lipoma of no significance. I certify that I have personally reviewed the image and interpretation for this examination and agree with the findings in this report.

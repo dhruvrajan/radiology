@@ -1,0 +1,7 @@
+Diseases: ['aneurysm']
+FINDINGS:
+
+Diffusion weighted imaging shows no acute ischemia. Susceptibility artifacts anteriorly perhaps from a foreign body. No mass lesion no extra axial collection no hydrocephalus. Scattered areas of signal abnormality in the white matter and deep gray nuclei are nonspecific but likely represent chronic ischemic change. Incidental proteinaceous cyst in left maxillary sinus. MRA shows no evidence of occlusion. Atherosclerotic change in bilateral cavernous carotid arteries. Small 2-3 mm aneurysm at right supraclinoid ICA.
+IMPRESSION:
+
+1. No acute ischemia no acute hemorrhage no mass lesion. 2. Scattered chronic ischemic changes. 3. Bilateral cavernous carotid atherosclerotic disease. 4. Small 2-3 mm aneurysm at right supraclinoid ICA.

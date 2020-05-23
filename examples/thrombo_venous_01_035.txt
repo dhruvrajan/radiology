@@ -1,0 +1,7 @@
+Diseases: ['normal']
+FINDINGS:
+
+Ventricles are normal in size and position. No intracranial hemorrhage extracerebral fluid collection midline shift or mass effect. No parenchymal signal abnormality. No diffusion abnormalities or pathologic enhancement. Diffuse mucosal thickening noted throughout the bilateral maxillary sinuses with mild mucosal thickening in the ethmoid air cells. Remainder of the paranasal sinuses and mastoid air cells are clear. MR venogram demonstrates patency of the dural venous sinuses including the superior sagittal sinus straight sinus and bilateral transverse and sigmoid sinuses. Proximal jugular veins are patent bilaterally. A prominent occipital sinus is noted on the right a normal variant.
+IMPRESSION:
+
+1. Normal brain. 2. Patency of the dural venous sinuses. 3. Sinus disease as described.

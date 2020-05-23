@@ -1,0 +1,7 @@
+Diseases: ['contusion']
+FINDINGS:
+
+Some of the sequences are degraded by motion artifact. There is one and possibly several other smaller FLAIR hyperintensities in the subcortical white matter of the anterior left frontal lobe and possibly one in the right frontal lobe likely representing contusions. There is a curvilinear flair signal abnormality in the left cerebellar hemisphere which demonstrates T1 shortening. This may represent contusion or hemorrhage. No other parenchymal signal abnormalities seen on the flair sequence. Artifact in the left frontal scalp region corresponding skin staples seen on CT. There is no acute infarct extracerebral fluid collection midline shift or mass effect. The cerebral volume is appropriate for the patient's stated age. Mucosal thickening involving the ethmoid sphenoid left greater than right maxillary sinuses and bilateral mastoid air cells.
+IMPRESSION:
+
+1. At least one and possibly several other smaller contusions in the anterior left frontal lobe and possibly a small one in the right frontal lobe. Signal abnormality in the left cerebellar hemisphere may represent contusion or hemorrhage. Follow up imaging is advised. 2. Incomplete exam as patient unable to tolerate further imaging due to pain. Repeat imaging including gradient echo sequence may be performed. Above findings discussed with and acknowledged by Dr. Rodriguez from the trauma service at 11:40 p.m. 2/24/09. Attending interpretation: Agree with above.

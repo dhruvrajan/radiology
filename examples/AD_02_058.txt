@@ -1,0 +1,7 @@
+Diseases: ['amyloid']
+FINDINGS:
+
+There is diffuse ventriculomegaly greatest in the lateral ventricles likely due to central atrophy although a component of hydrocephalus is not excluded. There is sulcal enlargement as well but not greater than commonly seen for age. There is mild periventricular and subcortical T2/FLAIR hyperintensity likely sequelae of chronic ischemia. While hippocampal formations appear small they are symmetric and is should be compared to age matched controls with Alzheimer's dementia is a consideration. There are punctate foci of susceptibility artifact in the cortex/subcortical region of the cerebra likely due to amyloid angiopathy. There are no foci in the basal ganglia or brainstem. There is no restricted diffusion. There is no abnormal enhancement in the brain. The extra axial spaces are without evidence of mass or blood. The vascular flow voids are unremarkable. The calvarium is normal. There is mild paranasal sinus mucosal disease with fluid in the right maxillary sinus.
+IMPRESSION:
+
+1. Foci of cerebral susceptibility artifact which could reflect age related amyloid angiopathy. 2. Atrophy more than I would expect for this age. I certify that I have personally reviewed the image and interpretation for this examination and agree with the findings in this report.

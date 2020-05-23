@@ -1,0 +1,87 @@
+
+* Standardize Datasets
+*** Labeled 
+    - Findings -> KF Label
+    - KF Labels -> Disease (known_ddx)
+    - Findings + [Impression] -> Disease (extracted, known_ddx)
+    - Findings (masked) + [Impression (masked)] -> Disease
+    - Findings Sentences / Phrases -> Impression Alignment
+*** Unlabeled
+    - 
+* Label Diseases from Impression
+*** Classifier
+*** Label
+*** Evaluation
+* Label Key Features from Findings
+* Label Findings with Salience (Match with Impression)
+  
+* Predict Disease from Findings
+  
+*** Mask Disease from Labeled Findings
+    
+*** Bayes Net
+    
+*** Predict from Findings + Impression (should pick up keyword?)
+    
+  | CLF | Precision at 5 |
+  | LR  |          0.182 |
+  |     |                |
+  
+* Investigate NegBio
+  
+*** 
+
+New labels
+42 LR
+38 LSTM
+31 Conv
+
+
+Masking disease names (aliases)
+
+LR: 0.28
+LSTM 0.18
+Conv: 0.2
+
+
+What to do with multi disease prediction?
+I'm looking through examples to see what to do for 
+predicting things with masked disease names.
+
+
+Evaluation mechanism?
+Compare distribution with that of bayes net?
+
+
+Working on KF label to disease predictor:
+ train on 335 and also on unlabeled.
+
+trained on 335, 20% split, non CV: 35%
+trained on all with predicted kfs, 41%
+Bayes net on all with predicted KFs 46%
+
+Bayes net on 
+
+How do neural net modles compare to models with pieces of discrete reasoning, like bayes net
+Use negbio -> neural net.
+
+Have a detailed comparison.
+
+
+Recall at 5.
+
+
+Train something on key features, wap in negbio, and we can do better.
+
+-> Is expert knowledge useful?
+
+
+Figure out what the models are looking at, describe why end to end learning isn't working well.
+
+
+
+
+==============================================================================================
+Logistic Regression
+
+limit to umls concepts; replace "trigger" with umls concept token, mask disease name => 34%

@@ -1,0 +1,7 @@
+Diseases: ['meningitis', 'hydrocephalus']
+FINDINGS:
+
+Images are mildly motion degraded on multiple acquisitions. No acute intracranial hemorrhage midline shift nor herniation. Increased conspicuity and extent of sulcal flair hyperintensity and now diffusely involving the right cerebral hemispheric sulci and throughout the posterior fossa present to a lesser extent along the left cerebral sulci. Apparent decreased in leptomeningeal enhancement relative to prior examination likely secondary to post contrast imaging being obtained utilizing gradient echo rather than spin echo secondary to patient motion. There is also increased conspicuity of associated cortical/subcortical T2 prolongation most prominent in the right insula (series 11 image 19) and right parietal lobe (series 11 image 21). Worsening hydrocephalus with worsening transependymal edema. Mild biethmoidal air cell mucosal thickening. Mastoid air cells are underdeveloped and subtotally opacified.
+IMPRESSION:
+
+1. Worsening carcinomatous meningitis. 2. Worsening hydrocephalus with transependymal edema. ATTENDING RADIOLOGIST AGREEMENT: I have personally reviewed the images and agree with the preliminary report without modification.

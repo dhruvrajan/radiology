@@ -1,0 +1,7 @@
+Diseases: ['encephalitis', 'encephalitis']
+FINDINGS:
+
+MRI examination of the brain was performed by acquiringsagittal T1 axial T2 FLAIR gradient echo diffusion and postcontrast sequences. There no prior studies at this institutionfor comparison.Today's examination demonstrates minimally increased signal withinthe hippocampi bilaterally. Additionally there are severalcystic structures within the hippocampi. These are on the orderof 1 to 3 mm in size. There is no abnormal signal within thecingulate gyri or insular region is. The remainder the temporallobes is normal.On the FLAIR axial sequence there is slightly increased signalwithin the mammillary bodies bilaterally. There is no definiteabnormal signal within the mammilo-thalamic tracks. The deep graynuclei and peri-rolandic areas are normal.There are no intracranial hemorrhages. There are no masses.There is no mass effect or midline shift. Diffusion weightedimaging is unremarkable. There is no abnormal enhancement.
+IMPRESSION:
+
+1. Slightly increased signal within the hippocampi with smallcysts as well. These findings could possibly be related to aherpes encephalitis. Alternatively this may be sequelae of priorhypoxic injury. Another possibility is a paraneoplastic syndrome.2. Suggestion of increased signal within the mammillary bodies.This would be an unusual presentation of herpes encephalitis andmetabolic abnormalities such as Wernicke's should be considered.Clinical history and results discussed with Dr. Tennyson on thedate of the examination at 1:39 PM.Transcribed by: Interface TalkStation

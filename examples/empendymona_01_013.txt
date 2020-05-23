@@ -1,0 +1,7 @@
+Diseases: ['metastasis', 'metastasis', 'metastasis']
+FINDINGS:
+
+Evolving post-operative changes from right craniotomy with resection cavity in right frontal lobe. Decreasing mass effect. With contrast solid nodular enhancement at the superior cavity is noted (series 14 image 22; series 15 image 25) up to 9 mm in thickness. Enlarging enhancing right cerebellar mass from 14 mm to 21 mm. No mass effect on the fourth ventricle no hydrocephalus. There is also a new 5 mm enhancing lesion in the right occipital cortex (series 14 image 17) consistent with another metastasis. Questionable 4 mm enhancing focus at anterior cord at the C1 level is only visible on the coronal sequence (series 15 image 18) and may represent another metastasis vs. artifact No acute ischemia. Non-enhancing nonspecific focus in right frontal white matter (series 13 image 19). The paranasal sinuses are clear. Calvarial marrow is heterogeneous.
+IMPRESSION:
+
+1. Post-operative changes from right frontal metastasis resection. 2. Solid nodular enhancement at the superior cavity worrisome for recurrent tumor. 3. Interval growth of right cerebellar metastasis now 21 mm. 4. New 5 mm metastasis in right occipital lobe. 5. Questionable enhancement at anterior cord at C1. Clinical correlation advised; consider dedicated cervical spine MRI.

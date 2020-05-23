@@ -1,0 +1,7 @@
+Diseases: ['hydrocephalus']
+FINDINGS:
+
+Multiple scattered nonspecific T2/FLAIR hyperintense foci throughout the subcortical deep and periventricular white matter are likely the sequela of chronic small vessel ischemic changes. There is no intracranial hemorrhage extracerebral fluid collection or mildline shift. There is mild prominence of the lateral ventricles with respect to the sulci representing central volume loss versus mild communicating hydrocephalus. Left sphenoid sinus mucosal thickening. The remainder of the sinuses are grossly clear. Evaluation of the pituitary gland demonstrates it to be asymmetrically enlarged on the left best seen on IM 10 SE 8. There is suggestion of a 5-mm focus mildly T1-hypointense and demonstrating hypoenhancement within the left pituitary gland. The optic chiasm is grossly normal in appearance. There is no suprasellar mass. The cavernous sinuses are unremarkable. Note is made of a left frontal scalp lipoma. There are bilateral lens prostheses. There is deformity of the right globe which could be artifactual secondary to perturbation of the magnetic field by hardware; clinical correlation.
+IMPRESSION:
+
+1. Asymmetrically enlarged left pituitary gland with suggestion of small T1-hypointense lesion demonstrating hypoenhancement. 2. Mild prominence of the lateral ventricles with respect to sulci central volume loss versus mild communicating hydrocephalus. I certify that I have personally reviewed the image and interpretation

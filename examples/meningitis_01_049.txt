@@ -1,0 +1,7 @@
+Diseases: ['meningitis']
+FINDINGS:
+
+There is diffuse T1 hyperintensity of the dura with mild enhancement. The signal suppresses on FLAIR sequences. No definitive leptomeningeal enhancement. There is hyperintensity in the periventricular subcortical and deep white matter nonspecific but likely secondary to small vessel ischemic changes. No abnormal enhancement seen within the brain parenchyma. There is no restricted diffusion in the brain. No mass lesions. The ventricles and sulci are normal in size and position. No extraaxial collection. The intracranial flow voids are normal. The calvarium is heterogenous in signal likely related to systemic disease and imaging with 3 Tesla magnet. The orbits are normal. The paranasal sinuses are normal.
+IMPRESSION:
+
+1. Diffuse dural thickening with mild pachymeningeal enhancement. No definite leptomeningeal enhancement. Findings are nonspecific but may represent meningitis or meningeal carcinomatosis. 2. No acute infarction or mass lesions in the brain. 3. Chronic small vessel ischemic changes in the white matter.

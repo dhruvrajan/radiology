@@ -1,0 +1,7 @@
+Diseases: ['oligodendroglioma', 'encephalomalacia', 'encephalomalacia', 'infarction']
+FINDINGS:
+
+There has been no significant interval change. Again noted are post operative changes from a right sided craniotomy. There is again a right temporal and frontal resection cavity with high T1 signal on precontrast imaging along the cortex and MCA territory encephalomalacia. There is stable appearing mass-like T2 hyperintensity in the insular region within malacic region. No enhancement around the resection cavity. No evidence of acute hemorrhage or midline shift. Ex vacuo dilatation of the right lateral ventricle without hydrocephalus. There are scattered nonspecific subcortical white matter T2 hyperintensities. No restricted diffusion. Wallerian degeneration likely present along right corticospinal tract. Again seen is trace mucosal thickening of the ethmoid sinuses. The remaining paranasal sinuses and mastoid air cells are clear. There is a mottled appearance of the scalp near the vertex only seen on T1-weighted images likely artifactual.
+IMPRESSION:
+
+1. Stable post operative appearance status post resection of a reportedly low-grade oligodendroglioma. Nonenhancing mass persists in the insular region in combination with post-operative change and encephalomalacia. No preop studies for comparison. 2. Stable appearance of encephalomalacia from prior right MCA infarction with Wallerian degeneration.

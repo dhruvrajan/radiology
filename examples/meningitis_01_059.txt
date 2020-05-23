@@ -1,0 +1,7 @@
+Diseases: ['meningitis']
+FINDINGS:
+
+Normal intracranial MRA with no evidence of occlusion hemodynamically significant stenosis aneurysm or AV malformation within the limits of resolution. Patent neck vasculature with no evidence of hemodynamically significant stenosis dissection aneurysm or pseudoaneurysm. Bilaterally there is 0% ICA stenosis by NASCET criteria.
+IMPRESSION:
+
+1. No acute ischemia. 2. Scattered areas of increased cortical T2 signal most prominently in the left temporal lobe but also in the right temporal lobe bilateral frontal lobes and bilateral parietal lobes. Differential considerations favor seizure activity or less likely an infectious meningitis. Other etiologies that can have this appearance are discussed above but do not seem to fit the clinical scenario. Consider EEG correlation. 3. Unremarkable MRA of the head and neck.

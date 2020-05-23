@@ -1,0 +1,7 @@
+Diseases: ['meningioma', 'hematoma', 'abscess', 'hematoma']
+FINDINGS:
+
+Again noted are postoperative changes from suboccipital surgery for meningioma resection. The hematoma in the superior cerebellum now shows high DWI signal and irregular rim-enhancement and there is persistent mass effect on the fourth ventricle and ascending herniation. Also noted are post-operative changes from right craniectomy with resection cavity in right frontal lobe with evolving hemorrhage in the basal ganglia. New DWI signal in the ventricles with irregular rim-enhancement similar findings in a previous right frontal ventriculostomy tract. Left frontal ventriculostomy remains in place. Lateral and third ventricles remain enlarged with FLAIR signal in the right hemisphere that may represent transependymal CSF flow. There is some enhancement in the right frontal lobe at the craniectomy site. There is also enhancement of the basal meninges.
+IMPRESSION:
+
+1. Post-operative changes from tentorial meningioma resection. 2. Ventriculitis/ependymitis with ventricular pus. 3. The superior cerebellar hematoma has probably become infected now abscess. 4. Probable infection of the right basal ganglia hematoma as well as along the previous right ventriculostomy tract.

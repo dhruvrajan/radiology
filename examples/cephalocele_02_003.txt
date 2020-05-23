@@ -1,0 +1,7 @@
+Diseases: ['normal']
+FINDINGS:
+
+The cerebellar tonsils are located 7 mm below the level of the foramen magnum but have a normal rounded contour. The cerebrum and cerebellum are otherwise unremarkable in appearance with no signal abnormality no edema no mass no hydrocephalus. The pituitary gland is not enlarged. The hypothalamic structures are normal in appearance. There is a rounded opacity in either the left sphenoid or posterior left ethmoid sinus with mild expansion. MRV of the head shows patent dural venous sinuses. The right system is dominant.
+IMPRESSION:
+
+1. Patent venous sinuses. 2. The cerebellar tonsils are located 7 mm below the level of the foramen magnum but have a normal rounded contour. Clinical correlation advised for Chiari symptoms. 3. No intracranial mass lesion. 4. Expansile lesion in the left sphenoid or posterior ethmoid sinus is nonspecific but may indicate a meningocele/cephalocele or perhaps inflammatory sinus disease. Suggest CT of the sinuses.

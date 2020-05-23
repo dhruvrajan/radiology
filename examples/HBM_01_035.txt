@@ -1,0 +1,7 @@
+Diseases: ['hemangioblastoma', 'hemangioblastoma', 'hemangioblastoma']
+FINDINGS:
+
+There has been prior suboccipital craniotomy for resection of a right cerebellar hemangioblastoma. Stable encephalomalacia in right cerebellum. There is a 1 cm rim-enhancing nodule in the left cerebellum stable since the study of 2009 increased in size since 2006 likely another hemangioblastoma. Several other punctate foci of enhancement are also again noted in the right cerebellum stable probably additional hemangioblastomas. Another enhancing focus is noted at the posterior surface of the upper cervical spinal cord. There is no restricted diffusion. The ventricles are normal in size and shape. The vascular flow voids are unremarkable. The orbits and paranasal sinuses are normal.
+IMPRESSION:
+
+1. Post-surgical changes from resection of right cerebellar hemangioblastoma. 2. Multiple cerebellar hemangioblastomas probably stable since 2009. A left hemangioblastoma has increased in size since 2006. 3. Another probable hemangioblastoma is noted at the right upper cervical spinal cord stable.

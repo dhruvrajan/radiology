@@ -1,0 +1,7 @@
+Diseases: ['infarction', 'infarction']
+FINDINGS:
+
+Images are degraded by patient motion. There are foci of restricted diffusion within the right corona radiata caudate nucleus and putamen consistent with acute infarcts. There is a focal region of facilitated diffusion within the anterior limb of left internal capsule/corona radiata with associated susceptibility artifact is consistent with an older infarct likely with petechial hemorrhage. There are mild subcortical periventricular and deep white matter flair hyperintensities while this is a nonspecific finding but in this patient's age group commonly associated with chronic small vessel ischemic change. No extraaxial fluid collections or mass effect. Ventricles and basal cisterns are patent. Minimal fluid signal identified in the mastoid air cells. Circumferential mucosal thickening within the bilateral maxillary and sphenoid sinuses. Prominent adenoidal tissue clinical correlation.
+IMPRESSION:
+
+1. Acute infarction within the right corona radiata caudate nucleus and putamen. No overt hemorrhagic transformation at present. 2. Old infarction within the anterior limb of left internal capsule/corona radiata. 3. Sequela of chronic small vessel ischemic change.

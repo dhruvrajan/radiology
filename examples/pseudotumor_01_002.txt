@@ -1,0 +1,7 @@
+Diseases: ['meningioma']
+FINDINGS:
+
+No interval acute infarction acute intracranial hemorrhage extra-axial collection midline shift hydrocephalus or effacement of basal cisterns. No significant interval change in the size of small approximately 7 mm enhancing iso to minimally T2 hyperintense extra-axial mass along medial right occipital lobe/ posterior interhemipheric falx most likely represents a meningioma. No mass effect vasogenic edema or midline shift. Small developmental venous anomalies noted in right hemisphere. Partially empty sella. Small nasopharyngeal cysts are noted. Bilateral paranasal sinuses and mastoids appear well pneumatized. Major intracranial flow voids are present.
+IMPRESSION:
+
+1. No significant interval change from prior scan. No interval acute intracranial findings. Stable extra-axial enhancing nodule medial to right occipital lobe/ posterior interhemispheric falx likely representing a meningioma. Follow up as clinically indicated.

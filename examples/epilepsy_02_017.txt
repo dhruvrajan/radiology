@@ -1,0 +1,7 @@
+Diseases: ['gliosis']
+FINDINGS:
+
+No focus of restricted diffusion is noted to suggest acute infarction. No interval acute intra-or extra-axial hemorrhage is noted. No enhancing mass lesions mass effect shift of midline structures hydrocephalus or effacement of basal cisterns is noted. Patient is status post left temporal lobectomy with surrounding areas of gliosis noted in the left temporal lobe and mild ex vacuo dilatation of the left lateral ventricle. No abnormal nodular/masslike enhancement is identified surrounding the resection cavity. There is cerebral and cerebellar volume loss possibly related to seizure medication clinically correlate. Evaluation of the right temporal lobe demonstrate mormal size and signal intensity of the hippocampus and parahippocampal structures. Mild mucosal thickening is noted in the paranasal sinuses. Bilateral mastoids appear unremarkable. No suspicious osseous lesions. Tiny pineal cyst.
+IMPRESSION:
+
+1. Patient is status post left temporal lobectomy with surrounding areas of gliosis and mild ex vacuo dilatation of the left lateral ventricle. No abnormal nodular/ masslike enhancement is identified surrounding the resection cavity. 2. No acute infarction acute intra-or extra-axial hemorrhage or enhancing mass lesions identified. See above.

@@ -1,0 +1,7 @@
+Diseases: ['normal']
+FINDINGS:
+
+Fluid structure in right middle cranial fossa anterior to the temporal lobe most likely represents arachnoid cyst. The ventricles are normal in size and configuration. The brain parenchyma is normal in morphology and signal intensity. There are no areas of abnormal enhancement or restricted diffusion. The susceptibility-weighted images show no evidence of intracranial blood product deposition. The visualized orbital contents are normal. The calvarium is normal in marrow signal. Mucosal changes in bilateral maxillary sinuses right sphenoid sinus bilateral ethmoids. MRV shows patency of the superior sagittal straight and right transverse sinuses. The medial left transverse sinus is hypoplastic. The left vein of Labbe drains into the more lateral transverse sinus; the left sigmoid sinus and jugular bulb are not well seen and may be hypoplastic.
+IMPRESSION:
+
+1. Normal MRI of the brain aside from arachnoid cyst in right middle cranial fossa. 2. Probable hypoplasia of left transverse sinus left sigmoid sinus and left jugular vein. 3. Inflammatory changes in the paranasal sinuses.

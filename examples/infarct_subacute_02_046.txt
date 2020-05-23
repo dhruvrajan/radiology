@@ -1,0 +1,7 @@
+Diseases: ['infarction']
+FINDINGS:
+
+Scattered foci of increased FLAIR signal are present in the periventricular white matter and are nonspecific; these do not enhance. In addition a focus of increased T2 signal is present in the superior left cerebellar hemisphere measuring 6 x 7 mm; this lesion has a rim of increased T1 signal and homogeneously enhances. The left cerebellar lesion is felt to be an area of late subacute infarction with secondary consideration to an active demyelinating lesion or metastatic disease. There is no restricted diffusion mass effect intracranial hemorrhage or midline shift. Gradient echo images demonstrate scattered foci of susceptibility possibly from prior microbleed likely related to hypertension less likely amyloid angiopathy or multiple cavernomas. Orbits and globes are unremarkable. Paranasal sinuses and mastoid air cells are clear. Intracranial flow voids are preserved. Calvarial marrow signal appears normal.
+IMPRESSION:
+
+1. No evidence of acute ischemia. Note that a perfusion study was unintentionally not performed. The patient can return for a repeat study. 2. Enhancing left cerebellar lesion etiology uncertain but probably a late subacute infarction. Follow up MRI is recommended in 6 weeks to ensure appropriate evolution.

@@ -1,0 +1,7 @@
+Diseases: ['hematoma']
+FINDINGS:
+
+Multiple images are degraded by motion artifact. Punctate focus of increased signal on diffusion weighted images without definite ADC correlate in left frontal subcortical white matter likely reflecting a tiny subacute infarct. Thin right frontal convexity and anterior interhemispheric subdural hematoma measuring 4 mm maximum thickness demonstrating mild redistribution since 11/17/12 MRI without overall increase in size. Minimal local mass effect slightly effacing the frontal convexity sulci. No midline shift. The ventricles and sulci are age-appropriate. Basal cisterns are patent. Moderate mucosal thickening in the ethmoidal air cells sphenoid sinuses and to a lesser extent the maxillary sinuses. Rightward nasal septal deviation.
+IMPRESSION:
+
+1. Punctate subacute infarct left frontal subcortical white matter. 2. Thin right frontal subdural hematoma with minimal local mass effect demonstrating mild redistribution without overall increase in size since 11/17/12. No significant mass-effect. 3. Moderate mucosal sinus disease.

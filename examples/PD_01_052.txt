@@ -1,0 +1,7 @@
+Diseases: ['migraine']
+FINDINGS:
+
+Rapid strep protocol MRI brain is performed with the following sequences: Axial flair axial diffusion weighted and axial gradient echo images.
+IMPRESSION:
+
+1. No acute infarct. 2. Few nonspecific tiny lesions in the subcortical white matter possibly reflecting patient's migraine history.

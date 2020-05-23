@@ -1,0 +1,7 @@
+Diseases: ['meningitis']
+FINDINGS:
+
+There is proteinaceous material layering in the occipital horns and demonstrating restricted diffusion suggestive of pus in the ventricles and ventriculitis. In addition there is abnormal flair signal in the sulci consistent with meningitis. There is no focal mass effect or midline shift. The basal cisterns are patent. Intracranial flow voids are maintained. There is mild mucosal thickening in the maxillary sinuses bilaterally the ethmoid air cells sphenoid sinus and to a much lesser extent the frontal sinuses. Small amount of fluid is also present in the mastoid air cells. There is abnormal marrow signal a nonspecific finding but can be seen with anemia and infiltrative disorders and as a normal variant.
+IMPRESSION:
+
+1. Findings consistent with ventriculitis and meningitis. No evidence of hydrocephalus at this time. 2. Abnormal marrow signal. See above. Discussed with and acknowledged by Dr. Hamilton at 0300 on 3/12/09.

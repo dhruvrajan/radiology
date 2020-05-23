@@ -1,0 +1,7 @@
+Diseases: ['migraine']
+FINDINGS:
+
+There is no acute intracranial hemorrhage extracerebral fluid collection midline shift or mass effect. The cerebral volume is appropriate for the patient's stated age. Nonspecific foci of flair hyperintensity within the subcortical and deep white matter of the frontal lobes. There is subtotal opacification of the right frontal sinus while this may reflect mucosal disease there may be an underlying fibro-osseous lesion such as an osteoma. This could be assessed with dedicated unenhanced sinus CT. The bilateral frontal sinuses left greater than right are under-developed a normal anatomic variant.
+IMPRESSION:
+
+1. Nonspecific foci of flair hyperintensity within the subcortical and deep white matter of the frontal lobes. These have been seen in this setting of vascular changes including migraine headaches. Underlying inflammatory process cannot be entirely excluded. Please note that this study is an unenhanced study. 2. There is subtotal opacification of the right frontal sinus while this may reflect mucosal disease there may be an underlying fibro-osseous lesion such as an osteoma. This could be assessed with dedicated unenhanced sinus CT.

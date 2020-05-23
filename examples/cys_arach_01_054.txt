@@ -1,0 +1,7 @@
+Diseases: ['encephalomalacia']
+FINDINGS:
+
+Stable appearance of moderate size left frontal encephalomalacia with associated susceptibility artifact from chronic blood products. There is a stable central enhancement. Associated thinning of the body of the corpus callosum has mildly worsened since the prior examination. Additional stable focus of FLAIR hyperintensity in the bifrontal subcortical white matter which is nonspecific. There is no intracranial hemorrhage extracerebral fluid collection midline shift or mass effect. Prominent cisterna magna versus small arachnoid cyst in the posterior cranial fossa. There is no pathologic enhancement. Small right maxillary sinus retention cyst. There is patency of the bilateral vertebral arteries. The bilateral common carotid cervical internal carotid and external carotid arteries are patent. There is no hemodynamically significant stenosis.
+IMPRESSION:
+
+1. Stable moderate sized left frontal encephalomalacia from old left frontal hemorrhage; associated corpus callosum thinning mildly progressed since prior study. 2. Patent neck vasculature.

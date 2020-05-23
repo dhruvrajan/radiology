@@ -1,0 +1,7 @@
+Diseases: ['amyloid']
+FINDINGS:
+
+No MRI evidence for metastatic disease. There is extensive deep and periventricular white matter T2/FLAIR signal abnormality and also in the pons likely representing advanced small vessel ischemic disease and chronic penetrating vessel small infarcts. There is also involvement of the splenium of the corpus callosum. There is a chronic left pontine punctate infarct with old microhemorrhage. Multiple punctate foci of susceptibility are seen within bilateral temporal right parietal and left occipital lobes pons and right thalamus likely represent changes from chronic hypertension. There is no sign of acute intracranial hemorrhage extracerebral fluid collection midline shift or mass effect. There is diffuse cerebral volume loss. Following contrast administration there is no pathologic enhancement. Incidental developmental venous anomaly is noted in the right occipital lobe. The visualized paranasal sinuses are grossly clear.
+IMPRESSION:
+
+1. No evidence for metastatic disease. 2. Extensive subcortical and periventricular small vessel ischemic disease and multiple penetrating vessel small infarcts. 3. Multiple small foci of susceptibility as detailed above may represent microhemorrhages from chronic hypertension. However amyloid angiopathy remains as a differential diagnosis in a patient of this age.

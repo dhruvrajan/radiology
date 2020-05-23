@@ -1,0 +1,7 @@
+Diseases: ['encephalitis']
+FINDINGS:
+
+There is a small nonenhancing 2 x 2 mm T1 and T2 hypointense nodule in the frontal horn of the left lateral ventricle which demonstrates susceptibility on gradient echo images and most likely represents small gas locule. Patient has history of prior LP; a follow up CT may be of some value. The brain parenchyma is otherwise normal. In particular there is no abnormal signal intensity in the temporal lobes or in the parietal/occipital lobes. No acute infarction intracranial hemorrhage masses midline shift or extra-axial collection. The ventricles and basal cisterns are patent. Mucosal thickening involving the maxillary sphenoid and frontal sinuses as well as bilateral ethmoidal air cells. Mucous retention cysts in both maxillary sinuses. The orbits are unremarkable.
+IMPRESSION:
+
+1. No abnormal signal intensity in the temporal or parietal/ occipital lobes. Please note that lack of abnormal signal intensity does not rule out herpes encephalitis or PRES. 2. Paranasal sinus disease as described above. 3. Incidental note of a punctate T1 and T2 hypointense nodule in the frontal horn of the left lateral ventricle with susceptibility which most likely represents small gas locule. Patient has history of prior LP (last night); a follow up CT may be of some value.

@@ -1,0 +1,7 @@
+Diseases: ['migraine']
+FINDINGS:
+
+There are small foci of symmetric bilateral T2/FLAIR hyperintensities in the anterior-inferior external capsules in the posterio inferior frontal lobes. These are nonspecific findings. These foci do not enhance with contrast and do not demonstrate restricted diffusion. Additionally there are punctate foci of subcortical T2/FLAIR hyperintensity in key bilateral frontal lobes. The ventricles and sulci are within range of normal for age. There is no mass effect or midline shift. There is no abnormal extra-axial fluid collection. Diffusion weighted imaging does not demonstrate an acute infarct. There is some mild volume loss in the superior aspect of the cerebellar vermis and slightly the superior aspect of the cerebellar hemispheres. There is no abnormal enhancement within the brain parenchyma. The visualized paranasal sinuses are unremarkable. The mastoid air cells are unremarkable.
+IMPRESSION:
+
+1. Foci of 2/FLAIR hyperintensity in the anteroinferior external capsules and subcortical frontal white matter. These all are very nonspecific findings which may be seen in small vessel ischemic changes migraine prior trauma demyelinating processes metabolic and neurodegenerative processes Lyme's disease vasculitis etc. The location is not typical for multiple sclerosis. 2. Mild volume loss in the superior cerebellar vermis and hemispheres. This is also nonspecific with multiple etiologies but can also be seen in chronic alchohol use. 3. No MRI evidence of a brain tumor.

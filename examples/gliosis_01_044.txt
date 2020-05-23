@@ -1,0 +1,7 @@
+Diseases: ['meningioma']
+FINDINGS:
+
+The right frontal surgical cavity shows stable encephalomalacia and T2 hyperintensity of gliosis without abnormal enhancement. Stable ex-vacuo dilatation of the right frontal horn and depression of the right frontal cranioplasty. T1 and T2 hyperintense material just deep to the cranioplasty site and along the left frontal convexity which demonstrates restricted diffusion. This likely represents evolving post surgical blood product (extracellular methemoglobin) however underlying infection is difficult to entirely exclude. Evolving blood product in the left superior frontal lobe without abnormal enhancement. There is decreased T2 prolongation in the left frontal lobe associated with this. Previously seen 7-8 mm dural based nodule in the right middle cranial fossa is stable and again demonstrates avid enhancement in keeping with a small meningioma. There is no restricted diffusion to suggest acute infarct. Scattered small foci of T2 prolongation within the white matter are nonspecific and most likely chronic small vessel ischemic disease. The visualized paranasal sinuses are grossly clear. Bilateral orbits skull base calvarium and the visualized soft tissue are unremarkable.
+IMPRESSION:
+
+1. Evolving post surgical changes as above. Probable postsurgical blood product in the bifrontal extra-axial space. This material does restrict on diffusion weighted sequences. Underlying infection is difficult to entirely exclude and close follow-up advised. 2. Stable 8 mm right middle cranial fossa meningioma.

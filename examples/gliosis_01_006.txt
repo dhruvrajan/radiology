@@ -1,0 +1,7 @@
+Diseases: ['encephalomalacia']
+FINDINGS:
+
+There are evolving postsurgical changes from right pterional craniotomy with near complete resolution of extra-axial fluid and blood. The previously described mass effect and right-to-left midline shift have resolved. Small amount of right anterior temporal encephalomalacia and gliosis more pronounced than prior exams probably post-surgical. The study is not a dedicated evaluation of the sellar/suprasellar region. However the rim enhancing cystic and solid sellar/suprasellar mass is again seen. At least on the sagittal sequence there is no significant change in the size of the cystic or solid portions of this lesion. Residual enhancement in the inferior aspect of the optic chiasm is probably similar but not well evaluated without the dedicated thin slice coronal imaging. The normal carotid flow voids are preserved and there is evidence of cavernous sinus thrombosis. The basal cisterns remain patent. No abnormal enhancement is present in the brain.
+IMPRESSION:
+
+1. Evolving and resolving post surgical changes as described above. More prominent right anteroinferior temoporal lobe encephalomalacia probably post-surigical changes. 2. The cystic and solid portions of the sellar/suprasellar mass are grossly unchanged when compared to the immediate post-operative imaging although signal characteristics has involved likely related to the evolution of post-surgical change. Suggest dedicated thin-section sellar imaging on follow-up.

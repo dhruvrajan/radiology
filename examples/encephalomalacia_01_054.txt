@@ -1,0 +1,7 @@
+Diseases: ['encephalomalacia']
+FINDINGS:
+
+The ventricles and sulci are prominent for age in keeping with mild volume loss. No hydrocephalus. There is encephalomalacia changes involving the right parietal lobe in the postcentral gyrus. There is no evidence of subarachnoid hemorrhage. There is multiple scattered FLAIR hyperintensities involving the bilateral basal ganglia subcortical deep and periventricular white matter. There is also probable FLAIR hyperdensity in the right cerebellar hemisphere. A focal small susceptibility artifact is seen in the right parietal lobe (image 16/5) probably representing mineralization. There is no restricted diffusion in the brain. No mass lesions. No extraaxial collection. The orbits are normal. The paranasal sinuses are normal.
+IMPRESSION:
+
+1. No acute ischemic infarction or subarachnoid hemorrhage. 2. Encephalomalacia in the right parietal lobe. 3. Multiple scattered FLAIR hyperintensities involving the bilateral basal ganglia subcortical deep and periventricular white matter. The findings likely represents sequela of prior infarcts and a component of HIV encephalopathy. 4. Mild atrophy.

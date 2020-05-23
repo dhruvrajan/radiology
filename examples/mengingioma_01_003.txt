@@ -1,0 +1,7 @@
+Diseases: ['meningioma']
+FINDINGS:
+
+Interval right frontal and pterional debulking of solid extra-axial enhancing mass most likely meningioma in the right cavernous sinus extending to the orbital apex. There is a less fullness at the intracranial side of the superior and inferior orbital fissures (series 3 images 11-13). There is less mass-effect on prechiasmatic right optic nerve (series 2 image 12). Present the appearance of the flow void of the right cavernous and supraclinoid internal carotid artery. Small extra-axial hemorrhage under craniotomy flap. Area of cytotoxic edema in anterior/inferior right temporal which may most likely venous infarction. No other areas of acute infarction. FLAIR signal abnormality in the sulci in the left temporal and parietal (series 4 images 14 and 13) which may represent hemorrhagic versus proteinaceous material. Attention to this area on follow-up imaging is recommended. Small extra-axial collection under the craniotomy flap. No midline shift. The ventricles and basal cisterns are normal in size and position. The orbits are unremarkable. The paranasal sinuses and the mastoid air cells are clear.
+IMPRESSION:
+
+1. Interval debulking of meningioma involving the right cavernous sinus as detailed above with less mass effect on prechiasmatic right optic nerve. 2. Small 1.5-cm infarct in the right temporal lobe most likely of venous origin.

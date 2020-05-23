@@ -1,0 +1,7 @@
+Diseases: ['normal']
+FINDINGS:
+
+A focal encephalomalacia is present in the left temporal parietal lobe with minimal surrounding T2 hyperintensity but no pathologic enhancement consistent with posttreatment change. No new mass lesion. Small adenoidal tissue is present in the midline posterior nasal pharynx within normal limits for his age. This can be directly visualized or compared with prior exam given tumor history of the nasopharynx. Clivus is unremarkable. There is no acute infarct intracranial hemorrhage extracerebral fluid collection midline shift or mass effect. Patency of major intracranial vessels including dural venous sinuses is seen. The visualized paranasal sinuses show polypoid mucosal thickening of bilateral maxillary sinuses.
+IMPRESSION:
+
+1. Posttreatment change of the left temporoparietal lobe. No additional intracranial lesion. 2. Small adenoidal tissue is present in the midline posterior nasal pharynx within normal limits for his age. This can be directly visualized or compared with prior exam given tumor history of the nasopharynx.

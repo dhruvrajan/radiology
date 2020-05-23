@@ -1,0 +1,7 @@
+Diseases: ['sarcoidosis', 'meningioma']
+FINDINGS:
+
+There is FLAIR hyperintensity in the region of the right superior cerebellar peduncle with associated nodular enhancement; the enhancing component measures 8 x 5 mm on image 11/series 8. There is not definite involvement of the tectum. No other abnormal enhancement or parenchymal signal abnormality in the brain. There is a 6 mm calcified nodule along the right falx with questionable enhancement probably a calcified meningioma. There is no restricted diffusion or abnormal parenchymal susceptibility. The ventricles are normal in size and shape. The vascular flow voids are unremarkable. There is no gross abnormality of the orbits although this study was not tailored to evaluate the orbits. There is symmetry of the optic nerves and no definite enhancement. The calvarium is normal. There is mild paranasal sinus mucosal thickening. Few scattered suboccipital subcutaneous prominent lymph nodes
+IMPRESSION:
+
+1. Nodular enhancement in the region of the superior cerebellar peduncle. No other abnormal enhancement or parenchymal signal abnormality. Differential diagnosis is broad and includes demyelination and inflammatory disease such as sarcoidosis. Advise close follow-up and clinical correlation 2. Probable 6 mm calcified meningioma along the falx. 3. No gross abnormality of the orbits however this study was not tailored for evaluation of the orbits. I certify that I have personally reviewed the image and interpretation for this examination and agree with the findings in this report.

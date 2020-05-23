@@ -1,0 +1,7 @@
+Diseases: ['aneurysm']
+FINDINGS:
+
+There is mild diffuse cerebral volume loss. Foci of FLAIR hyperintensity in the deep and periventricular white matter likely sequela of chronic small vessel ischemic changes. 4mm T1 hyperintense T2 hypointense mass originating from the foramen of Monro consistent with a small colloid cyst. There is no restricted diffusion in the brain to suggest acute infarction. There is no abnormal enhancement of the brain. The ventricles and sulci are normal in size and position. The extraaxial spaces are without evidence of mass or blood. The intracranial flow voids are normal. Cannot exclude anterior communicating artery aneurysm on image 15 of series 4. The calvarium is normal. The orbits are normal. The paranasal sinuses are normal. Mild fluid opacification of the left mastoid air cells. Incidentally noted are spondylotic changes in the upper cervical spine with mild and 20 cc of C3 over C4 and posteriorly protruding disk at C3-C4 and C4-C5 effacing the ventral thecal sac.
+IMPRESSION:
+
+1. No acute intracranial abnormality. 2. 4mm T1 hyperintense T2 hypointense nonenhancing mass originating from the foramen of Monro consistent with a small colloid cyst with no associated hydrocephalus. 3. Question small anterior communicating artery aneurysm. Consider CT or MR angiography of the circle of Willis for further evaluation. I certify that I have personally reviewed the image and interpretation

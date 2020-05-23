@@ -1,0 +1,7 @@
+Diseases: ['amyloid']
+FINDINGS:
+
+There are periventricular deep and subcortical white matter T2 hyperintense areas which are nonspecific but may represent sequela of small vessel ischemic change. There is no extracerebral fluid collection midline shift or mass effect. There is no pathologic enhancement. There are a few very small foci of susceptibility in the left frontal lobe right parietal lobe and cerebellum. These could represent either microbleeds related to chronic small vessel ischemic changes or perhaps reflect amyloid angiopathy. Embolization coil artifact is visualized medial and inferior to the ophthalmic portion of the right internal carotid artery. The bilateral posterior communicating arteries are hypoplastic otherwise there is patency of the intracranial circulation including the bilateral distal vertebral arteries basilar artery and its distal branches the bilateral intracranial internal carotid arteries and the A1 and M1 segments. There are no regions of focal stenosis or aneurysm formation.
+IMPRESSION:
+
+1. Separate anterior and posterior circulations otherwise patent intracranial circulation as above. 2. No intracranial mass lesion. 3. Scattered T2 hyperintense white matter lesions which are nonspecific but may represent sequelae of small vessel ischemic change. 4. A few very small foci of susceptibility in the left frontal lobe right parietal lobe and cerebellum. These could represent either microbleeds related to chronic small vessel ischemic changes or possibly amyloid angipoathy.

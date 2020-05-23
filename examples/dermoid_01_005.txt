@@ -1,0 +1,7 @@
+Diseases: ['lipoma', 'dermoid']
+FINDINGS:
+
+A single 13 mm x 7 mm lobulated lesion is identified inthe peri tectal region with marked T1 shortening chemical shiftartifact on T2 weighted imaging and loss of signal on fatsuppression sequences indicating a lesion with fat such as alipoma or dermoid. This lesion does not exert mass effect on thetectum. The remaining brain parenchyma demonstrates extensivesmall vessel ischemic changes involving the brainstem periventricular and subcortical white matter bilaterally.There is diffuse prominence of the sulci and ventricles consistentwith moderate volume loss.Prior lacunar infarctions are noted in the cerebellar hemispheres.There is no hemorrhage or acute ischemia. No abnormal enhancementis noted.
+IMPRESSION:
+
+1. Approximate 13 mm lipoma or dermoid lesion in the peri tectallocation without associated hydrocephalus.2. Extensive small vessel ischemic changes with marked cerebralatrophy.Transcribed by: Interface TalkStation

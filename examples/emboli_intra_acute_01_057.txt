@@ -1,0 +1,7 @@
+Diseases: ['normal']
+FINDINGS:
+
+There is no acute intracranial hemorrhage extracerebral fluid collection midline shift or mass effect. The cerebral volume is appropriate for the patient's stated age. Following contrast administration there is no pathologic enhancement. There is no evidence of restricted diffusion abnormal susceptibility or flair signal abnormality. There are appropriate flow voids of the major visualized intracranial vasculature. There is a small mucous tension cyst in the left maxillary sinus. The visualized paranasal sinuses and mastoid air cells are clear. There is patency of the bilateral vertebral arteries. The bilateral common carotid cervical internal carotid and external carotid arteries are patent. There is no hemodynamically significant stenosis or dilatation.
+IMPRESSION:
+
+1. No intracranial abnormality. 2. Normal neck MRA.

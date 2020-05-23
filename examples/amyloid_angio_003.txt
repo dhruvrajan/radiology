@@ -1,0 +1,7 @@
+Diseases: ['amyloid']
+FINDINGS:
+
+Ventricles and CSF spaces are symmetric and minimally prominent including mesial temporal lobe structures which may have moderate and slightly discordant volume loss left a little more than right. On the coronal T2-weighted images internal and marked hippocampi are well blurred. There are scattered small T2 bright foci in the periventricular and deep white matter which are nonspecific and mild in extent overall probably borderline in number for age and nonspecific pattern. Posterior fossa and deep gray matter relatively spared although there are prominent perivascular spaces in the basal ganglia. There is abnormal susceptibility with suggestion of minimal staining of cortex left superior frontal gyrus (series 7 image 82) but only a few tiny punctate foci of susceptibility are identified and these are elsewhere for example right parietal lobe (series 7 image 71) and right frontal lobe (image 68) though these are in peripheral/subcortical locations and no similar findings centrally. There are no other abnormal foci of increased or decreased signal intensity.
+IMPRESSION:
+
+1. Mild global parenchymal volume loss with moderate hippocampal volume loss left more than right and slight blurring of the internal landmarks. 2. Hemosiderin staining cortex left superior frontal gyrus and localized region occasional foci of susceptibility subcortical regions right frontal and right parietal duct not extensive but taken together suggest mild amyloid angiopathy.

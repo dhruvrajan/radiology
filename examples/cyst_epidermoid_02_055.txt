@@ -1,0 +1,7 @@
+Diseases: ['normal']
+FINDINGS:
+
+There is a compex cystic lesion between the infundibulum and the interpenduncular fossa measuring 1.5 x 1.5 x 1 cm  with intermediate signal on T1 weighted images. There is no associated enhancement or restricted diffusion. It has decreased in size since the prior examination and exerts less mass effect on the pituitary infundibulum. No signal abnormalities are seen in the brain parenchyma. The ventricles and sulci are normal in size and configuration. No evidence of hemorrhage midline shift or herniation. After the administration of gadolinium there are no areas of abnormal enhancement. The mastoid air cells and visualized paranasal sinuses are clear except for multiple mucous retention cysts in the left maxillary sinus. No osseous abnormality is seen.
+IMPRESSION:
+
+1. Complex cystic lesion between the infundibulum and interpeduncular fossa that has decreased in size. This is of uncertain etiology. It may represent a complicated arachnoid cyst (previously hemorrhaged or previously infected). Alternatively and less likely this may represent an epidermoid. Follow-up is suggested.2. Normal brain parenchyma. No evidence of demyelinating disease as clinically questioned.3. Mucous retention cysts in the left maxillary sinus.

@@ -1,0 +1,7 @@
+Diseases: ['hematoma']
+FINDINGS:
+
+Ventriculostomy tube is seen introduced through a right frontal approach and terminates in the region of the occipital horn of the left lateral ventricle. Small amount of associated hemorrhage is seen along its tract. There is a subdural hematoma in the left parietooccipital region measuring up to 5 mm in width. There are scattered areas of increased FLAIR hyperintensity within the subarachnoid spaces of bilateral cerebral hemispheres consistent with hemorrhage. There is also T2 hyperintensity and susceptibility artifact within the right frontotemporal region consistent with acute hemorrhage. Gradient echo images demonstrate numerous foci of susceptibility artifact scattered throughout the gray-white matter junctions of both cerebral hemispheres as well as the right forceps of the splenium consistent with diffuse axonal injury. There is no evidence of hydrocephalus. The ventricles are symmetric and patent. There is diffuse dural enhancement left greater the right. There is mucosal disease in bilateral maxillary sinuses left greater than right and left sphenoid sinus. The orbits are grossly normal. Right frontal shunt catheter with tip near left lateral ventricle.
+IMPRESSION:
+
+1. Diffuse axonal injury as detailed above.2. Left parietooccipital subdural hematoma and scattered bilateral areas of subarachnoid hemorrhage.3. Right frontotemporal parenchymal hemorrhage.4. Sinus disease as above.

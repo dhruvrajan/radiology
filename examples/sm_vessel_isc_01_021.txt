@@ -1,0 +1,7 @@
+Diseases: ['infarction', 'encephalomalacia']
+FINDINGS:
+
+There is a focus of restricted diffusion in the left cerebellar hemisphere with associated FLAIR hyperintensity in keeping with acute/subacute ischemic infarction. There is extensive periventricular subcortical and deep white matter FLAIR hyperintensities in keeping with chronic small vessel ischemic changes. There is encephalomalacic changes in the right occipital lobe. The ventricles and sulci are prominent in keeping with age related volume loss. No extraaxial collection. The intracranial flow voids are normal. The visualized paranasal sinuses are normal.
+IMPRESSION:
+
+1. Acute/subacute ischemic infarction in the left cerebellar hemisphere. No intraparenchymal hemorrhage. 2. Encephalomalacia in the right occipital lobe. White matter changes likely sequela from chronic small vessel ischemic changes. 3. Volume loss.

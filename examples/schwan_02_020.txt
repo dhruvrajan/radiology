@@ -1,0 +1,7 @@
+Diseases: ['schwannoma']
+FINDINGS:
+
+There is a slightly irregular globular enhancing soft tissue lesion in the left internal auditory canal. No other areas of abnormal enhancement are identified. Few scattered non-specific foci of T2 hyperintensity in the subcortical white matter of both cerebral hemispheres are demonstrated. Ventricles sulci and cisterns are symmetric and patent. No extraaxial fluid collections or mass effect. Flow voids are maintained in the anterior and posterior circulation as well as the superior sagittal sinus. A vessel likely the superior cerebellar artery courses medial to and contacts the left trigeminal nerve. No abnormal enhancement involving the trigeminal nerve is identified. Pituitary fossa posterior fossa and both orbits are unremarkable.
+IMPRESSION:
+
+1. Enhancing lesion in the left internal auditory canal most likely representing vestibular schwannoma. Appearance and enhancement characteristics are a little atypical and other possibilities like hemangioma could be considered. Comparison with any old studies would be helpful. 2. A vessel likely the superior cerebellar artery courses medial to and contacts the left trigeminal nerve potential etiology trigeminal neuralgia.

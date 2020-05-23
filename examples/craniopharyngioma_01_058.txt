@@ -1,0 +1,7 @@
+Diseases: ['encephalomalacia']
+FINDINGS:
+
+Changes from right sided pterional craniotomy are noted. Postsurgical change present along the anterior right temporal lobe. Encephalomalacia along the medial right frontal lobe consistent with anterior cerebral artery territory infarct on the right side. Associated areas of T2 prolongation consistent with gliosis in the medial right frontal lobe. No regions of acute ischemia are seen in the current examination. No evidence of large sellar mass is seen on this brain MRI. Please note that this examination is not tailored for the assessment of the sella. If there is further concern for subtle sellar mass then dedicated sella protocol MRI is recommended. Following contrast administration there is no pathologic enhancement. The visualized paranasal sinuses are grossly clear.
+IMPRESSION:
+
+1. Postsurgical changes of right pterional craniotomy. No large sellar mass is seen on this examination however the examination is not tailored for the assessment of the sella. If there is concern for a subtle sellar mass a dedicated sella protocol MRI is recommended. 2. Right anterior cerebral artery territory encephalomalacia consistent with old ischemic change.

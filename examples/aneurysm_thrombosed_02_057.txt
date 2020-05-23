@@ -1,0 +1,7 @@
+Diseases: ['normal', 'aneurysm', 'aneurysm']
+FINDINGS:
+
+Evaluation of the internal auditory canals and cerebello-pontine angles bilaterally shows no mass or pathologic enhancement. There is no evidence of mass or abnormal enhancement along the seventh and eighth nerves. The brainstem is normal. Evidence of prior left-sided craniotomy with aneurysm clip and thrombosed aneurysm with adjacent FLAIR signal abnormality most likely postoperative gliosis or encephalomalacia consistent with patient's known prior history of aneurysm clipping and vascular bypass. No acute infarction intracranial hemorrhage masses midline shift extra-axial collection or abnormal foci of enhancement. The ventricles and basal cisterns are normal in size and position. The orbits are unremarkable. The paranasal sinuses and the mastoid air cells are clear.
+IMPRESSION:
+
+1. Normal MRI of the internal auditory canals 2. Evidence of prior left-sided craniotomy with aneurysm clip and thrombosed aneurysm and post-surgical changes in the adjacent brain parenchyma. ATTENDING RADIOLOGIST AGREEMENT: I have personally reviewed the images and agree with this report.

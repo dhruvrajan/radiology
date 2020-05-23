@@ -1,0 +1,7 @@
+Diseases: ['encephalomalacia']
+FINDINGS:
+
+There is no acute intracranial hemorrhage extracerebral fluid collection or midline shift. There is no restricted diffusion in the brain. The ventricles and sulci are normal in size and position. The extraaxial spaces are normal without evidence of mass or blood. The intracranial flow voids are normal. There are nonspecific scattered foci of T2/FLAIR hyperintensity in the white matter. These have been described in the setting of migraines There is an area of cystic encephalomalacia involving the white and gray matter in the left posterior parietal lobe beneath the vertex with surrounding T2/FLAIR hyperintensity which most likely represents posttraumatic encephalomalacic changes with gliosis The calvarium is normal. The orbits are normal. There is mild mucosal thickening of the paranasal sinuses.
+IMPRESSION:
+
+1. No acute intracranial abnormalities. 2. Cystic encephalomalacia of the left posterior parietal lobe likely secondary to prior head trauma. Comparison to prior outside imaging if available would be of benefit. ATTENDING RADIOLOGIST AGREEMENT: I have personally reviewed the images and agree with this report.

@@ -1,0 +1,7 @@
+Diseases: ['meningitis']
+FINDINGS:
+
+No extra-axial fluid collection mass effect or evidence of acute infarct or intracranial hemorrhage. No abnormal enhancement in the brain or its coverings. There is an old lacunar infarct involving the left external capsule. Scattered foci of T2 prolongation in the periventricular deep and subcortical white matter nonspecific but likely sequela of chronic small vessel ischemia. Lack of CSF signal suppression on FLAIR fairly diffusely nonspecific. This may be related to hyperoxygenation in this ventilated patient though it can be seen with meningitis among other etiologies. Similar findings are also suggested on the prior nondiagnostic study though it was markedly degraded by motion. More prominent FLAIR signal abnormality along the medial left cerebellar hemisphere is probably artifactual. No specific findings for Wernicke encephalopathy which was clinically questioned. Ventricles are within normal limits for age. To the extent that they can be evaluated with routine MR imaging the vascular structures have a normal appearance. Flow voids are maintained in the anterior and posterior circulation as well as superior sagittal sinus. Pituitary fossa and orbits are unremarkable. Mild mucosal thickening in the ethmoid air cells left greater than right maxillary sinuses and right sphenoid sinus.
+IMPRESSION:
+
+1. No foci of abnormal enhancement or restricted diffusion. 2. Increased sulcal FLAIR signal nonspecific; this may be related to ventilation but can also be seen in meningitis.

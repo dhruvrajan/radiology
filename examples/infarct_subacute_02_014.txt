@@ -1,0 +1,7 @@
+Diseases: ['infarction']
+FINDINGS:
+
+A focal area of T2 prolongation and restricted diffusion noted within the medial right cerebellar hemisphere (image 7 series 3) compatible with small acute/subacute infarction. No other areas of acute ischemia identified. There are discrete and confluent areas of T2/FLAIR hyperintensity throughout the periventricular deep and subcortical white matter compatible with extensive small vessel ischemic disease. Focal areas of T2 prolongation and FLAIR hypointensity also noted within the pons which may reflect prior infarction. There are no acute intra or extra-axial areas of hemorrhage or abnormal fluid collections. A single focus of susceptibility noted within the right temporal lobe may reflect an area of mineralization or hemosiderin deposition. The lateral ventricles basal cisterns and sulci are symmetric and patent. No mass lesions or mass effect is seen. No evidence of abnormal parenchymal or meningeal enhancement is seen. Flow voids are maintained within the anterior and posterior circulation. The mastoid air cells and orbits are grossly normal. A left maxillary sinus retention cyst noted. Bone marrow signal is unremarkable.
+IMPRESSION:
+
+1. Focal area of restricted diffusion within the right cerebellum as detailed compatible with acute/subacute infarction. 2. Extensive chronic ischemic changes as detailed. Attending interpretation: Agree with above. I certify that I have personally reviewed this examination and agreewith this report.

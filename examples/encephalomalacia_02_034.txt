@@ -1,0 +1,7 @@
+Diseases: ['infarction', 'infarction', 'infarction']
+FINDINGS:
+
+There is acute infarction involving the right posterior inferior cerebellar artery territory. Acute infarctions are also seen of the right parietal and temporal cortex adjacent to the large region of right MCA territory encephalomalacia. There is significant generalized cerebral cerebellar and midbrain volume loss. There is a large region of encephalomalacia and gliosis of the right MCA territory consistent with remote infarction. Extensive periventricular and subcortical white matter chronic small vessel and perfusional ischemic changes are present with extension into the basal ganglia and midbrain likely the result of wallerian degeneration. There are chronic ischemic changes of the left posterior inferior cerebellar artery territory. No abnormal susceptibility artifact is identified on the gradient sequences. The ventricles and sulci are prominent concordant with the patient's overall extensive volume loss with asymmetric prominent ex vacuo dilatation of the right lateral ventricle.
+IMPRESSION:
+
+1. Acute infarction of the right posterior inferior cerebellar artery territory as well as acute marginal infarctions in the right parietal and temporal cortex along the periphery of the large right MCA territory chronic infarction. 2. Extensive chronic ischemic changes with significant volume loss chronic right MCA territory infarction and chronic left inferior cerebellar infarctions. These findings were discussed with and confirmed by Dr. Wilson on October 23 2009 at 22:42.

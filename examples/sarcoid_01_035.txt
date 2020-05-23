@@ -1,0 +1,7 @@
+Diseases: ['meningioma', 'sarcoidosis', 'lymphoma', 'pseudotumor', 'normal']
+FINDINGS:
+
+There is a homogeneously enhancing dural based lesion within Meckel's cave on the left which is partially encasing the cavernous segment of the left internal carotid artery. The left internal carotid artery remains patent. There is associated mild increased dural enhancement along the inferior and medial left temporal lobe. There is no intracranial hemorrhage extracerebral fluid collection midline shift or mass effect. Cerebral volume is normal for age. Scattered foci of subcortical white matter T2 hyperintensities are nonspecific but may represent sequela of chronic small small vessel ischemic disease in the right clinical setting. Evaluation of the pituitary gland demonstrates it to be overall normal in size. There is no evidence of macroadenoma. The optic chiasm is grossly normal in appearance. Images including contrast administration demonstrate no definite evidence of differential enhancement or mass to suggest an adenoma. Mild mucosal thickening the ethmoid air cells and maxillary sinuses bilaterally. The mastoid air cells are clear. Changes of bilateral cataract surgery.
+IMPRESSION:
+
+1. Dural based enhancing mass in the Meckel's cave as detailed above. Findings are most consistent with a meningioma. Differential diagnoses include sarcoidosis lymphoma and pseudotumor. 2. The pituitary gland is normal in appearance.

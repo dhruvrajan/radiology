@@ -1,0 +1,7 @@
+Diseases: ['encephalomalacia']
+FINDINGS:
+
+Again noted are postsurgical changes related to bifrontal craniotomy. Tracts from prior shunt catheters and monitoring devices are visualized. There is post-traumatic encephalomalacia involving the anterior right frontal lobe. Signal abnormality in the left temporal lobe over the petrous ridge is not appreciated on the current exam. No extra-axial fluid collections. No acute infarct or midline shift. Interval improvement of paranasal sinus and mastoid air cell opacification with residual partial opacification of the massive air cells and mucosal thickening in the ethmoid and maxillary sinuses. The previously described right orbital and zygomatic fractures are better appreciated on the prior CT.
+IMPRESSION:
+
+1. Post-traumatic encephalomalacia anterior right frontal lobe. 2. No new parenchymal signal abnormalities. Please note that gradient echo images were not performed limiting assessment for diffuse axonal injury. Patient may be brought back for gradient echo imaging if clinically indicated.

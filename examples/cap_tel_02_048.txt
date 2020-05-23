@@ -1,0 +1,7 @@
+Diseases: ['encephalomalacia']
+FINDINGS:
+
+Overall no significant interval change. Prior left posterior temporal craniotomy/craniectomy. Persistent mild protrusion of parenchyma through the craniectomy defect. Stable nodular enhancement (measuring approximately 1.9 cm) along the left tentorium cerebelli near the confluence of the left transverse and sigmoid sinus. Chronic enhancing thrombosis in the distal left transverse sinus/sigmoid sinus again seen with encephalomalacia in the left posterior temporal lobe from prior infarct. Right frontal approach ventriculostomy catheter in the right lateral ventricle. Ventricles are stable in size. Stable Chiari one malformation partially empty sella left frontal developmental venous anomaly/capillary telangiectasia. There is no acute intracranial hemorrhage extracerebral fluid collection or midline shift. Persistent complete opacification of the paranasal sinuses and left mastoid air cells.
+IMPRESSION:
+
+1. Stable nodular enhancement along the left tentorium cerebelli compatible with residual tumor. 2. Chronic and stable left transverse/sigmoid sinus thrombus with encephalomalacia in the left posterior temporal lobe. 3. Persistent complete opacification of the paranasal sinuses.

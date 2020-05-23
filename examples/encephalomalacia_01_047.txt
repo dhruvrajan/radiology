@@ -1,0 +1,7 @@
+Diseases: ['encephalomalacia']
+FINDINGS:
+
+Images are somewhat degraded by motion artifact. No foci of restricted diffusion suspicious for an acute infarct. There are nonspecific periventricular and deep white matter T2 hyperintensity most likely reflecting small vessel ischemic changes. Demyelinating disease would be an additional but less likely differential consideration. Postcontrast images demonstrate no foci of abnormal parenchymal enhancement. The ventricles and sulci are prominent secondary to parenchymal line lost beyond what would be expected for the patient's age. There is a large focus of susceptibility along the medial aspect of the right occipital horn likely reflecting hemosiderin deposition.
+IMPRESSION:
+
+1. No acute infarct. Probable hemosiderin deposition along the medial aspect of the right occipital and possibly reflecting old focus of trauma or infarct. 2. Diffuse white matter signal likely reflect small vessel ischemic changes. Demyelinating disease would be a less likely differential consideration. 3. Parenchymal volume loss. ATTENDING RADIOLOGIST AGREEMENT: I agree with the preliminary report without modification. There is probably encephalomalacia in the area of susceptibility in the medial right occipital lobe. I certify that I have personally reviewed this examination and agree with this report.

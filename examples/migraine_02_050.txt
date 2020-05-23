@@ -1,0 +1,7 @@
+Diseases: ['migraine']
+FINDINGS:
+
+Multiple punctate foci of T2/flair hyperintensity within the subcortical and deep white matter of bilateral frontal lobes and right parietal lobe. These are nonspecific representing migraine focus demyelination sequela of small vessel ischemia for patient's age. Otherwise the cerebrum demonstrates normal gray matter and gray/white differentiation. The thalami and basal ganglia are unremarkable. No abnormalities are seen in the midbrain pons medulla. Both cerebellar hemispheres are normal in signal. The ventricles are normal in size and shape. The extra axial spaces are normal without evidence of mass or blood. The vascular flow voids are unremarkable. The orbits are unremarkable. The sinuses and mastoid air cells demonstrates no abnormalities. The visualized pharynx and parapharyngeal soft tissues are normal.
+IMPRESSION:
+
+1. Punctate foci of T2/flair hyperintensity within the subcortical and deep white matter of bilateral frontal lobes and right parietal lobe. These are nonspecific representing migraine focus demyelination sequela of small vessel ischemia for patient's age. 2. No acute infarct or intracranial hemorrhage.

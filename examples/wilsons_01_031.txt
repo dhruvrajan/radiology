@@ -1,0 +1,7 @@
+Diseases: ['myelinolysis']
+FINDINGS:
+
+Motion artifacts degrade the images. There is no restricted diffusion in the brain. There are bilateral areas of increased T2 and FLAIR signal in the bilateral basal ganglia and thalami. Probable chronic ischemic changes in the pons. There are foci of increased T2/FLAIR signal in the white matter which are likely sequelae of chronic ischemia. The ventricles and sulci are normal in size and position. No extraaxial fluid collection. There is no abnormal enhancement. No mass lesions. No intracranial hemorrhage The calvarium is normal. The orbits are normal. The paranasal sinuses are normal.
+IMPRESSION:
+
+1. Motion artifacts. 2. No acute ischemia. Chronic ischemic changes. 3. Bilateral deep gray signal abnormalities consider infectious causes particularly viral encephalitides as well as toxic/metabolic causes (including hyperammonemia extrapontine osmotic myelinolysis Wernicke's disease Wilson's disease hyper/hypoglycemia etc.). Clinical correlation advised. ATTENDING RADIOLOGIST AGREEMENT: I have personally reviewed the images and agree with this report. I certify that I have personally reviewed the image and interpretation and agree with the findings in this report.

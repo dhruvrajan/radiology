@@ -1,0 +1,7 @@
+Diseases: ['oligodendroglioma']
+FINDINGS:
+
+Interval evolution of post surgical changes related to right sided craniotomy with surgical cavity in the right frontotemporal region containing blood products. Surrounding T2 signal abnormality has improved. Focus of T2 hyperintensity in the right corona radiata (series 4 image 21) correlates with evolving ischemic change. Small extra-axial fluid collection beneath the craniotomy site has decreased in size. Interval decrease in mass effect on the right lateral ventricle and resolution of midline shift. Following contrast administration there is no pathologic intraparenchymal enhancement. Mild dural enhancement adjacent to the craniotomy site is likely surgical in nature. The calvarium is normal in marrow signal. The orbital contents are grossly unremarkable. The mastoid air cells and visualized paranasal sinuses are clear except for frothy secretions in the right maxillary sinus suggesting a more acute component; clinically correlate.
+IMPRESSION:
+
+1. Evolving post surgical changes related to right sided craniotomy and resection of anaplastic oligodendroglioma in the right frontotemporal region. No evidence of recurrent/residual neoplasm. 2. Right maxillary sinus inflammatory disease possibly acute; clinically correlate.

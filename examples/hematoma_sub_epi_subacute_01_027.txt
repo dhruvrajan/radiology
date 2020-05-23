@@ -1,0 +1,7 @@
+Diseases: ['hematoma']
+FINDINGS:
+
+Imaging was performed as continuation/follow up of 3/10/2009 study. Enhanced images again demonstrate a small hyperintense T1 signal subdural collection along the lateral/inferior left frontal and temporal convexities and slightly along the left tentorium. This is most consistent with a small subacute subdural hematoma. There is no significant mass effect. No midline shift. The basal cisterns are patent. There is no definite pathologic enhancement. Gradient echo images demonstrate a slight amount of susceptibility within this collection although this is difficult along the inner table of the calvarium. No areas of abnormal parenchymal susceptibility. MRA brain: The intracranial internal carotid arteries A1 and M1 segments and proximal branches are patent bilaterally. There are small bilateral posterior communicating arteries. The vertebrobasilar system and proximal branches are patent. Incidental notation of a right AICA-PICA complex variation. No visualized focal stenosis or aneurysm. Please note that MRA is less sensitive for aneurysms smaller than 4 mm.
+IMPRESSION:
+
+1. Patency of the intracranial circulation. 2. Small left frontotemporal convexity subdural collection most likely subdural hematoma not significantly changed since 3/10/2009. No significant mass effect. No pathologic enhancement.

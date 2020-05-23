@@ -1,0 +1,7 @@
+Diseases: ['meningioma', 'aneurysm']
+FINDINGS:
+
+Previously noted subdural hematomas have resolved. Scattered foci of signal abnormality in the bilateral frontal lobes left more so than right nonspecific but perhaps chronic ischemic change. Ventricles and sulci are appropriate for age. The enhancing right frontal convexity extra-axial enhancing mass has slightly increased to 8 mm in size. No significant mass effect no edema. Old left burr holes. The paranasal sinuses are clear. Prominent tissue behind the dens indents the ventral thecal sac and contacts the upper cervical cord. There is also a disc herniation at C3-4 touching the cord incompletely evaluated. The anterior and posterior circulations are patent. No aneurysm or vascular malformation within the limits of MRA.
+IMPRESSION:
+
+1. Slight interval growth of right frontal meningioma. 2. Interval resolution of bilateral subdural hematomas. 3. Nonspecific tissue behind the dens. Clinical correlation advised for rheumatoid arthritis. If desired this finding could be further evaluated with noncontrast CT. 4. No MRA evidence of aneurysm or vascular malformation. If there is a prior study documenting an aneurysm comparison to that study is recommended.

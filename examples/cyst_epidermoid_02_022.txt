@@ -1,0 +1,7 @@
+Diseases: ['dermoid']
+FINDINGS:
+
+The ventricles and sulci are enlarged indicating volume loss. The brain parenchyma is normal in signal intensity. There are no areas of abnormal enhancement within the brain. In the left cerebellar pontine angle there is a 9 x 6 mm focus which is high in signal on T1 and T2. It is low in signal on fat saturated images indicating the presence of fat. Enhancement is difficult to determine as it is high in signal on the precontrast T1 images. This likely represents a dermoid rather than an epidermoid. It appears to encompass the origins of the left seventh and eigth cranial nerves. There are no prior studies available to us with which comparison can be made. The visualized paranasal sinuses and orbital contents are normal. The calvarium is normal in marrow signal.
+IMPRESSION:
+
+1. Sub cm fat containing mass in the left cerebellar pontine angle likely represents a dermoid. It appears to encompass the origins of the left seventh and eighth cranial mass.2. Diffuse cerebral volume loss with enlargement of the ventricles.

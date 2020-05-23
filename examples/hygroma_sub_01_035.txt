@@ -1,0 +1,7 @@
+Diseases: ['encephalomalacia']
+FINDINGS:
+
+Redemonstrated is extensive signal abnormality cortical laminar necrosis and encephalomalacia involving the right posterior frontal temporal and parietal lobes with ex vacuo dilitation of the right lateral ventricle. Findings appear unchanged from the prior study. Bilateral periventricular hyperintensities most likely represent post-radiation changes and are also stable. There is faint enhancement in the resection cavity. No other suspect nodular or mass-like enhancement or restricted diffusion is seen. There is a small left frontal subdural hygroma stable.There are post-radiation changes at the skull base and upper cervical spine. Cystic lesion is the spinous process of C2 is stable in appearance.
+IMPRESSION:
+
+1. No significant change from prior study.2. Stable appearance of extensive signal abnormality with cystic encephalomalacia in the posterior right frontal parietal and temporal lobes. Stable faint enhancement at the primary site with no additional foci of suspect mass-like or nodular enhancement.3. Post-radiation white matter changes stable.

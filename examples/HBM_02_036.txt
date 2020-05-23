@@ -1,0 +1,7 @@
+Diseases: ['hydrocephalus', 'meningioma']
+FINDINGS:
+
+There is a 15 mm craniocaudal x 11 mm transverse x 8 mm AP mass arising in the floor of the fourth ventricle. The mass demonstrates T1 isointensity T2 iso - mild hyperintensity and avid enhancement following contrast administration. There is no extension through the foramina of Magendie and Luschka. There is no associated hydrocephalus or significant mass effect on the medulla anteriorly or inferior vermis posteriorly. There is no edema in the adjacent brainstem. No other enhancing lesions within the brain. There is no abnormal leptomeningeal enhancement. There is no acute intracranial hemorrhage extracerebral fluid collection or midline shift. The cerebral volume is appropriate for the patient's stated age. The visualized paranasal sinuses are grossly clear. Evaluation of the cervical thoracic and lumbar spine demonstrates normal alignment. Vertebral bodies are of normal height and signal intensity with the exception of incidental hemangiomas in T11 and possibly T9. The disc spaces are preserved. No abnormal masses in the spinal canal. The cord is of normal size and signal intensity. There is no abnormal enhancement following contrast administration. Incidental 4 mm cyst in the left kidney.
+IMPRESSION:
+
+1. 15 x 11 x 8 mm mass in the floor of the fourth ventricle without associated hydrocephalus. See above for radiologic description and extent. Differential considerations include ependymoma and choroid plexus papilloma. Less likely is a meningioma. 2. No evidence of metastatic disease to the spine.

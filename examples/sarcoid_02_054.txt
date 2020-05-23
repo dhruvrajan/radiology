@@ -1,0 +1,7 @@
+Diseases: ['sarcoidosis']
+FINDINGS:
+
+The ventricles and sulci are normal in size andconfiguration for age.The brain parenchyma is normal in morphology. There are small scattered foci of increased T2/FLAIR signal intensity in thesubcortical and periventricular white matter. There are no areasof abnormal enhancement. There are no areas of abnormal diffusionrestriction.The visualized paranasal sinuses and orbital contents are normal.The calvarium is normal in marrow signal.MRA of the circle of Willis shows no evidence of intracranialstenosis occlusion or aneurysm.
+IMPRESSION:
+
+1. Nonspecific small scattered foci of increased T2/FLAIRsignal intensity in the subcortical and periventricular whitematter. Differential diagnosis includes sequelae of small vesselischemic disease infectious/inflammatory processes (such as Lymedisease) vasculitis sarcoidosis or demyelinating disease.Clinically correlate.2. Otherwise unremarkable MR examination of the brain.3. Unremarkable MRA of the circle of Willis. No evidence ofsignificant stenosis or occlusion in the posterior circulation.Transcribed by: Interface TalkStationLast Edited by: Interface TalkStation

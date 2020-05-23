@@ -1,0 +1,7 @@
+Diseases: ['amyloid']
+FINDINGS:
+
+There is no acute intracranial hemorrhage extracerebral fluid collection midline shift or mass effect. There are a few foci of T2 prolongation in the periventricular and frontal subcortal white matter nonspecific and probably reflecting sequela of chronic small vessel ischemia in a patient of this age. Nonspecific punctate focus of susceptibility in the right parietal subcortical white matter. The cerebral volume is appropriate for the patient's stated age. There is a 3 mm area of signal void on T2 weighted image in the region of the left anterior clinoid process (SE 3a Im 59-60). There are mild mucosal changes in the ethmoid air cells.
+IMPRESSION:
+
+1. No acute intracranial abnormalities. Mild probably sequela of chronic small vessel ischemia. 2. Nonspecific punctate focus of susceptibility in the right parietal subcortical white matter mineralization vs. chronic blood products and can be seen with cavernoma amyloid angiopathy or hypertension. 3. 3 mm area of signal void on T2-weighted images in the region of the left anterior clinoid process likely due to pneumatization. However a small left paraclinoid ICA aneurym canot be excluded. CTA/MRA can be obtained for further evaluation if clinically warranted.

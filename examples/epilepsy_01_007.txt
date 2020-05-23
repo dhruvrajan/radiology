@@ -1,0 +1,7 @@
+Diseases: ['thrombosis']
+FINDINGS:
+
+Ventricles sulci and cisterns are symmetric and patent. No extraaxial fluid collections or mass effect. There are scattered nonspecific foci of increased T2/FLAIR signal in the white matter. There is a chronic left cerebellar infarct. Flow voids are maintained in the anterior and posterior circulation. Pituitary fossa posterior fossa and both orbits are unremarkable. The hippocampi are symmetric and normal in appearance. There is no evidence of mesial temporal sclerosis. There is decreased caliber of the left transverse sinus and left sigmoid sinus. In addition on the axial images there is suggestion that the flow voids are absent in those sinuses and replaced with abnormal signal. These findings are suspect for partial thrombosis although slow flow may have this appearance. CTV may be helpful for further evaluation. On the T2-weighted images there is some evidence. The superior sagittal sinus right transverse sinus right sigmoid sinus straight sinus vein of Galen and internal cerebral veins show normal flow related enhancement.
+IMPRESSION:
+
+1. No acute intracranial abnormality. No evidence of mesial temporal sclerosis. 2. Decreased caliber of the left transverse sinus and left sigmoid sinus suspect for partial thrombosis vs. slow flow. CTV may be helpful for further evaluation. Dr. Khella was notified of these findings at 17:15.

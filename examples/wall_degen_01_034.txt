@@ -1,0 +1,7 @@
+Diseases: ['encephalomalacia']
+FINDINGS:
+
+Encephalomalacic foci are seen left frontal and parietal lobes and to a lesser extent occipital lobe are roughly parasagittal distribution some transcortical involvement in these locations as well but also involving centrum semi-ovale. Pattern is stable compared to August 17 2012. Mild increased intensity extends along cortical spinal tract to peduncle although more prominent on the prior study but likely reflecting mild wallerian degeneration. No acute findings on diffusion-weighted images. Minimal susceptibility were in parietal and occipital regions again noted. Cut off a flow void left sylvian fissure or posterior division MCA is noted on T2 weighted images and better seen on prior MR angiogram. Abnormal appearance sella is again noted with minimal expansion and T2-bright lesion right side of the gland stable. Mucosal thickening frontoethmoidal regions and the right maxillary sinus most likely inflammatory and relatively stable.
+IMPRESSION:
+
+1. Subcortical and some transcortical encephalomalacia left frontal parietal and occipital lobes in roughly parasagittal distribution pattern consistent with chronic ischemic change in proximal embolic and/or watershed pattern. No change since prior. 2. No acute findings new new ischemic foci are apparent. 3. Stable sellar abnormality.

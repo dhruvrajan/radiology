@@ -1,0 +1,7 @@
+Diseases: ['hydrocephalus']
+FINDINGS:
+
+Prior brain MRI dated February 20 2012. Right frontal Ommaya catheter stable in position. No significant change in nonspecific right periventricular and left subcortical foci of T2 prolongation. Stable minimal signal abnormality along the Ommaya catheter tract. No abnormal foci of enhancement. Interval development of layering restricted diffusion within the bilateral occipital horns that may reflect proteinaceous or purulent material. There is also mild interval enlargement of the ventricles concerning for early communicating hydrocephalus. No associated subependymal enhancement but this may be absent in the setting of immunosuppression. No intrinsic T1 hyperintensity or susceptibility on GRE sequence to suggest blood products. Appropriate vascular flow voids are identified. Marked improvement in paranasal sinus disease with only minimal residual mucosal thickening at the bilateral maxillary sinuses and left frontal sinus.
+IMPRESSION:
+
+1. New layering restricted diffusion within the occipital horns most compatible with proteinaceous or purulent material. Mild interval enlargement of the ventricles concerning for early communicating hydrocephalus. 2. Marked reduction in paranasal sinus disease.

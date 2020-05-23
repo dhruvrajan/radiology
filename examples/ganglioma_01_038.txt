@@ -1,0 +1,7 @@
+Diseases: ['astrocytoma', 'oligodendroglioma']
+FINDINGS:
+
+Again noted is a heterogeneous hyperintense T2/FLAIR signal lesion in the right frontal lobe (anterior to the pre-central gyrus) with cortical involvement and cortical expansion. This has signicantly enlarged compared to study dated 3/1/2003. There is no definite enhancement or elevated rCBV. Spectroscopy is most notable for mild decrease in NAA and elevations of lipid and lactate within the lesion. There is no significant elevation of choline. There is no intracranial hemorrhage extra-axial fluid collection or midline shift. The ventricular system and basilar cisterns are normal in size and configuration. There is mucosal thickening within the right maxillary sinus. There is partial opacification of the ethmoid air cells bilaterally and the right frontal sinus.
+IMPRESSION:
+
+1. Heterogeneous expansile right frontal lobe lesion without definite enhancement or elevated rCBV but demonstrating increased lipid lactate and mildly decreased NAA. This lesion has signicantly enlarged compared to study dated 3/1/2003. This most likely represents a low-grade neoplasm (astrocytoma oligodendroglioma DNET or ganglioglioma).

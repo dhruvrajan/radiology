@@ -1,0 +1,7 @@
+Diseases: ['aneurysm']
+FINDINGS:
+
+Embolization coils again noted in right parasellar location and right sylvian fissure. Stable scattered areas of old hemorrhage. No visible new hemorrhage. Sulci are normal in signal on FLAIR. No new mass or edema. Old infarcts in right MCA and PCA distributions. Old right caudate infarct. No new infarction. No abnormal enhancement.
+IMPRESSION:
+
+1. Stable MRI. Chronic infarcts chronic hemorrhage. 2. If hemorrhage is a clinical concern suggest lumbar puncture. 3. If aneurysm recanalization is a clinical concern suggest conventional angiography or contrast MRA.

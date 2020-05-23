@@ -1,0 +1,7 @@
+Diseases: ['encephalomalacia']
+FINDINGS:
+
+There is encephalomalacia in the left temporal and frontal lobes probably from prior trauma. There is no evidence for acute infarction. There is no extra-axial collection hemorrhage mass effect or midline shift. There is no evidence for areas of abnormal enhancement. There is a vague signal abnormality involving the midbrain posterior pons extending into the superior cerebellar peduncles. No significant volume loss. The ventricles are normal in size and configuration. There are maintained flow void within the visualized vessels. There is retention cysts in the maxillary sinuses. The calvarium is normal in marrow signal.
+IMPRESSION:
+
+1. Probable post-traumatic encephalomalacia in the left frontal and temporal lobes. 2. Questionable signal changes in the brainstem as described above. This finding may be an artifact from the scanner; however rare neurodegenerative diseases have been reported to involve these areas including Wilson's disease and progressive supranuclear palsy. Clinical correlation advised.

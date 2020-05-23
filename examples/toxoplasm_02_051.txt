@@ -1,0 +1,7 @@
+Diseases: ['infarction', 'toxoplasmosis']
+FINDINGS:
+
+There is a small rounded focus of T2 prolongation within the left thalamus which shows restricted diffusion and ring enhancement most consistent with a subacute infarction. There are scattered additional foci of T2 prolongation in the subcortical and periventricular white matter nonspecific but likely related to small vessel ischemic white matter changes. A linear focus of enhancement in the left medial cerebellum is though to represent a vessel possibly a small venous angioma. No additional areas of restricted diffusion. There is no acute intracranial hemorrhage extra-axial fluid collection mass effect or midline shift. The visualized paranasal sinuses are grossly clear. There is slight opacification of the bilateral mastoid air cells.
+IMPRESSION:
+
+1. Findings most consistent with a subacute left thalamic infarction. Neoplastic or infectious etiology (such as toxoplasmosis) is felt to be much less likely. Clinically correlate. Recommend follow-up MRI in 2 weeks. 2. Additional findings of small vessel ischemic white matter changes. Dr. Chokshi was notified of these findings by phone at 6:50 pm on 8/19/2008.

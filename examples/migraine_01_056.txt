@@ -1,0 +1,7 @@
+Diseases: ['migraine', 'vasculitis/vasculopathy']
+FINDINGS:
+
+The ventricles and CSF spaces appear symmetric and age-appropriate. There are scattered small foci of increased intensity on Long-TR images in the periventricular deep and subcortical white matter which are mild in extent and nonspecific to a more than expected for stated age of 46. No convincing juxta ventricular lesions or callosal-ventricular lesions. The total number of lesions is greater than nine above the tentorium no convincing lesions below the tentorium. Appropriate intracranial flow voids are identified. Small mucous retention cyst right maxillary sinus is noted incidentally. Evaluation of the orbits reveals symmetric and unremarkable visual pathways. No abnormal signal intensity midbrain and no signal abnormality or caliber change in visualized third cranial nerves. Cavernous sinuses appear symmetric and unremarkable.
+IMPRESSION:
+
+1. Multiple focal hyperintensities in the white matter which are nonspecific but more than expected for age. The differential diagnosis is broad and includes inflammatory processes including demyelinating prior infections including Lyme migraine headaches vasculitis/vasculopathy and others. 2. Unremarkable MRI orbits.

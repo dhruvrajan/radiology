@@ -1,0 +1,7 @@
+Diseases: ['gliosis']
+FINDINGS:
+
+Redemonstrated is a small focus of encephalomalacia in the right thalamic/capsular region with surrounding signal abnormality compatible with gliosis. Signal abnormality descends into the right cerebral peduncle and pons with diminished size of the right cerebral peduncle compatible with wallerian degeneration. There is nonspecific nonenhancing periventricular deep and subcortical white matter hyperintensity similar to before probably sequela of small vessel ischemic change and chronic ischemia. Also old infarct in left thalamus. There is no acute infarct intracranial hemorrhage extra-axial collection mass effect or mass lesion. There is no pathologic enhancement of the brain parenchyma or its coverings. There is ventricular and sulcal prominence compatible with cerebral volume loss. The visualized paranasal sinuses and mastoid air cells are essentially clear. Minimal rightward nasal septal deviation and a spur projecting into the right nasal cavity. The major intracranial vessels demonstrate the expected signal void related to vascular flow.
+IMPRESSION:
+
+1. No acute infarct or intracranial hemorrhage. 2. Old right thalamic/capsular infarct with associated gliosis and wallerian degeneration. 3. Other chronic ischemic changes as above.

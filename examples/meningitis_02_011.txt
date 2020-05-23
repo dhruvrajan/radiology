@@ -1,0 +1,7 @@
+Diseases: ['sarcoidosis', 'meningitis']
+FINDINGS:
+
+Multiple sequences are motion degraded. At least 9 nonspecific foci of T2 prolongation in the periventricular deep and subcortical white matter without evidence of enhancement are restricted diffusion. There is subtle increase in cortical signal on the T2 and flair sequences in the left parietal lobe with suggestion of possible minimal leptomeningeal enhancement (image 28 of series 7 and 3 and image 27 of series 4). There is no acute intracranial hemorrhage extracerebral fluid collection midline shift or mass effect. The cerebral volume is appropriate for the patient's stated age. The visualized paranasal sinuses and mastoid air cells are clear. There is no calvarial lesion.
+IMPRESSION:
+
+1. Subtle increase in cortical signal on the T2 and flair sequences in the left parietal lobe with suggestion of possible minimal leptomeningeal enhancement on the motion degraded exam may be artifactual but if true these findings may be related to an inflammatory process such as sarcoidosis ( favored given presence of multiple T2 bright lesions) meningeal carcinomatosis or meningitis which is less likely given lack of acute presentation. Correlation with clinical history and presentation is recommended. CSF analysis should be considered. 2. At least nine nonspecific foci of T2 prolongation in the periventricular deep and subcortical white matter without evidence of enhancement are restricted diffusion which could be related to demyelinating inflammatory and less likely neoplastic process.

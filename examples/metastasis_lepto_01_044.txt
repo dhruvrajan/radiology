@@ -1,0 +1,7 @@
+Diseases: ['metastasis']
+FINDINGS:
+
+Multiple images or motion degraded. There is a 10 mm enhancing dural based lesion overlying the right frontal lobe with adjacent dural thickening/enhancement compatible with metastatic disease with mild adjacent cerebral edema seen on previous CT neck. This causes mild local mass effect. There are multiple (at least 4) enhancing foci at the gray-white matter junction of both frontal lobes some with rim enhancing features and trace associated edema see for example series 12 images 21 19 and 17 probable leptomeningeal metastasis. No midline shift. Redemonstrated is encephalomalacia in the inferior frontal lobes which may be due to prior trauma given the location. No extra-axial collection. There is a 1 cm focus of diffusion restriction on the left cerebellar hemisphere and a second tiny focus of diffusion restriction in the superior vermis in keeping with acute/subacute infarcts. There are mucous retension cysts in the right and left maxillary sinuses.
+IMPRESSION:
+
+1. Multiple dural and leptomeningeal metastasis as above. Minimal local mass effect associated with right frontal dural based lesion. No midline shift. 2. Small acute/subacute left cerebellar the superior vermis infarcts. Details above.

@@ -1,0 +1,7 @@
+Diseases: ['infarction']
+FINDINGS:
+
+There is restricted diffusion in the left corona radiata extending to the left subinsular region consistent with acute infarction. No hemorrhagic transformation. Old lacunar infarcts in the right capsule pons and medulla. There are foci of increased T2/FLAIR signal in the subcortical deep and periventricular white matter which are likely sequelae of chronic ischemia. The ventricles and sulci are normal in size and position. No extraaxial fluid collection. There is no abnormal enhancement. No mass lesions. The intracranial flow voids are normal. There is a cava septum pellucidum et vergae. The calvarium is normal. Bilateral lens replacement changes. The paranasal sinuses are normal.
+IMPRESSION:
+
+1. Acute infarction in the left corona radiata extending to the left subinsular region. No hemorrhagic transformation. 2. Old lacunar infarcts in the right capsule pons and medulla. 3. Chronic small vessel ischemic changes in the white matter.

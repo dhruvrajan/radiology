@@ -1,0 +1,7 @@
+Diseases: ['amyloid']
+FINDINGS:
+
+Motion degrades detail on multiple sequences. Within these limits ventricles and CSF spaces are symmetric and minimally prominent for stated age of 67. Mesial temporal volume concordant. Scattered hyperintensities on T2-weighted and FLAIR images are identified in the periventricular and deep white matter left more than right and mild to moderate extent. The pattern is nonspecific but it is in excess of that expected for age. On susceptibility weighted images there are multiple foci of punctate abnormal susceptibility mostly in the periphery of the brain and subcortical regions and with sparing for the most part of deep gray matter and more central regions primarily supratentorial as well. There is fluid intensity around the right temporomandibular joint which is circumferential and moderate in extent mild to moderate deformity of the condylar head suggests degenerative origin. Appropriate flow voids are identified.
+IMPRESSION:
+
+1. Motion degraded exam mild volume loss for age with relative concordance mesial temporal lobe structures. Multiple peripheral punctate foci of abnormal susceptibility may represent amyloid angiopathy. 2. Degenerative changes temporomandibular joint on the right with a moderate amount of fluid in the joint space. Correlate clinically.

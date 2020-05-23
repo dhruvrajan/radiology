@@ -1,0 +1,7 @@
+Diseases: ['infarction']
+FINDINGS:
+
+There is extensive periventricular white matter high T2 signal which is nonspecific but likely the sequela of small vessel ischemic change. Additionally a round 1 cm T2 hyperintense lesion in the right corona radiata is hyperintense on diffusion-weighted imaging but isointense to mildly hyperintense on the diffusion weighted imaging. There is no enhancement. It appears new when compared to the reference CT from December 10 2009 from Atlanta care regional medical Center ER. No abnormal enhancement is seen to suggest metastatic disease. There is age-appropriate cerebral volume. The ventricles are symmetric and the basal cisterns are patent. Small retention cyst is present in the left maxillary sinus. There has been bilateral cataract surgery.
+IMPRESSION:
+
+1. No evidence of metastatic disease to the brain. 2. Findings most consistent with a subacute lacunar infarction in the right corona radiata see above. Clinically correlate.

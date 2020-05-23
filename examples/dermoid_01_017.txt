@@ -1,0 +1,7 @@
+Diseases: ['astrocytoma', 'hemangioblastoma', 'dermoid']
+FINDINGS:
+
+Brain:Postoperative changes from suboccipital craniotomy. Probable post-operative changes at inferior vermis. Stable foci of fat signal in the right lateral ventricle and subarachnoid spaces. Stable signal changes in left periventricular white matter. No new signal abnormality or restricted diffusion. No abnormal enhancement in the brain. C-spine: Postoperative changes from multilevel laminectomies from C4 through C7. Kyphotic alignment. Multilevel stenosis worst from C5 through C7. Signal changes in the posterior cord from C3 through T1. With contrast there is enhancement in the posterior cord from C4-5 through C7-T1.
+IMPRESSION:
+
+1. Post-operative changes in the posterior fossa. No abnormal enhancement in the brain.2. Post-operative changes from multilevel laminectomies with kyphosis and multilevel spinal stenosis. Signal changes in posterior cord from C3 through T1 with enhancement from C4-5 through C7-T1. Some of these changes may represent myelomalacia with cord edema and enhancement. However given the patient history some of these changes may represent cord tumor astrocytoma and/or hemangioblastoma. Comparison with prior imaging suggested to determine interval change.3. Stable fat deposits in the CSF spaces. The intraventricular fat was also present on a CT 6/19/06 and may be post-operative. Ruptured dermoid cyst may cause such a finding. Consider imaging of thoracic and lumbar spine if not already performed.

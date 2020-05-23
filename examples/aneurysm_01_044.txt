@@ -1,0 +1,7 @@
+Diseases: ['normal']
+FINDINGS:
+
+The ventricles and sulci are normal in size and configuration. The brain parenchyma is normal in morphology and signal intensity. The visualized paranasal sinuses and orbital contents are normal. The calvarium is normal in marrow signal. There is an extraaxial nonenhancing lesion in the left frontal lobe adjacent to the skull which shows increased susceptibility and decreased signal on T2 probably a benign dural calcification. There are a few scattered T2/FLAIR hyperintensities in the deep white matter a nonspecific finding. MRA of the circle of Willis shows no evidence of intracranial stenosis occlusion or aneurysm.
+IMPRESSION:
+
+1. Essentially unremarkable MRI of the brain. 2. Normal MRA of the circle of Willis. I certify that I have personally reviewed the image and interpretation for this examination and agree with the findings in this report.

@@ -1,0 +1,7 @@
+Diseases: ['encephalitis']
+FINDINGS:
+
+Study limited by no contrast administration and patient motion. There is no acute intracranial hemorrhage extracerebral fluid collection midline shift or mass effect. Diffuse increased white matter signal intensity is noted on T2 weighed images. In an HIV patient could represent encephalitis. Clinical correlation suggested. Scattered foci of T2/flair hyperintensity are visualized in the subcortical periventricular and deep white matter. This is a nonspecific finding and can indicate vasculitis demyelination or small vessel ischemic change. The cerebral volume is appropriate for the patient's stated age. Following contrast administration there is no pathologic enhancement. Prominent adenoids tissue is noted can be associated with HIV infection. The calvarium is normal in marrow signal. The orbital contents are grossly unremarkable. Mucosal hypertrophy is seen in bilateral maxillary and ethmoid sinuses. The frontal and sphenoid sinus are hypoplastic.
+IMPRESSION:
+
+1. Diffuse increased T2 signal intensity in the cerebral white matter. Nonspecific finding in an HIV patient can represent encephalitis. There is associated scattered T2/flair hyperintensities in the white matter and indicate demyelination vasculitis or small vessel ischemic change. Clinical correlation suggested. ATTENDING: The patient was in fact given gadolinium. There is no evidence for abnormal enhancement. Agree with the remainder of the study. I certify that I have personally reviewed this examination and agreewith this report.

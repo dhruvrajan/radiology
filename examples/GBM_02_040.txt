@@ -1,0 +1,7 @@
+Diseases: ['metastasis', 'glioblastoma']
+FINDINGS:
+
+1.4 cm enhancing left occipital lobe mass with extensive regional T2 prolongation involving the parietal and occipital lobes most consistent with vasogenic edema. Possible mild T1 shortening suggesting hemorrhage within the mass. No restricted diffusion. The mass demonstrates elevated rCBV especially superiorly. Regional mass effect including on left atria and minimal left to right midline shift. No other enhancing lesions. No restricted diffusion in cavitating portion. Processed spectroscopy data shows dominant lipid/lactate peak in margin but more normalized metabolite ratios in the extensive edema outside the enhancing part. Additional left greater than right periventricular deep and subcortical white matter T2 hyperintense foci nonspecific. Focal thinning of the anterior body of the corpus callosum which may be dysgenetic or old trauma in nature. Additional T2-bright nonspecific focal hyperintensities in callosum. Paranasal sinuses are clear.
+IMPRESSION:
+
+1. 1.4 cm enhancing left occipital lobe mass with extensive regional T2 prolongation involving the parietal and occipital lobes most consistent with vasogenic edema can't exclude component of infiltrating neoplasm. Metastasis versus high grade glioma (glioblastoma) are the primary considerations.2. Left greater than right periventricular deep and subcortical white matter T2 hyperintensity nonspecific.

@@ -1,0 +1,7 @@
+Diseases: ['aneurysm', 'aneurysm']
+FINDINGS:
+
+Diffusion weighted images show no acute ischemia. Scattered subarachnoid and intraventricular hemorrhage again noted. Ventricles are not enlarged. Prior tract from right ventriculstomy noted. Mild edema and enhancement in left frontal lobe adjacent to the coiled ACOM aneurysm. Punctate signal abnormality in right frontal lobe nonspecific. The gadolinium-enhanced MRA does not include the area of interest. The TOF imaging is somewhat degraded by motion artifacts and also the presence of T1-hyperintense blood products. There is a suggestion of narrowing of the intracranial vessels including the bilateral MCAs and vertebrobasilar system that may reflect vasospasm. The bilateral ICAs are also not well seen although some of this finding may be artifactual.
+IMPRESSION:
+
+1. No acute ischemia. 2. Evolving subarachnoid hemorrhage. 3. Post-coiling changes with possible mild inflammation around the coiled ACOM aneurysm. 4. On MRA evaluation for aneurysm is poor; see above. 5. Probable diffuse intracranial vasospasm. Correlate with TCDs; consider angiogram.

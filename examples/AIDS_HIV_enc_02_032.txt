@@ -1,0 +1,7 @@
+Diseases: ['encephalitis']
+FINDINGS:
+
+There are diffuse white matter changes noted with abnormal signal in the white matter on T2 and flair images. These areas include periventricular white matter semicentrum ovale superior temporal gyrus insular cortex basal ganglia cerebellum and brainstem. Multifocal areas of thinning and diffuse abnormal T2 signal of the corpus callosum especially in the splenium is also noted. There is no restricted diffusion in the brain. The ventricles and sulci are normal in size and position. The extraaxial spaces are normal without evidence of mass or blood. The intracranial flow voids are normal. The calvarium is normal. The orbits are normal. The paranasal sinuses are normal.
+IMPRESSION:
+
+1. Diffuse abnormal signal on T2 and FLAIR images in white matter and other areas mentioned above. Abnormal signal and thinning of the corpus collosum is also noted. These changes may be secondary to HIV encephalitis HIV vasculitis; however due to prominent changes in corpus collosum we may also be dealing with PML in addition.. I certify that I have personally reviewed the image and interpretation for this examination and agree with the findings in this report.

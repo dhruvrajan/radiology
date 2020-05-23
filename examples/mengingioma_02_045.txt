@@ -1,0 +1,7 @@
+Diseases: ['meningioma', 'meningioma', 'schwannoma']
+FINDINGS:
+
+Redemonstration of an extra-axial enhancing mass in the right frontal region compatible with a meningioma which has slightly increased in size. It now measures about 1.4 x 1.4 cm compared to previous measurement of 8 x 8 mm in the axial plane. An enhancing lesion in the right skull base region also appears relatively stable measuring about 1.4 x 0.7 cm in the axial plane. No new enhancing lesions are seen. There is no intracranial hemorrhage extracerebral fluid collection midline shift or mass effect. No diffusion abnormalities are seen. There is patency of the intracranial circulation including the bilateral distal vertebral arteries basilar artery and its distal branches the bilateral intracranial internal carotid arteries and the A1 and M1 segments. There are no regions of focal stenosis or aneurysm formation. Please note MRA is less sensitive for those aneurysms under 5 mm.
+IMPRESSION:
+
+1. Redemonstration of an extra-axial enhancing mass in the right frontal region compatible with meningioma which has slightly increased in size on the prior study. 2. An enhancing lesion in the right skull base region appears relatively stable. Differential considerations are unchanged including meningioma paraganglioma or schwannoma as a few of the possible etiologies. 3. Patency of the intracranial circulation as above.

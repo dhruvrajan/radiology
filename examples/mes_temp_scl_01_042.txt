@@ -1,0 +1,7 @@
+Diseases: ['normal', 'normal']
+FINDINGS:
+
+There is no acute intracranial hemorrhage extracerebral fluidcollection mass effect or shift of midline. The ventricularsystem is normal in size and configuration.The left hippocampus has slightly decreased volume when comparedto the right side however is no abnormal signal and findings donot meet criteria for mesial temporal sclerosis.The visualized paranasal sinuses are clear with the exception ofminimal mucosal disease in the left maxillary sinus.The intracranial internal carotid arteries and their branches arenormal in course and caliber. The vertrbro-basilar system iswithin normal limits. There is no evidence of aneurysms orhemodynamically significant stenosis.
+IMPRESSION:
+
+1. Normal study of the brain. No evidence of mesial temporalsclerosis. See above.2. Normal MRA of intracranial arteries.Transcribed by: Interface TalkStation

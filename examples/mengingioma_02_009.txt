@@ -1,0 +1,7 @@
+Diseases: ['meningioma']
+FINDINGS:
+
+The images are motion degraded. There is no acute intracranial hemorrhage extracerebral fluid collection midline shift or mass effect. Following contrast administration there is no pathologic parenchymal or leptomeningeal enhancement. A 1.4 x 0.4 x 0.5 cm irregular area of dural enhancement along the left tentorium cerebelli is seen on image 13 of series 9 and image 29 of series 10. This may represent a venous plexus and less likely a meningioma. There is no abnormal susceptibility or restricted diffusion. The cerebral volume is appropriate for the patient's stated age. There is apparent fenestration of the right A1 segment. The right intracranial vertebral artery is hypoplastic. The visualized paranasal sinuses and mastoid air cells are clear except for minimal mucosal thickening in there right ethmoid sinus and small mucous retention cysts in bilateral maxillary sinuses.
+IMPRESSION:
+
+1. No focal parenchymal brain abnormality. 2. An area of irregular enhancement along the left tentorium cerebelli likely represents a venous plexus. Other etiologies such as meningioma or less likely. Consider follow-up imaging if clinically warranted. 3. Apparent fenestration of the right A1 segment. This could be confirmed with a CT angiogram if clinically warranted. Attending review: I personally reviewed this examination and agree with the above except that I think that the finding referred to on the left tentorium may represent merely a confluence of overlapping veins.

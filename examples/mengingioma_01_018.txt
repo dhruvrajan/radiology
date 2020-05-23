@@ -1,0 +1,7 @@
+Diseases: ['meningioma']
+FINDINGS:
+
+There is a 1.9 x 1.9cm extra-axial mass along the left anterior middle cranial fossa which demonstrates a dural tail. Although it appears to have fairly avid enhancement it also appears to have a necrotic center. There is no surrounding edema of the brain. There is minimal abnormal bone marrow in the medial left sphenoid wing consistent with bony involvement of reactive change. Comparison with recent CT shows that this is fairly heavily calcified. The cerebral volume is appropriate for age. The ventricles are normal in position. There are several punctate T2/FLAIR hyperintensities in the periventricular deep white matter and centrum semiovale likely sequela of small vessel ischemic disease. There is no intra or extra-axial fluid collections. There is no intraparenchymal hemorrhage. The visualized paranasal sinuses are clear. There is some focal fluid opacification in the right mastoid air cells. Diffusion weighted imaging demonstrates no acute ischemia. Gradient echo imaging shows no hemosiderin depostion within the brain. Temporal lobes are symmetric and unremarkable for age.
+IMPRESSION:
+
+1. 1.9 cm left middle cranial fossa extra-axial mass likely to represent meningioma given appearance and extent of calcification on CT. Other etiologies such as dural-based metastases would be unlikely with this pattern. Recommend follow-up to ensure stability.2. Nonspecific white matter hyperintensities on long-TR images most likely chronic small vessel ischemic changes. Discussed with Dr. Davis neurology.

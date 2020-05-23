@@ -1,0 +1,7 @@
+Diseases: ['encephalomalacia']
+FINDINGS:
+
+There is encephalomalacia of the left temporal lobe likely from old infarction. There is also mild small vessel ischemic changes. Along the right parietal occipital region the dura is thickened and enhances. There is age-appropriate volume loss. No masses are seen. There is a septum cavum pellucidum. There is no midline shift or extra axial fluid collections. The orbits are normal. There is extensive paranasal sinus disease with previous surgery. There are no regions of restricted diffusion.
+IMPRESSION:
+
+1. Nonspecific thickening and enhancement of the dura in the right right occipital region. This is nonspecific and may be secondary to previous lumbar punctures infectious inflammatory or neoplastic conditions.2. No evidence of dissection although MRA is recommended if this is a concern3. Encephalomalacia of the left temporal lobe and small vessel ischemic changes

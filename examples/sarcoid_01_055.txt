@@ -1,0 +1,7 @@
+Diseases: ['normal']
+FINDINGS:
+
+MRA of the circle of Willis shows no evidence of intracranial stenosis occlusion or aneurysm. The right PCOM is hypoplastic MRA of the cervical vessels demonstrates mild irregularity of the proximal right common carotid artery near its origin however the remainder of the carotid remains fully patent. The vertebral arteries and left carotid demonstrate normal caliber and course from their origins to their intracranial portions
+IMPRESSION:
+
+1. Normal MRA of the circle of Willis. 2. Mild irregularity of the proximal right common carotid near its origin perhaps artifactual. 3. The remainder of the neck MRA is unremarkable.

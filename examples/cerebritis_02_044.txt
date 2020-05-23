@@ -1,0 +1,7 @@
+Diseases: ['normal']
+FINDINGS:
+
+The cerebral ventricles cortical sulci and basal cisterns areunremarkable. There are no areas of parenchymal signalabnormality. There are no abnormal areas of restricted diffusion.There is no pathologic enhancement.There is low signal intensity in the bone marrow on the T1weighted images consistent with chronic disease. Advise clinicalcorrelation.There is a mucus retention cyst in the left maxillary sinus.
+IMPRESSION:
+
+1. No interval change.2. Normal MRI appearance of the brain.3. Low T1 signal intensity within the bone mass suggests chronicdisease.Transcribed by: Interface TalkStationLast Edited by: Interface TalkStation

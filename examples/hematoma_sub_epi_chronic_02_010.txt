@@ -1,0 +1,7 @@
+Diseases: ['hematoma']
+FINDINGS:
+
+Again demonstrated is a single lesion in the left pons which is 1.9 centimeters in maximum diameter. There is no associated mass effect. There is decreased FLAIR T2. There is increased susceptibility artifact.There is punctate contrast enhancement. This is stable in appearance since the prior study and likely represents postsurgical blood products although a residual cavernoma cannot be excluded. There is a single lesion in the left subdural space along the lateral convexity which is 0.9 centimeters in maximum diameter. There is mild associated mass effect. There is increased FLAIR T2. There is intermediate signal on T1.There is no contrast enhancement. This is in keeping with an extracerebral subdural hematoma of chronic age and is increased in size since the prior study. There is a smaller similar lesion overlying the left temporal pole similar to previous exam. Otherwise the ventricles and sulci are normal as to size shape and position for age. There are no areas of abnormal signal intensity. There are no areas of abnormal contrast enhancement. There are no craniofacial abnormalities.
+IMPRESSION:
+
+1. Residual cavernoma versus postsurgical blood products in the left pons. Stable. 2. Left subdural hematoma chronic. Increased in size. Clinical

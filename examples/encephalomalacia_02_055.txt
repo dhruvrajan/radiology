@@ -1,0 +1,7 @@
+Diseases: ['gliosis']
+FINDINGS:
+
+There are stable post surgical findings from a craniotomy with encephalomalacia and gliosis in the left frontal lobe unchanged by comparison. There has been continued resolution of blood products. The ventricular system is stable in size with mild ex-vacuo dilatation of the left lateral ventricle. No mass effect or midline shift. No restricted diffusion. After contrast administration there is a stable left convexity and interhemispheric dural enhancement. No definite recurrent mass. There is mild left maxillary sinus mucosal thickening and partial opacification of the ethmoid air cells.
+IMPRESSION:
+
+1. Stable post-surgical findings and left frontal lobe gliosis. No evidence of recurrent mass.

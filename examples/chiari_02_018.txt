@@ -1,0 +1,7 @@
+Diseases: ['normal']
+FINDINGS:
+
+The midline structures including pituitary gland tectum pineal gland and corpus callosum of unremarkable. Small area of T1 and T2 shortening is seen in the anterior falx likely a focus of mineralization. There is no acute intracranial hemorrhage extracerebral fluid collection midline shift or mass effect. The cerebellar tonsils are above the foramen magnum and normal in configuration. The cerebral volume is appropriate for the patient's stated age. There is no evidence of restricted diffusion. The visualized paranasal sinuses mastoid air cells middle ear cavity are grossly clear. The phase contrast images at the level of the foramen magnum demonstrate normal CSF flow through foramen magnum through cardiac cycle.
+IMPRESSION:
+
+1. There is no evidence of Chiari malformation. 2. Normal CSF flow at the foramen magnum

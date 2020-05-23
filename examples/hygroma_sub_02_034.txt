@@ -1,0 +1,7 @@
+Diseases: ['hygroma']
+FINDINGS:
+
+There is no acute infarct intracranial hemorrhage extra-axial collection or mass lesion. There are nonspecific nonenhancing foci of T2 prolongation in the periventricular deep and subcortical white matter probably sequela of small vessel chronic ischemia. There is ventricular prominence out of proportion to sulcal prominence likely reflecting central greater than cortical atrophy. There is no pathologic enhancement of the brain parenchyma or its coverings. Redemonstrated is a left middle cranial fossa arachnoid cyst extending into the operculum and causing mass effect on the anterior pole of temporal and inferior frontal lobe. There is a questionable small adjacent subdural hygroma. The major intracranial vessels demonstrate the expected signal void related to vascular flow. There is mild bilateral ethmoid air cells mucosal thickening. Trace fluid is noted in the right mastoid air cells.
+IMPRESSION:
+
+1. No acute intracranial process seen. No evidence of metastatic disease. 2. Left middle cranial fossa arachnoid cyst as described. A questionable small adjacent subdural hygroma. 3. Central greater than cortical atrophy and probable sequela of small vessel ischemia.

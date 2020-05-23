@@ -1,0 +1,7 @@
+Diseases: ['epilepsy']
+FINDINGS:
+
+No feeding vessels to the area of signal abnormality in the right basal ganglia is seen. There is no enlargement of the right ICA or MCA. There is no evidence of residual perfusion of the nidus on MRA. Please note conventional angiography is significantly more sensitive. The intracranial internal carotid arteries A1 and M1 segments bilateral intracranial vertebral arteries basilar artery and its distal branches are patent with no focal stenosis or aneurysm formation. Please note that MRA is insensitive for small aneurysms and small vessel vasculitis.
+IMPRESSION:
+
+1. AVM nidus in the right basal ganglia with signal characteristics suggestive of treatment unchanged from 1998. No evidence of residual perfusion of the AVM on MRA. Please note that conventional angiogram would be more sensitive for the detection of residual perfusion small aneurysms or additional small vascular malformations. 2. Mild FLAIR signal abnormality in the white matter nonspecific can be seen with HIV. 3. Global volume loss probably related to HIV or chronic epilepsy treatment. ATTENDING RADIOLOGIST AGREEMENT: I agree with the preliminary report without modification. Mild prominence of the nasopharyngeal soft tissues. I certify that I have personally reviewed the image and interpretation for this examination and agree with the findings in this report.

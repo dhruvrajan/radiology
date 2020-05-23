@@ -1,0 +1,7 @@
+Diseases: ['meningitis']
+FINDINGS:
+
+Two oral tubes are visualized. Evaluation of the cervical spine demonstrates normal alignment. There are mild degenerative changes. No focal marrow lesions are identified. The cervical spinal cord is intrinsically normal in size without focal regions of volume loss or expansion. There are no signal abnormalities in the cord which can be confirmed in two planes. There is no cord compression.
+IMPRESSION:
+
+1. Region of flair hyperintensity in the left temporal occipital region with possible associated diffusion abnormality (diffusion scan degraded by motion artifact) possibly representing an infarct. 2. Flair signal abnormality in the left hippocampus with equivocal diffusion abnormality. This may be related to recent seizure activity versus recent hypoxic/ischemic event. 3. Diffuse hyperintense flair signal throughout the cortical sulci. Differential diagnosis includes however is not limited to subarachnoid hemorrhage meningitis and oxygen therapy. 4. No evidence for traumatic injury in the cervical spine. Above discussed with Dr. Hussen at 1 a.m. Final Attending

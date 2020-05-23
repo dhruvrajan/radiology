@@ -1,0 +1,7 @@
+Diseases: ['sarcoidosis']
+FINDINGS:
+
+Evaluation of the thoracic spine demonstrates normal alignment. There are mild degenerative changes. No focal marrow lesions are identified. The thoracic spinal cord is intrinsically normal in size without focal regions of volume loss or expansion. No abnormal T2 cord signal identified. Following contrast administration there is no pathologic enhancement. Scarring of the lung apices is noted. There is nodularity of the left adrenal gland.
+IMPRESSION:
+
+1. Greater than 10 punctate foci of flair hyperintensity in the supratentorial white matter. Findings are nonspecific and differential diagnosis includes demyelination vasculitis sarcoidosis Lyme disease chronic small vessel ischemic disease among others. 2. No lesions in the cervical or thoracic cord. 3. Nodularity of the left adrenal gland incompletely evaluated. 4. Scarring of the lung apices.

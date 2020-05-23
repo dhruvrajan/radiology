@@ -1,0 +1,7 @@
+Diseases: ['schwannoma']
+FINDINGS:
+
+Again seen is an enhancing 12 mm in maximal dimension mass in the right cerebellopontine angle and porous acousticus/internal auditory canal. This is consistent with a vestibular neuroma. This is unchanged since the most recent prior examination. This may be 1 mm larger since the study from 2004. There are several scattered foci of T2/FLAIR hyperintensity within the subcortical deep and periventricular white matter which are stable with the prior examination and nonspecific regarding etiology. In a patient of this age it is possible they reflect sequela of small vessel ischemic disease. There is a stable venous angioma in the left parietal lobe. There is no intracranial hemorrhage extracerebral fluid collection midline shift or pathologic parenchymal enhancement. Again seen is subtotal opacification of the sphenoid sinus and partial opacification of the bilateral ethmoid air cells. There has been interval decrease in mucosal thickening within the right frontal sinus.
+IMPRESSION:
+
+1. Stable vestibular schwannoma in the right internal auditory canals/cerebellopontine angle see above. 2. Stable nonspecific white matter changes as above.

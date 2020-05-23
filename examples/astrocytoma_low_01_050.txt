@@ -1,0 +1,7 @@
+Diseases: ['encephalitis', 'encephalitis']
+FINDINGS:
+
+There is increased FLAIR signal involving the gray and white matter with gyral expansion of the inferior right frontal lobe extending into the anterior tip of the right temporal lobe. These findings are concerning for neoplasm. Following contrast administration there is no pathologic enhancement in this region. Perfusion imaging demonstrates no elevated cerebral blood volume. Spectroscopy demonstrates mild choline elevation in the right insula. However there is no significant choline elevation to suggest a high grade glioma. There is lipid/lactate elevation. There is no restricted diffusion. There is decreased marrow signal intensity in the clivus with no enhancement. Consider such processesas leukemia lymphoma or anemia. Tumor or metastatic disease is less likely. There is no acute intracranial hemorrhage extracerebral fluid collection or midline shift. The cerebral volume is appropriate for the patient's stated age. Following contrast administration there is no pathologic enhancement. The visualized paranasal sinuses are grossly clear.
+IMPRESSION:
+
+1. Right frontal/temporal lesion. While the differential includes low-grade glioma and encephalitis history may be helpful in this regard and the abscence of diffusion abnormailty and pattern of involvment makes herpes encephalitis less likely. 2. Clivus bone marrow abnormality see comment.

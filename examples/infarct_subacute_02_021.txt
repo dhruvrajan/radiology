@@ -1,0 +1,7 @@
+Diseases: ['infarction']
+FINDINGS:
+
+There is intraparenchymal hemorrhage along the bilateral paramedian superior frontal gyrus right larger than left. No underlying enhancing mass lesions. There is a small focus of acute/subacute infarction in the right cerebellar hemisphere. There are extensive foci of increased T2/FLAIR signal in the periventricular subcortical and deep white matter which are likely sequelae of chronic ischemia. The ventricles and sulci are normal in size and position. No extraaxial fluid collection. There is no abnormal enhancement. No mass lesions. No intracranial hemorrhage. The intracranial flow voids are normal. The calvarium is normal. Bilateral lens replacement changes. Mucosal thickening in the paranasal sinuses.
+IMPRESSION:
+
+1. Acute/subacute intraparenchymal hemorrhage along the bilateral superior paramedian frontal gyrus right larger than left. No underlying enhancing mass lesions. 2. Small focus of acute/subacute infarction in the right cerebellar hemisphere. No hemorrhagic transformation. 3. Chronic small vessel ischemic changes in the white matter.

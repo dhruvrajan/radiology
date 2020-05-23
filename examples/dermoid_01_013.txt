@@ -1,0 +1,7 @@
+Diseases: ['lipoma', 'dermoid']
+FINDINGS:
+
+There is unchanged appearance of a T1 hyperintense 7-mm suprasellar mass which is just inferior to the mammillary bodies abutting the tuber cinereum anteriorly and basilar artery posteriorly. No cortical dysplasias are identified. Hippocampal volumes and signal intensity are within normal limits. No suspicious regions of cerebral parenchymal enhancement. There are scattered subcortical deep and periventricular white matter T2/FLAIR hyperintensities which do not enhance and are nonspecific slightly increased in number from prior exam though this may be exaggerated by improved quality of current study one on right is juxtaventricular though stable. No restricted diffusion. No suspicious extra-axial fluid collections. No suspicious foci of susceptibility to suggest intraparenchymal hemorrhage. Intracranial vascular flow signals are maintained. Hypoplastic left vertebral artery noted. No suspicious meningeal enhancement. No ventriculomegaly. Mild ethmoidal mucosal changes.. Calvarium and orbits are within normal limits.
+IMPRESSION:
+
+1. Unchanged appearance of 7-mm suprasellar lesion likely representing a lipoma versus dermoid. 2. Interval increase in number of small nonspecific T2/FLAIR white matter hyperintensities as above more than expected for age though overall pattern similar to prior. I certify that I have personally reviewed the image and interpretation for this examination and agree with the findings in this report.

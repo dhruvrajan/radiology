@@ -1,0 +1,7 @@
+Diseases: ['schwannoma', 'aneurysm', 'metastasis', 'normal']
+FINDINGS:
+
+There is an approximately 6 x 8 mm oval extra-axial mass left pontomedullary angle slightly lobulated appearance and homogeneously enhancing structure of origin uncertain but does not appear vascular/aneurysmal. There is no change since the prior study October 11 2012. Ventricles and CSF spaces are otherwise nearly symmetric and minimally prominent stable appearance. Scattered hyperintensities on long-TR images are noted in the periventricular and deep white matter which are nonspecific but relatively stable in extent and mild for age of 83. Bony structures are unremarkable. No acute findings on diffusion-weighted images.
+IMPRESSION:
+
+1. Stable minimally lobulated small extra-axial mass left pontomedullary region with homogeneous enhancement. Favor neural origin such as schwannoma no change since October 11 2012. Less likely possibilities include choroid plexus papilloma ependymoma or other neoplasms and vascular origin such as aneurysm unlikely stability and appearance less likely for metastasis. Recommend continued follow-up to ensure stability in about 6-12 months. 2. Mild parenchymal volume loss top normal for age and mild nonspecific white matter hyperintensities stable in appearance.

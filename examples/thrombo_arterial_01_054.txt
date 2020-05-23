@@ -1,0 +1,7 @@
+Diseases: ['normal', 'normal']
+FINDINGS:
+
+The ventricles and sulci are normal in appearance withoutparenchymal signal abnormality mass effect or midline shift. Noevidence of intracranial hemorrhage. The basal cisterns arepatent. No pathologic enhancement is demonstrated. No diffusionrestriction is present.The expected arterial flow voids are present.A mucus retention cyst is present in the left maxillary sinus.The sinuses and mastoids are otherwise clear.MR venography demonstrates normal flow related enhancement withinall expected large venous structures.
+IMPRESSION:
+
+1. Normal enhanced MRI of the brain.2. Normal MR venography of the brain.Transcribed by: Interface TalkStation

@@ -1,0 +1,7 @@
+Diseases: ['schwannoma', 'lymphoma']
+FINDINGS:
+
+Again noted are scattered nonspecific signal abnormalities in the bilateral cerebral white matter nonspecific but unchanged. No mass-effect no abnormal restricted diffusion. Ventricles and sulci remain prominent for age but stable. With contrast there is a possible small focus of enhancement in the left internal auditory canal (series 13 image 6). Thin-section imaging of the orbits shows no mass lesion no abnormal enhancement. The optic nerves are symmetric in size. Possible high signal in the right optic nerve in its intracanalicular component and the orbital apex. No abnormal enhancement. Marrow signal is heterogeneous but stable.
+IMPRESSION:
+
+1. Possible enhancement in the left internal auditory canal. This finding may represent a small schwannoma but correlation with CSF sampling is suggested to exclude lymphoma. 2. Nonspecific signal abnormalities in the white matter stable. 3. No orbital mass. Possible high signal in right optic nerve without enhancement may reflect a past episode of optic neuritis. Clinical correlation advised.

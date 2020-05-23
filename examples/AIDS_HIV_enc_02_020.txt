@@ -1,0 +1,7 @@
+Diseases: ['encephalitis']
+FINDINGS:
+
+Again noted are patchy and confluent areas of T2 prolongation within the subcortical and periventricular white matter overall mildly improved since October but worsened since February. T2 signal abnormality within the right basal ganglia right thalamus and dorsal brainstem has also mildly improved. However there has been progression of T2 signal abnormality within the left basal ganglia ventral pons and bilateral cerebellar white matter greater on the left. Increased T2 signal in the inferior frontal lobes left medial temporal lobe left thalamus and left cerebral peduncle. There is no acute intracranial hemorrhage extracerebral fluid collection midline shift or mass effect. Again noted is a prior right craniotomy. Following contrast administration there is irregular linear enhancement in the right frontal lobe slightly improved and likely due to biopsy. Artifact from dental braces degrades evaluation of the maxillofacial/orbital structures and significantly degrades the diffusion-weighted images.
+IMPRESSION:
+
+1. Waxing and waning hyperintense T2 signal abnormalities over time. Since the 2/26/2008 study there has been mild worsening of the cerebral white matter signal abnormality and mild progression in the left basal ganglia and cerebellar hemispheres. These findings are consistent with HIV encephalitis superimposed infection such as PML cannot exclude. 2. Postsurgical changes right frontal lobe with residual enhancement likely related to biopsy.

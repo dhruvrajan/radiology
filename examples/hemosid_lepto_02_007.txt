@@ -1,0 +1,7 @@
+Diseases: ['hydrocephalus']
+FINDINGS:
+
+Redemonstrated is mild to moderate hydrocephalus which has not significantly changed. High T2 signal surrounding the ventricles is unchanged and again reflects a combination of abnormal flow of CSF and chronic small vessel ischemic disease. On the susceptibility images there is significant low signal in the sub-arachnoid spaces most prominent in the cerebellum as well as supratentorially consistent with hemosiderin deposition. Focus of remote hemorrhage in the right thalamus is redemonstrated. There is no midline shift or mass-effect. There is no restricted diffusion. The calvarium is normal. The orbits are normal. Mild mucosal thickening in the left maxillary sinus.
+IMPRESSION:
+
+1. Stable communicating hydrocephalus. 2. Superficial siderosis. 3. No acute/subacute infarct. ATTENDING RADIOLOGIST AGREEMENT: I have personally reviewed the images and agree with this report. I certify that I have personally reviewed the image and interpretation and agree with the findings in this report.

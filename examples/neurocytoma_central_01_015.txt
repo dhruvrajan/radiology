@@ -1,0 +1,7 @@
+Diseases: ['neurocytoma']
+FINDINGS:
+
+Overall no recent change. Stable post-operative findings of vertex craniotomy and interhemispheric trans-callosal resection of the intraventricular tumor. Stable cavity extending inferiorly into the innominate area on the left. Stable distortion with rightward deviation of the septum pellucidum. No tumor recurrence. Extensive signal changes in bilateral cerebral white matter stable since 6/28/13 but progtressed since 8/15/11. No new areas of signal abnormality. With contrast no significant enhancement. Mild opacification in right mastoids.
+IMPRESSION:
+
+1. Post-operative changes from trans-callosal resection of central neurocytoma no tumor recurrence. 2. Widespread white matter lesions progressed since 2011. Clinical correlation advised for demyelinating infectious/inflammatory vascular/ischemic disease etc.

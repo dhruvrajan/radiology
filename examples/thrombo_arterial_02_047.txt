@@ -1,0 +1,7 @@
+Diseases: ['normal']
+FINDINGS:
+
+Again noted are changes from left pterional craniomtomy and left anterior lobe resection. Again noted is hemorrhage with surrounding edema in the left temporal lobe just posterior to the resection cavity. There is no associated restricted diffusion except for a small area at the periphery of the left temporal lobe likely post-surgical in nature. There is no restricted diffusion within the center of the left temporal lobe hemorrhage/edema. Small amount of hemorrhage is in the lateral ventricles. Stable diffuse increase of FLAIR signal in the cortical sulci may be related to high O2 ventilation. There are no areas of abnormal enhancement. Periventricular white matter areas of T2/FLAIR hyperintensity nonspecific likely chronic small vessel ischemic disease. Bilateral cataract surgery. MRV is normal. There is no evidence of venous thrombosis.
+IMPRESSION:
+
+1. Stable postsurgical changes and hemorrhage and edema in the left temporal lobe. 2. Normal MRV. No evidence of venous thrombosis clinical impression.

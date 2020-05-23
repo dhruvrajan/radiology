@@ -1,0 +1,7 @@
+Diseases: ['metastasis']
+FINDINGS:
+
+Brain: There is an approximate 29 mm cystic mass lesion in theleft superior cerebellum. There are a few foci of signal lossinferiorly likely calcification. Mild amount of surroundingedema. There is mass effect upon the fourth ventricle pushinginto the right but no evidence of hydrocephalus. With contrast there is thin rim enhancement around the mass.No areas of abnormal restricted diffusion. The visualizedparanasal sinuses and orbital contents are normal. The calvariumis normal in marrow signal.Spine: The vertebrae are normal in height alignment and signalintensity. No evidence of compressive mass on the cord or caudaequina in the cervical thoracic or lumbar spine. The spinalcord is normal in size and signal intensity.Incidental note made of degenerative disease in the cervical andthoracic spine. There is also a prominent left lateral diskextrusion at T8-9 contacting the ventral cord.The conus medullaris is normal in appearance terminating at L1.The paraspinal tissues are normal.
+IMPRESSION:
+
+1. Mass lesion in left superior cerebellum. Differentialdiagnosis includes metastasis and hemangioblastoma.2. No evidence of metastatic disease in the spine. Degenerativechanges as above.Findings discussed with primary team.Transcribed by: Interface TalkStation

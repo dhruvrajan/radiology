@@ -1,0 +1,7 @@
+Diseases: ['lipoma', 'dermoid']
+FINDINGS:
+
+No mass effect or midline shift is identified. No areas of restricted diffusion or susceptibility. Ventricles and sulci are normal. No extra-axial collections. Mild T2W/FLAIR hyperintensity in the white matter may be within normal limits for age and scanning technique. Mucosal thickening in the right maxillary sinus is identified with probable retention cysts. Small opacification in right posterior ethmoids. Incidentally noted is a T1-hyperintense lesion in the floor of mouth slightly to the right of midline measuring approximately 1.7 cm. It is only partially visualized on the sagittal sequence and the localizers. It may represent a lipoma or dermoid. Clinical correlation is advised.
+IMPRESSION:
+
+1. No mass mass effect hemorrhage edema or hydrocephalus. Inflammatory changes in paranasal sinuses. 2. Incidental lesion noted in right floor of mouth possibly lipoma or dermoid. ENT evaluation suggested.

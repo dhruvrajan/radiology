@@ -1,0 +1,7 @@
+Diseases: ['cadasil']
+FINDINGS:
+
+Study is slightly degraded by motion. There are multiple FLAIR hyperintensities involving the periventricular subcortical and deep white matter. Many of these are confluent in appearance particularly along the posterior occipital horn of the lateral ventricles. There is also FLAIR hyperintensities involving the bilateral anterior temporal lobes external capsule and basal ganglia bilaterally. There are multiple small foci of susceptibility in the bilateral thalamus and basal ganglia which may represent prior microhemorrhages. There is no restricted diffusion in the brain. No mass lesions. There is no abnormal enhancement. The ventricles and sulci are normal in size and position. No extraaxial collection. The intracranial flow voids are normal. The calvarium is normal. The orbits are normal. There is mucosal thickening in the right maxillary sinus.
+IMPRESSION:
+
+1. No acute infarction in the brain. 2. Multiple FLAIR signal abnormalities in the periventricular deep and subcortical white matter external capsule anterior temporal lobes and basal ganglia. Given the family history and patient's age the findings are very concerning for CADASIL. Advise clinical correlation. 3. Multiple foci of susceptibility within bilateral thalami and to a lesser degree in the basal ganglia likely representing prior microhemorrhages.

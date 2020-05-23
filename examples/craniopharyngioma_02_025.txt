@@ -1,0 +1,7 @@
+Diseases: ['craniopharyngioma']
+FINDINGS:
+
+No abnormal focus of restricted diffusion is noted to suggest acute infarction. No acute intra-or extra-axial hemorrhage extra cerebral fluid collections masses mass effect shift of midline structures hydrocephalus or effacement of basal cisterns. No pathologic parenchymal/meningeal enhancement. Poorly visualized flow void of the left ICA and left MCA unchanged. Encephalomalacia from remote left MCA infarct is noted. Nonspecific T2 hyperintensity in bilateral temporal lobes and right frontal white matter not changed from the prior study consistent with radiation change. Stable distortion of the suprasellar cistern optic chiasm and infundibular stalk also unchanged from prior study. Visualized paranasal sinuses shows evidence of mild to moderate mucosal disease with changes of prior sinonasal surgery on the right (study suboptimal for evaluation of residual neoplasm). Bilateral mastoids appear grossly unremarkable. No aggressive appearing matter lesions.
+IMPRESSION:
+
+1. Stable postoperative changes in the suprasellar region consistent with remote craniopharyngioma resection. 2. Stable white matter changes in the bilateral temporal lobes and right frontal lobe likely radiation change. 3. Redemonstration left ICA occlusion MCA occlusion and MCA infarct with no interval acute intracranial findings.

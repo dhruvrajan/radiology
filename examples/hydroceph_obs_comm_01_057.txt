@@ -1,0 +1,7 @@
+Diseases: ['hydrocephalus']
+FINDINGS:
+
+Axial unenhanced T1 weighted 3-D MP rage images of the brain are obtained for research purposes only. Limited imaging performed for research purposes demonstrates no evidence of acute intracranial hemorrhage or mass effect. Ventricles and sulci are mildly prominent for age. There is probably mild cerebellar tonsillar ectopia Complete opacification of the frontal sinuses ethmoid air cells and bilateral nasal cavities with heterogeneous material with multiple foci of T1 hyperintensity. A 13-mm T1 hyperintense mass involves the right middle meatus and remodels or Rhodes bones of the right medial orbital floor with extension into the inferomedial extraconal soft tissues of the right orbit abutting the right inferior rectus muscle.
+IMPRESSION:
+
+1. Limited imaging performed for research purposes only. 2. Prominent ventricles and sulci likely reflect cerebral atrophy but communicating hydrocephalus is not excluded. 3. Extensive sinonasal opacification which may reflect sinonasal polyposis or mass such as nasopharyngeal carcinoma. Involvement of the right orbit as above. Direct visualization by otolaryngology and further evaluation with maxillofacial CT with consideration for maxillofacial MRI is recommended.

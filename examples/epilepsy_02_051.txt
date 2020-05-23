@@ -1,0 +1,7 @@
+Diseases: ['meningioma']
+FINDINGS:
+
+While the hippocampi are normal in size there is suggestion of slightly increased T2/FLAIR signal in the left hippocampus. This finding could represent changes from prior seizures or may be artifactual. There are incidental hippocampal cysts. There is no intracranial mass lesion or other abnormal parenchymal signa. The ventricles are normal in size and shape. There is a 1.2 cm calcified lesion dural based mass overlying the left frontal lobe possibly a meningioma. Consider contrast enhanced MR to evaluate as clinically indicated. The extra axial spaces are otherwise normal without evidence of blood. The vascular flow voids are unremarkable. The calvarium is normal. The orbits and paranasal sinuses are normal.
+IMPRESSION:
+
+1. Questionable T2 hyperintensity of the left hippocampus possibly due to seizure activity or artifact. Correlate with EEG and clinical exam. No other structural abnormality identified within the brain that may account for seizures. 2. Probable small left frontal meningioma. Consider contrast enhanced MR to evaluate as clinically indicated. I certify that I have personally reviewed the image and interpretation for this examination and agree with the findings in this report.

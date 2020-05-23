@@ -1,0 +1,7 @@
+Diseases: ['craniopharyngioma']
+FINDINGS:
+
+Images mildly degraded by motion artifact. There are no interval acute intracranial findings. There is no intracranial hemorrhage extracerebral fluid collection midline shift or mass effect. Cerebral volume is normal for age. There is no pathologic enhancement. Note is again made of multiple scattered foci of abnormal signal intensity throughout the white matter nonspecific. Evaluation of the pituitary gland demonstrates unchanged convex upward margin. The pituitary stalk is mildly deviated to the left unchanged and perhaps within the limits of normal. There is a thin sliver of focal hypoenhancement in the pituitary gland perhaps in the region of the pars intermedia (image 8 series 10). Otherwise no additional pituitary abnormality is identified. The optic chiasm is grossly normal in appearance. There is no suprasellar mass. The cavernous sinuses are unremarkable. There is minimal mucosal thickening in the sphenoid and ethmoid sinuses. The mastoid air cells are well-aerated. There is slight prominence of the central canal of the spinal cord.
+IMPRESSION:
+
+1. Focal hypoenhancement in the region of the pars intermedia favored to represent small pars intermedia cyst given location. However cannot exclude small cystic microadenoma or a tiny intrasellar craniopharyngioma. Recommend clinical and hormonal correlation. ATTENDING RADIOLOGIST AGREEMENT: I have personally reviewed the images and agree with this report.

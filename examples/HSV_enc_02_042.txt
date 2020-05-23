@@ -1,0 +1,7 @@
+Diseases: ['encephalitis']
+FINDINGS:
+
+Again noted are confluent areas of T2 and T1 prolongation in the left frontal temporal and parietal lobes extending into the splenium. Similar area in right parietal lobe. The areas are slightly increased in extent compared to 8/5/11. Little mass effect. No enhancement here. New area of signal abnormality involving the left medial temporal lobe including the hippocampus. No enhancement here either. Multifocal patchy lesions scattered throughout the brain are noted consistent with patient diagnosis of multiple sclerosis. No enhancement.
+IMPRESSION:
+
+1. Confluent areas of signal abnormality as above consistent with PML slight increase compared to 8/5. 2. New signal abnormality in left medial temporal lobe. Is the patient seizing? Differential diagnosis includes encephalitis including herpes. 3. Stable multifocal patchy MS lesions in the brain.

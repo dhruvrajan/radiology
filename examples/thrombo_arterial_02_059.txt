@@ -1,0 +1,7 @@
+Diseases: ['normal']
+FINDINGS:
+
+Ventricles sulci and cisterns are symmetric andpatent. No extraaxial fluid collections or mass effect.Flow voids are maintained in the anterior and posteriorcirculation. Pituitary fossa posterior fossa and both orbits areunremarkable. There is no abnormal restricted diffusion.There is no hemodynamically significant stenosis or aneurysmaldilatation seen in the bilateral cavernous internal carotidarteries supraclinoid internal carotid arteries proximal middlecerebral arteries proximal left anterior cerebral artery proximal posterior cerebral arteries basilar artery or distalvertebral arteries. There is a hypoplastic right A1 segment ananatomic variant.Please note MRA is less sensitive for those aneurysms under 5 mm.The superior sagittal sinus bilateral transverse sinuses bilateral sigmoid sinuses straight sinus vein of Galen andinternal cerebral veins show normal flow related enhancement.
+IMPRESSION:
+
+1. Normal brain MRI.2. No hemodynamically significant stenoses or aneurysmaldilatations in the intracranial arterial vasculature. Absent A1segment an anatomic variant.3. No venous sinus thrombosis.Attending

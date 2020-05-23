@@ -1,0 +1,7 @@
+Diseases: ['aneurysm']
+FINDINGS:
+
+The ventricles and sulci are normal in size and configuration for age. There are a few scattered periventricular and subcortical white matter foci of increased T2/FLAIR hyperintensity likely small vessel ischemic changes. There are no areas of abnormal enhancement. The visualized paranasal sinuses demonstrate complete opacification of the right maxillary and frontal sinuses and mucosal thickening in the right ethmoid air cells with enhancing mucosa. In addition in the posterior right maxillary sinus there is an area of susceptibility artifact which may represent hemorrhage. Mucosal thickening is also seen in the left maxillary sinus. The mastoid air cells are clear. Orbital contents are normal. The calvarium is normal in marrow signal. MRA of the circle of Willis shows no evidence of intracranial stenosis occlusion or aneurysm. The left PICA origin was not included in the field of view. Please note that MRA is less sensitive for aneurysms less than 5 mm.
+IMPRESSION:
+
+1. Scattered foci of nonspecific white matter T2 hyperintense lesions likely small vessel ischemic changes.2. Paranasal sinus disease worse in the right as detailed above. Area of susceptibility in the right maxillary sinus may represent hemorrhagic polyp. Clinically correlate.3. Unremarkable MRA of the circle of Willis. The left PICA origin was not included in the field of view. If there is clinical concern for a left PICA aneurysm the patient may return for additional imaging at no additional cost.

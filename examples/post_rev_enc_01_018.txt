@@ -1,0 +1,7 @@
+Diseases: ['myelinolysis', 'gliosis']
+FINDINGS:
+
+There is a focal rounded area of abnormal high signal within the pons which extends superiorly to the lower midbrain on flair/T2 weighted images with no restricted diffusion no enhancement and no significant mass effect. There is focal areas of high signal on T2/flair in the high left basal ganglia medial left basal ganglia left centrum semi ovale and left corona radiata with tubular enhancing vessels coursing through this area. A few foci of T2 prolongation are also noted scattered in the right-sided cerebral white matter. The calvarium is low-normal in marrow signal. The orbital contents are grossly unremarkable. The mastoid air cells and visualized paranasal sinuses are clear.
+IMPRESSION:
+
+1. Central pontine signal abnormality. Differential considerations include demyelinating lesion osmotic myelinolysis or in a patient with hypertension posterior reversible encephalopathy syndrome. A primary or secondary tumor is a less likely secondary consideration. 2. Probable developmental venous anomaly in the left periventricular brain with gliosis. 3. Scattered nonspecific foci of signal abnormality in the brain. Differential diagnosis includes demyelinating inflammatory vascular ischemic and idiopathic etiologies.

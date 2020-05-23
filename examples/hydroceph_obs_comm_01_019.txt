@@ -1,0 +1,7 @@
+Diseases: ['hydrocephalus']
+FINDINGS:
+
+Again noted are sequelae of right craniotomy. There are blood products in the right frontal surgical cavity. There is questionable communication between the cavity and the frontal horn of the right lateral ventricle. There is persistent mass effect with midline shift. As noted previously there is moderate communicating hydrocephalus with blood products in the ventricles. There is a small amount of transependymal flow of CSF. The right frontal venttricular catheter terminates in the right frontal cavity.There are two adjacent new enhancing nodules in the corpus callosum and medial left frontal lobe measuring 10 x 23 x 9 mm in combined dimension which are suspect for residual/recurrent tumor. In addition there is a new enhancing nodule with associated signal abnormality at the infero-medial aspect of the surgical cavity which is also suspect for tumor.Non-enhancing signal abnormality about the operative cavity likely represents a combination of vasogenic edema infiltrative tumor and post-therapeutic change.
+IMPRESSION:
+
+1. Status post right craniotomy and tumor resection with findings suspect for residualr/recurrent tumor with progression as detailed above. Mass effect and midline shift as described above.2. Moderate communicating hydrocephalus.

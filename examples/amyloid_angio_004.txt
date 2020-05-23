@@ -1,0 +1,7 @@
+Diseases: ['amyloid']
+FINDINGS:
+
+Ventricles and CSF spaces are symmetric and minimally prominent probably top normal for age. There are multiple scattered tiny foci of increased intensity on T2-weighted images within the periventricular deep and subcortical white matter the pattern is nonspecific. There is a single focus of susceptibility artifact on gradient echo images right postcentral gyrus. None of these are associated with mass effect or abnormal enhancement or period signal intensity of the bone marrow is within normal limits to minimally heterogeneous. Appropriate intracranial flow voids are identified. Orbits and paranasal sinuses unremarkable except for mild mucosal thickening throughout paranasal sinuses with some nodular component left maxillary sinus. There is a probable small lipoma midline occipital region under scalp.
+IMPRESSION:
+
+1. Single focus susceptibility artifact right postcentral gyrus on the gradient echo images nonspecific possibly small cavernoma or solitary focus amyloid angiopathy or simply old micro bleed. 2. Nonspecific hyperintensities in white matter mild mucosal inflammatory changes paranasal sinuses no other findings.

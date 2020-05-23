@@ -1,0 +1,7 @@
+Diseases: ['cerebritis']
+FINDINGS:
+
+Right craniotomy postoperative cavity in right frontal lobe. The cavity is slightly larger than before. Persistent subdural collection is slightly increased in size. Patchy nonspecific signal in this collection on DWI. Slight increase in signal in the right frontal lobe without mass effect but with high DWI and low ADC signal. Increase in extracranial soft tissue swelling. With contrast there is rim-enhancement of the subdural collection as well as the extracranial collection. Also increased enhancement in the right frontal lobe.
+IMPRESSION:
+
+1. Post-operative changes from partial right frontal lobe resection. 2. Increasing size and rim-enhancement of subdural and extracranial collections worrisome for infection. 3. Increased enhancement and signal in right frontal lobe worrisome for cerebritis.

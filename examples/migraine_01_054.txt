@@ -1,0 +1,7 @@
+Diseases: ['migraine']
+FINDINGS:
+
+Ventricles sulci and cisterns are symmetric and patent. There are a few subcortical white matter FLAIR hyperintensities nonspecific. There is a small mucus retention cyst in the left maxillary sinus. No extraaxial fluid collections or mass effect. Flow voids are maintained in the anterior and posterior circulation as well as the superior sagittal sinus. Pituitary fossa internal auditory canals and both orbits are unremarkable. No abnormal enhancing lesions in the brain or its covering.
+IMPRESSION:
+
+1. No abnormalities of the internal auditory canal or cerebello-pontine angle.2. Few scattered subcortical white matter FLAIR hyperintensities nonspecific however these are fairly advanced for patient's stated age and diagnostic considerations may include demyelinating disease vasculitis migraine headaches Lyme disease sarcoid or other inflammatory processes.

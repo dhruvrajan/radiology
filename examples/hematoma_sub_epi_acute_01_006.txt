@@ -1,0 +1,7 @@
+Diseases: ['hematoma']
+FINDINGS:
+
+No acute ischemia. Evolving postoperative changes from right craniotomies resection cavities in right frontal and temporal lobes. A right subdural hematoma is slightly larger. Mild effacement of the cerebral sulci but no midline shift. Stable signal in right frontal lobe extending into the genu with mild mass effect on the right frontal horn. Otherwise stable signal changes in the right hemisphere including right parietal lobe extending into the cortex. Stable signal in left temporal lobe right brainstem and splenium. With contrast stable foci of enhancement in the right frontal lobe right temporal lobe right parietal lobe and right occipital lobe.
+IMPRESSION:
+
+1. Post-operative changes from right frontal and temporal tumor resections. A right subdural hematoma is slightly larger. 2. Stable multifocal tumor in the brain multifocal enhancement.

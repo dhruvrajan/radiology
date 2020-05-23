@@ -1,0 +1,7 @@
+Diseases: ['hematoma']
+FINDINGS:
+
+There is no restricted diffusion to indicate an acute infarction. There is subdural hematoma over the left frontal and parietal convexities with mild mass effect unchanged in comparison to the most recent CT scan. There is also a punctate focus of increased signal on diffusion weighted imaging along the right vertex (series 2 image 92). It corresponds to increased signal on FLAIR images and also decreased signal on GRE images indicating blood products. There are multiple punctate foci of susceptibility particularly in the frontal lobes indicating the posttraumatic petechial hemorrhages. There is mucosal thickening involving left maxillary sinus as well as opacification of the right mastoid air cells.
+IMPRESSION:
+
+1. No acute infarction. 2. Left-sided subdural hematoma and mass effect on the adjacent brain parenchyma unchanged in comparison to the most recent CT scan. 3. Posttraumatic petechial hemorrhage involving the frontal lobes. *ATTENDING RADIOLOGIST CHANGE: I partially agree with the preliminary report with the following modifications or additions: Evidence of facial and skull base fractures and repairs are better evaluated on recent CT scans. I certify that I have personally reviewed the image and interpretation for this examination and agree with the findings in this report.

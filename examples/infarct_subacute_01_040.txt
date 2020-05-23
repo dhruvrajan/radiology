@@ -1,0 +1,7 @@
+Diseases: ['infarction']
+FINDINGS:
+
+There are at least two foci of restricted diffusion suggesting acute/subacute ischemia. Punctate foci of cortical signal abnormality is noted in the right occipital lobe. Also noted is a cortical region of signal abnormality with restricted diffusion involving the gray matter surrounding the right precentral sulcus within the premotor cortex. There are no associated blood products with these regions of signal abnormality. In addition multiple foci of periventricular and subcortical white matter signal abnormality is identified suggesting sequela of small vessel ischemic disease. An old ischemic insult is noted in the left cerebellum. The sulci and ventricles are prominent consistent with age-appropriate atrophy. No extraaxial fluid collections are seen. The paranasal sinuses and orbits are unremarkable.
+IMPRESSION:
+
+1. At least two foci of restricted diffusion are identified in the right occipital lobe and the cortical gray matter of the right premotor cortex concerning for acute/subacute ischemia.2. Age-appropriate volume loss and chronic small vessel ischemic disease involving the periventricular and subcortical white matter.3. Chronic infarction in the left cerebellum.I certify that I have personally reviewed this examination and agreewith this report.

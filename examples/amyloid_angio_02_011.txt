@@ -1,0 +1,7 @@
+Diseases: ['amyloid']
+FINDINGS:
+
+There is no restricted diffusion. There is no abnormal enhancement in the brain. There are several foci of increased T2 and FLAIR signal scattered through the subcortical white matter nonspecific finding but likely due to small vessel ischemic changes. There is signal loss as seen in the gradient echo images in the left superior parietal ( series 7 image 23) and right superior frontal lobe (series 7 image 27 and image 24) likely due to amyloid deposition. The ventricles are normal in size and shape for age. The extra axial spaces are normal without evidence of mass or blood. The vascular flow voids are unremarkable. There is hyperostosis frontalis. The orbits and paranasal sinuses are normal. There is some abnormal signal in the upper cervical interspinous space which could represent mineralization.
+IMPRESSION:
+
+1. Signal loss within the left superior parietal and right superior frontal sulci suggest the diagnosis of amyloid angiopathy. 2. Several foci of increased T2 and flair signal in the subcortical white matter likely due to small vessel ischemic changes. I certify that I have personally reviewed the image and interpretation for this examination and agree with the findings in this report.

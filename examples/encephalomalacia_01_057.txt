@@ -1,0 +1,7 @@
+Diseases: ['infarction', 'encephalomalacia']
+FINDINGS:
+
+There are multiple foci of restricted diffusion within the left cerebellum and left cerebral peduncle of the midbrain consistent with acute infarcts. There is also a region of T2/flair hyperintensity within the posterior inferior left cerebellum consistent with encephalomalacia from prior infarct. Mild subcortical and periventricular white matter flair hyperintensities are noted this is a nonspecific finding but in this patient's age group commonly associated with chronic small vessel ischemic change. No acute intracranial hemorrhage extracerebral fluid collection midline shift or mass effect. The expected flow voids of the major intracranial vessels are present at the skull base.
+IMPRESSION:
+
+1. Acute infarction within the left cerebellum and left cerebral peduncle of the midbrain. 2. Encephalomalacia of the posterior inferior left cerebellum. 3. Mild sequela of chronic small vessel ischemic change.

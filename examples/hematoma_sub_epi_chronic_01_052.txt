@@ -1,0 +1,7 @@
+Diseases: ['infarction', 'hematoma']
+FINDINGS:
+
+There are multiple bilateral punctate foci of restricted diffusion within the left frontal and bilateral parietal lobes. Additionally there is a new region of restricted diffusion within the anterior medial right cerebellum extending into the medulla with associated flair hyperintensity consistent with an acute infarction. Redemonstrated is an old infarction within the right cerebellum. Moderate subcortical and periventricular white matter flair hyperintensities are noted this is a nonspecific finding but in this patient's age group commonly associated with chronic small vessel ischemic change. The punctate regions of susceptibility artifact within the bilateral hemispheres which may represent microhemorrhages. No extraaxial fluid collections or mass effect. Ventricles and basal cisterns are patent. Persistent thin subdural hematoma over the medial left occipital lobe. Flow voids are maintained in the anterior and posterior circulation as well as the superior sagittal sinus.
+IMPRESSION:
+
+1. Acute infarction within the anterior medial right cerebellum extending into the medulla as detailed above. Punctate foci of restricted diffusion within the left frontal and bilateral parietal lobes. Differential considerations include sequela of vasospasm or an embolic source. 2. Continued evolution of lateral right cerebellar infarct. 3. Sequela of chronic small vessel ischemic change. 4. Persistent thin subdural hematoma over the medial left occipital lobe.

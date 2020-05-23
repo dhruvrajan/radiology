@@ -1,0 +1,7 @@
+Diseases: ['hematoma']
+FINDINGS:
+
+Left parietal craniotomy. Left temporal resection cavity with local gliosis and encephalomalacia. Ex vacuo dilation of the atrium and temporal horn of the left lateral ventricle. Small area of abnormal nodular enhancement in the left splenium not present in 2005. Minimal increase in local T2 prolongation. Left subdural hematoma with components demonstrating T1 shortening and measuring 2-3 mm in width not present in 2005. Minimal associated mass effect. No midline shift. Patent basal cisterns. No evidence of cytotoxic edema. Normal orbits sella and intracranial flow voids. Developmental venous anomaly in the right cerebellum similar to 2005.
+IMPRESSION:
+
+1. There are findings suspicious for recurrent neoplasm or new malignancy status post left parietal craniotomy and mass resection. 2. There is a left subdural hematoma probably in the acute or subacute phase. These results were discussed with Dr. Dichter at 1200 hours on 6/23/2009.

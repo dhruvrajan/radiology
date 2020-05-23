@@ -1,0 +1,7 @@
+Diseases: ['normal']
+FINDINGS:
+
+The ventricles cisterns and sulci are symmetric. There is prominence of the extra-axial CSF spaces reflecting volume loss top normal for age. There is no mass mass effect or extra axial collection. There are periventricular deep and subcortical white matter foci of T2 and flair signal abnormality most pronounced adjacent to the right frontal horn nonspecific but likely the sequela of small vessel ischemic disease. Susceptibility artifact is present in the right basal ganglia likely the sequela of prior hemorrhage. Lacune is present in the right medial thalamus. There is trace mucosal thickening in the left maxillary sinus and left mastoid air cells. The remaining paranasal sinuses and visualized orbital contents are within normal limits.
+IMPRESSION:
+
+1. Volume loss top normal for age. Probable sequela of small vessel ischemic disease. 2. Probable sequela of prior hemorrhage in the right basal ganglia. Lacune medial left thalamus.

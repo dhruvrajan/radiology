@@ -1,0 +1,7 @@
+Diseases: ['glioblastoma', 'oligodendroglioma']
+FINDINGS:
+
+Images of the brain were obtained using sagittal T1 axial T2 axial 3-D with gadolinium axial flair post contrastsequences.MR perfusion was performed with a slice thickness offive during gadolinium administration.There is a 4 x 2.7 cm ring enhancing mass with surroundingvasogenic edema involving the right posterior cingulate gyrus andextending into the posterior frontal-parietal lobe. There are twosmall enhancing areas involving the posterior body/splenium of thecorpus callosum which are located anterior to the mass and likelyrepresent enhancing areas of the same mass or satellite nodules.There is a 18 mm mass lesion in the right parotid gland which isintermediate signal on T2-weighted images and enhances onadministration of gadolinium. The differential diagnosis is wideand includes pleomorphic adenoma lymphoma and other parotid glandmasses.Perfusion weighted images show high rCBV in the peripheral rimenhancing portion of the tumor. Imaging features suggest this tobe high-grade neoplasm likely glioblastoma multiforme.
+IMPRESSION:
+
+1. Ring enhancing partly necrotic mass in the right posterior andmedial frontal-parietal lobe with high rCBV in the enhancingportion of the mass. Imaging features suggest this to behigh-grade neoplasm likely glioblastoma multiforme. The corticalinvolvement suggest possible oligodendroglioma component.2. Small satellite lesions are noted within the posteriorbody/splenium of the corpus callosum.Transcribed by: Interface TalkStationLast Edited by: Interface TalkStation

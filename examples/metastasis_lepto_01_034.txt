@@ -1,0 +1,7 @@
+Diseases: ['metastasis', 'metastasis']
+FINDINGS:
+
+Oval lesion measuring 23x43x26 mm in the left parasagittal frontoparietal region. There is intrinsic T1 hyperintensity within the mass with a fluid-fluid level likely representing hemorrhage. There is a nodule of contrast enhancement medially which measures 1.7 cm. Mild surrounding T2/FLAIR hyperintensity likely edema. There is mass effect with compression of the body of the corpus callosum and body of the left lateral ventricle. There is enlargement of the trigone and occipital and temporal horns of the left lateral ventricle likely due to entrapment. No evidence of transependymal flow of CSF. There is abnormal FLAIR hyperintensity within sulci extending superiorly from the mass with mild associated enhancement likely leptomeningeal involvement. No other abnormal parenchymal or meningeal enhancement. The calvarium is normal. Retention cyst in the right maxillary sinuses.
+IMPRESSION:
+
+1. Hemorrhagic metastasis to the paramedial left frontoparietal region. Mass effect upon the left lateral ventricle with enlargement posteriorly and in the temporal horn likely due to entrapment. 2. Subarachnoid signal abnormality extending superiorly from the mass with enhancement likely leptomeningeal metastasis. I certify that I have personally reviewed the image and interpretation for this examination and agree with the findings in this report.

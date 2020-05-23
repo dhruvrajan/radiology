@@ -1,0 +1,7 @@
+Diseases: ['meningitis']
+FINDINGS:
+
+No focal brain parenchymal abnormalities extra-axial fluid collections or mass effect. No evidence of acute infarct or intracranial hemorrhage. Ventricles sulci and cisterns are symmetric and patent. Flow voids are maintained in the anterior and posterior circulation as well as superior sagittal sinus. There is a 4-mm left pituitary hypo enhancing nodule noted. There is increased signal in the sulci in the parieto-occipital region on the postcontrast flair images. There is no corresponding increased signal on the postcontrast T1-weighted images. There is a 1.1 x 1.2 cm and completely characterize mass adjacent to the right parotid gland on series 10 image 8 which is bright on T2. A benign cystic structure or malignant lymph node are both in the differential.
+IMPRESSION:
+
+1. Increased signal in the meninges in the parieto-occipital region as described. While in principle the differential diagnosis includes artifact from oxygenation or prior gadolinium without other history consider subarachnoid blood or meningitis. 2. Incompletely characterized right neck mass as described recommend soft tissue imaging of the neck. 3. Probable 4-mm left pituitary adenoma. ATTENDING RADIOLOGIST AGREEMENT: I have personally reviewed the images and agree with the preliminary report without modification.

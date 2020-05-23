@@ -1,0 +1,7 @@
+Diseases: ['glioblastoma']
+FINDINGS:
+
+Stable postsurgical and postradiation changes in keeping with prior right frontal craniotomy for right frontal glioblastoma resection. Stable mild ex vacuo dilation of the frontal horn of the right lateral ventricle with bifrontal gliosis and T2 hyperintensity of the anterior corpus callosum. No enhancement is seen in the surgical bed to suggest residual or recurrent tumor. Nonspecific foci of T2/FLAIR hyperintensity within the periventricular and subcortical white matter likely represent sequelae of small vessel ischemic disease. Otherwise normal ventricular size and position without mass effect midline shift or edema. No intra- or extra-axial fluid collections or intraparenchymal hemorrhage. Diffusion weighted imaging demonstrates no increased signal foci to suggest acute ischemia or infarction. There is no pathologic enhancement. Preserved flow voids in the anterior and posterior circulation. The visualized paranasal sinuses are clear.
+IMPRESSION:
+
+1. [Stable postsurgical and postradiation changes in the right frontotemporal region secondary to prior resection of glioblastoma.] No findings to suggest residual or recurrent tumor.

@@ -1,0 +1,7 @@
+Diseases: ['migraine']
+FINDINGS:
+
+There are a few nonspecific foci of T2 prolongation within the centrum semi ovale and periventricular white matter bilaterally. These are abnormal for stated age of 20. There is no associated restricted diffusion or mass effect. There is no acute intracranial hemorrhage extra-axial fluid collection mass effect or midline shift. Visualized paranasal sinuses and mastoid air cells are clear. Intracranial flow voids appear patent.
+IMPRESSION:
+
+1. Nonspecific white matter lesions. Differential considerations include demyelinating etiologies to include multiple sclerosis infectious/inflammatory or vascular etiologies or pallorous ischemia related to migraine headaches. Clinically correlate. CSF analysis may be useful. Further evaluation with contrast-enhanced images of the brain as well as evaluation of the spinal cord could be performed.

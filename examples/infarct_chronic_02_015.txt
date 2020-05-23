@@ -1,0 +1,7 @@
+Diseases: ['infarction']
+FINDINGS:
+
+There is subacute infarction of the left pons. Scattered symmetric foci of subcortical and periventricular white matter hyperintensity on flair likely represents the sequela of chronic small vessel ischemic disease. Susceptibility artifact along the medial border of the left thalamus is present likely the sequela of remote hemorrhage. There is no acute intracranial hemorrhage extracerebral fluid collection midline shift or mass effect.
+IMPRESSION:
+
+1. Subacute infarction of the left pons. 2. Susceptibility along the medial border of the left thalamus likely representing old hemorrhage products. 3. Bilateral periventricular and subcortical white matter signal consistent with chronic small vessel ischemic change. These findings were discussed with and confirmed by Dr. Vaz on February 5 2010 at 00:12. *ATTENDING RADIOLOGIST CHANGE: I partially agree with the preliminary report with the following modifications or additions: 1. Acute infarct of the left ventral pons. No significant mass effect. 2. These images are not tailored for evaluation of vessels. CTA or MRA is recommended if there is clinical concern for basilar artery disease.

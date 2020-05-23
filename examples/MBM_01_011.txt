@@ -1,0 +1,7 @@
+Diseases: ['hydrocephalus']
+FINDINGS:
+
+Utilizing a 1.5 Tesla unit MRI of the brain was performed and included the following sequences: sagittal T1-weighted axial fast spin echo T2-weighted axial flair axial diffusion weighted and enhanced axial and coronal T1-weighted images. 9 milliliters of Multihance was injected intravenously.
+IMPRESSION:
+
+1. Redemonstrated postsurgical changes of a suboccipital craniectomy for fourth ventricle tumor resection without evidence of tumor recurrence. 2. Improving hydrocephalus with improved transependymal edema. The ventricles remain moderately enlarged. No herniation.

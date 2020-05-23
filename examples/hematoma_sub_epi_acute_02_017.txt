@@ -1,0 +1,7 @@
+Diseases: ['meningitis']
+FINDINGS:
+
+Again seen is evolving left convexity subdural hematoma and subarachnoid hemorrhage in the left hemisphere. No midline shift. FLAIR hyperintensity in the subarachnoid spaces has increased diffusely probably related to intubation. Ventricles are prominent but stable in size. No acute infarct. Left hemispheric dural enhancement probably reactive and similar to prior study. Mild paranasal sinus mucosal thickening. Increasing opacification of left mastoid air cells with persistent opacification of right mastoid air cells. Oral route tube.
+IMPRESSION:
+
+1. Evolving left convexity subdural and subarachnoid hemorrhage without midline shift. Ventricles are stable. 2. Diffusely increased flair hyperintensity within the subarachnoid spaces probably related to high inspired FiO2 from intubation. Diffuse infectious or carcinomatous meningitis is felt less likely given lack of leptomeningeal enhancement. 3. No evidence of herpes encephalitis.

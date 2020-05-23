@@ -1,0 +1,7 @@
+Diseases: ['metastasis']
+FINDINGS:
+
+There is a FLAIR hyperintense mass centered in the medial left temporal lobe extending into the left thalamus demonstrating irregular peripheral enhancement. Ependymal enhancement is seen adjacent to the mass in the left temporal horn. FLAIR hyperintensity is also seen extending into the left posterior corpus callosum however no contrast enhancement is seen on the T1 post contrast scans. Another FLAIR hyperintensity is seen in the right frontal centrum semiovale( Se 4; img 40-42). Although this does not demonstrate enhancement on the axial post gadolinium images a multicentric tumor cannot be excluded. The calvarium is normal in marrow signal. The orbital contents are grossly unremarkable. The mastoid air cells and visualized paranasal sinuses are clear.
+IMPRESSION:
+
+1. Left medial temporal mass extending into the left thalamus demonstrating irregular peripheral enhancement with associated ependymal enhancement involving left temporal horn. The findings are most suggestive of a high grade primary tumor doubt but cannot exclude metastasis. Study performed is not comprehensive and is designed for planning purposes more complete evaluation would require correlation with prior outside imaging no prior comparisons currently available. 2. FLAIR hyperintense nonenhancing focus in the right frontal centrum semiovale visualized as above nonspecific and relatively isolated with lack of similar lesions elsewhere in white matter. Possibility of a multicentric neoplasm cannot be ruled out.

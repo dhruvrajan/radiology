@@ -1,0 +1,7 @@
+Diseases: ['cysticercosis']
+FINDINGS:
+
+There is no intracranial hemorrhage extracerebral fluidcollection midline shift or mass effect.In the parasagittal left frontal lobe just beneath the calvariumthere is a 1 cm intra-axial lesion with mild circumferential andperipheral enhancement. The lesion also demonstrates acircumferential ring of low T2 signal. There is mild FLAIR signalabnormality which extends peripherally adjacent to the lesion. Nosignificant mass effect. Diffusion characteristics cannot bedetermined due to artifact from the adjacent frontal sinus.Evaluation of the temporal lobes demonstrate symmetry in size andsignal intensity of the hippocampi and parahippocampal structures.No focal volume loss is identified. Temporal horns are symmetricin size.
+IMPRESSION:
+
+1. Single small intra-axial lesion in the parasagittal leftfrontal lobe with mild circumferential enhancement and noappreciable mass effect. Differential diagnosis includesinfectious/inflammatory as well as neoplastic etiologies.Correlation with immunohistochemical studies for parasiticinfections such as cysticercosis may prove beneficial. Follow-upimaging in 3-4 weeks to assess stability should be considered depending on availability and results of any prior imaging.2. Unremarkable evaluation of the hippocampi and mesial temporallobes.3. Technically unsuccessful MR spectroscopic evaluation due toperipheral location of lesion in frontal lobe in proximity tofrontal sinus.Transcribed by: Interface TalkStationLast Edited by: Interface TalkStation

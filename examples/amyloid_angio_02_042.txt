@@ -1,0 +1,7 @@
+Diseases: ['amyloid']
+FINDINGS:
+
+Ventricles and CSF spaces are nearly symmetric and appear age-appropriate. Scattered small T2-bright foci are identified in the periventricular deep and subcortical white matter to a lesser extent involving deep gray matter such as lentiform nuclei. Some of these foci are minimally encephalomalacic suggesting prior lacunar events with similar finding in the central pons. Compared to the prior study pattern is similar although at least one new focus identified left lentiform nucleus. Scattered tiny foci of decreased intensity on gradient echo images may represent prior microbleeds or less likely small calcifications all peripheral in location and relatively mild extent though increasing in total number since March 10 2011 comparison. There are no other abnormal foci of increased or decreased signal intensity in the brain no evidence of signal abnormality on diffusion-weighted images to suggest acute ischemia. Appropriate intracranial flow voids are identified. Bony structures are remarkable for opacification left maxillary sinus possible retention cyst increasing since August 2011.
+IMPRESSION:
+
+1. No acute findings. 2. Moderate white matter signal abnormalities redemonstrated suspect chronic subcortical ischemic changes minimally increasing since August 11 2011. 3. Scattered tiny punctate foci of susceptibility peripheral locations may represent microbleeds possibly amyloid angiopathy increasing in number since March 10 2011.

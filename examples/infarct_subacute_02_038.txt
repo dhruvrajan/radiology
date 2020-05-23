@@ -1,0 +1,7 @@
+Diseases: ['infarction']
+FINDINGS:
+
+Evolving subacute infarction in the left cerebellum. Lacunar infarction right frontal lobe. No masslike areas of abnormal enhancement. Scattered areas of T2 hyperintensity within the white matter are nonspecific but may represent small vessel ischemic disease. No evidence of hemorrhage mass effect midline shift ventriculomegaly or acute restricted diffusion. Extra-axial spaces are clear. Ethmoid sinus and causal thickening. Mastoid air cells are clear. MRA shows fetal origin of the left posterior cerebral artery. There is irregularity of the cavernous carotid arteries which is likely related to atherosclerotic disease. The course and caliber the remaining vessels of the circle of Willis including the proximal A1 A2 M1 M2 and right P1 and P2 segments appear within normal limits. Please note that MRI is less sensitive for aneurysms less than 4 mm.
+IMPRESSION:
+
+1. Evolving subacute infarction in the left cerebellum. 2. No enhancing mass lesions to suggest metastases. 3. Patency of the intracranial circulation as detailed.

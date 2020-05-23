@@ -1,0 +1,7 @@
+Diseases: ['aneurysm', 'hematoma']
+FINDINGS:
+
+There is hemorrhage in the left lateral ventricle frontal horn body atrium and occipital horn. No areas of hemorrhage identified within the brain parenchyma. No mass lesion seen within the ventricles. There is mild enlargement of the left lateral ventricle without acute hydrocephalus. There is suggestion of prominent flow-voids in the region of the intraventricular hemorrhage which could be related to an arteriovenous malformation. There is normal appearance of the brain parenchyma. No mass lesions. The ventricles and sulci are normal in size and position. The intracranial flow voids are normal. The calvarium is normal. The orbits are normal. The paranasal sinuses show mild mucosal changes.
+IMPRESSION:
+
+1. Intraventricular hemorrhage in the left lateral ventricle with blood products in the frontal horn body atrium and occipital horn with mild enlargement of the left lateral ventricle. No acute hydrocephalus or midline shift. No convincing area of intraparenchymal hemorrhage. Findings are most suggestive of a hypertensive etiology. Correlate with hypertension history. Other etiologies include aneurysm and arteriovenous malformation especially as there is suggestion of prominent flow voids in the region of the hematoma. 2. No acute ischemia.

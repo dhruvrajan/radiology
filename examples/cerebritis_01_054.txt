@@ -1,0 +1,7 @@
+Diseases: ['meningitis', 'cerebritis']
+FINDINGS:
+
+In the right parietal lobe cortical and subcortical region there is edema with surrounding leptomeningeal enhancement. There is no nodular enhancement within the brain parenchyma. No associated restricted diffusion. Findings may represent meningitis with developing early cerebritis. No evidence of abscess collection. The ventricles and sulci are normal in size and position. No extraaxial collection. The intracranial flow voids are normal. The calvarium is normal. The orbits are normal. There is mucosal thickening in the paranasal sinuses.
+IMPRESSION:
+
+1. Right parietal lobe edema with adjacent leptomeningeal enhancement. No associated restricted diffusion. Findings are concerning for meningitis with early developing cerebritis. No abscess collection identified. No hydrocephalus.

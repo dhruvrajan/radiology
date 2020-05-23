@@ -1,0 +1,7 @@
+Diseases: ['thrombosis']
+FINDINGS:
+
+No restricted diffusion. No suspicious extra-axial fluid collections. No focal regions of cerebral edema or mass effect. No ventriculomegaly. Mild T2/FLAIR prolongation of the ethmoid mucosa. Intracranial arterial vascular flow signals are within normal limits. Review of the 2-dimensional time-of-flight images demonstrates increased signal flow however with decreased luminal caliber and luminal irregularity of the right transverse and sigmoid sinus when compared to 2009 MRI. The superior sagittal sinus in the region of prior thrombosis demonstrates restoration of grossly normal flow.
+IMPRESSION:
+
+1. No evidence of subdural hematoma. 2. Grossly complete recanalization of superior sagittal sinus and partial recanalization of the right transverse and sigmoid sinus in patient status post thrombosis of the superior sagittal sinus and right transverse/sigmoid sinus. I certify that I have personally reviewed the image and interpretation for this examination and agree with the findings in this report.

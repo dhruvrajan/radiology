@@ -1,0 +1,7 @@
+Diseases: ['hematoma']
+FINDINGS:
+
+There is a stable moderate left subdural hematoma with layering blood products which results in mild mass effect on the left cerebral hemisphere and mild midline shift to the right. The cerebrum demonstrates normal gray matter and gray/white differentiation. The white matter is normal in signal. The thalami and basal ganglia are unremarkable. No abnormalities are seen in the midbrain pons medulla. No enhancing lesions are seen. There is prominence of the right temporal horn which is stable compared to the prior examination. The vascular flow voids are unremarkable. The bony calvarium is intact. The orbits are unremarkable. There is fluid in the left maxillary sinus. The visualized pharynx and parapharyngeal soft tissues are normal. Evaluation of the cervical spine is suboptimal due to patient motion. There are degenerative changes of the cervical spine with narrowing of the C6-7 intervertebral disc with associated degenerative endplate changes. There is mild disc bulge from C4-5 through C7-T1 without significant spinal canal narrowing. There is no signal abnormality in the cervical spine. The foramen magnum is normal.
+IMPRESSION:
+
+1. Stable moderate left subdural hematoma with mild mass effect on the left cerebral hemisphere and stable mild midline shift. 2. Mild degenerative changes of the cervical spine without evidence of cord compression on a suboptimal study. 3. Prominence of the right temporal horn of the lateral ventricle which is stable.

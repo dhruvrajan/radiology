@@ -1,0 +1,7 @@
+Diseases: ['hematoma', 'encephalomalacia']
+FINDINGS:
+
+Continued interval evolution of the left parietal occipital parenchymal hematoma with surrounding encephalomalacia cavity and ex-vacuo dilatation of the occipital horn of the adjacent left lateral ventricle. No definite MRI evidence of underlying vascular malformation or mass lesion please note that conventional angiography has higher sensitivity for the detection of small vascular malformations. No new foci of hemorrhage are identified. No evidence of acute infarct. Scattered flair hyperintense foci in bilateral cerebral white matter are largely unchanged. Left frontal developmental venous anomaly. Ventricles and basal cisterns are patent. Mild mucosal changes in the visualized paranasal sinuses.
+IMPRESSION:
+
+1. Continued interval evolution of left parieto-occipital hematoma with surrounding encephalomalacia and ex-vacuo dilatation of the left occipital horn as detailed above. 2. No interval acute intracranial findings.

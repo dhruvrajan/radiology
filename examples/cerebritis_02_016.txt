@@ -1,0 +1,7 @@
+Diseases: ['meningitis']
+FINDINGS:
+
+Examination is motion degraded. New diffuse increased flair hyperintensity in the subarachnoid space. No abnormal FLAIR hyperintensity within the globes. Scattered subcortical and periventricular white matter hyperintensities are possibly slightly decreasing in prominence. Tiny cystic spaces along medial margin of the right temporal tip are unchanged may represent perivascular spaces and are unchanged.. No acute hemorrhage restricted diffusion mass effect or hydrocephalus. Mildly prominent leptomeningeal vascular enhancement is unchanged. No abnormal parenchymal enhancement. Sphenoid sinus mucous retention cyst. Bilateral mastoid fluid stable to slightly increased.
+IMPRESSION:
+
+1. New diffuse subarachnoid space abnormality is nonspecific but is felt most likely to represent high inspired FiO2 given the intubation and 60% FiO2. Subarachnoid hemorrhage retained gadolinium and diffuse meningitis is felt less likely due to lack of subarachnoid hemorrhage on the CT earlier during the same day lack of renal failure and globe abnormality to suggest retained gadolinum negative previous CSF cultures. 2. Decreasing nonspecific T2 white matter hyperintensities which may represent improving inflammatory/infectious etiology. 3. Stable pattern of nonspecific vascular leptomeningeal enhancement. 4. No focal cerebritis. Discussed with Dr. Gold at 11:30pm on 12/28/07.

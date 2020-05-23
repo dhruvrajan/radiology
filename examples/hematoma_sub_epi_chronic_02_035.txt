@@ -1,0 +1,7 @@
+Diseases: ['hematoma']
+FINDINGS:
+
+A seen on prior CT study there is mild prominence of the CSF space in the left frontal region which follows CSF signal intensity on all pulse sequences and may be related to prior subdural hematoma versus asymmetric volume loss. There is no acute intracranial hemorrhage midline shift or mass effect. The cerebral volume is appropriate for the patient's stated age. Occasional foci of subcortical white matter such T2 hyperintensities are nonspecific and may represent sequela of chronic small vessel ischemic disease. Diffusion weighted images are negative for restricted diffusion. The calvarium is normal in marrow signal. The orbital contents are grossly unremarkable. The mastoid air cells and visualized paranasal sinuses are clear except for a large mucus retention cyst in the right maxillary sinus.
+IMPRESSION:
+
+1. No acute focal parenchymal brain abnormality in this unenhanced MRI of the brain.2. Small chronic subdural hematoma versus asymmetric volume loss in the left frontal region.3. Nonspecific foci of subcortical white matter changes which may represent sequela of chronic small vessel ischemic disease.

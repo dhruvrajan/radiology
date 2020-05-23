@@ -1,0 +1,7 @@
+Diseases: ['encephalomalacia']
+FINDINGS:
+
+Axial FLAIR proton density and T2 weighted imaging somewhat degraded by motion. Within the left superior frontal gyrus there is diffuse T2/FLAIR white matter hyperintensity which in some areas involves the cortex; in some areas the signal abnormality approaches that of CSF. There is no obvious parenchymal volume loss within this region. No restricted diffusion. There is generalized cerebral and cerebellar parenchymal volume loss with mild ex vacuo dilatation of the lateral ventricles. Nonspecific punctate T2/FLAIR hyperintensities within the subcortical and deep white matter and present to lesser degree within the brainstem. No extra-axial fluid collections. No evidence of intracranial hemorrhage. Intracranial vascular flow voids are within normal limits. Partial empty sella. Ethmoidal and maxillary mucosal changes. Patient status post bilateral cataract resection.
+IMPRESSION:
+
+1. Generalized parenchymal volume loss and mild probable small vessel ischemic change. 2. Prominent increased T2 signal within the white matter of the left superior frontal gyrus with some regions approaching CSF signal suggestive of early encephalomalacia. While this is favored to represent a region of late subacute ischemia however given the overall lack of volume loss follow-up MRI could be considered with contrast to exclude underlying mass. I certify that I have personally reviewed the image and interpretation for this examination and agree with the findings in this report.

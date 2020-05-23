@@ -1,0 +1,7 @@
+Diseases: ['oligodendroglioma']
+FINDINGS:
+
+Cortical mass lesion in right inferior frontal lobe with calcification cystic component adjacent signal abnormality. Abundant enhancement. Multiple scattered other signal abnormalities in the white matter nonspecific. Spectroscopy is unhelpful probably due to the proximity to the anterior skull base. Perfusion imaging is difficult to interpret given the small size of the lesion. Mild if any increased CBV.
+IMPRESSION:
+
+1. Right frontal lobe mass lesion most likely a glioma perhaps oligodendroglioma. 2. Multiple scattered white matter signal abnormalities unusual for a patient this age. Differential diagnosis includes demyelinating inflammatory infectious vascular ischemic and toxic etiologies. Clinical correlation advised. Findings discussed in person with Dr. Pruitt on 7/18/10 at approximately 10 am.

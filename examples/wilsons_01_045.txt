@@ -1,0 +1,7 @@
+Diseases: ['encephalitis']
+FINDINGS:
+
+There is redemonstration of a focus of T2/FLAIR hyperintensity in the medial left temporal lobe and the posterior hippocampus which appears unchanged since the previous examination. Once again there is no associated mass effect or vasogenic edema. Mild patchy enhancement is seen corresponding to this focus of signal abnormality. The degree of enhancement has decreased since the previous examination. There are no signal abnormalities on diffusion weighted images to suggest acute transcortical infarct and no susceptibility to suggest acute intracranial hemorrhage. There are no extra-axial collections no mass effect or midline shift. Flow voids are maintained. There are multiple foci of increased T2/FLAIR signal intensity within the periventricular and subcortical white matter the brainstem and thalami likely related to chronic small vessel ischemic changes. The paranasal sinuses are grossly normal. The orbits are grossly unremarkable.
+IMPRESSION:
+
+1. Stable area of signal abnormality in the medial left temporal lobe and the posterior hippocampus with patchy enhancement slightly decreased since the previous study. Differential consideration includes resolving encephalitis with primary neoplasm and metastatic disease felt to be less likely possibilities. 2. Probable chronic ischemic changes as described above unchanged. Final Attending

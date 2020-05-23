@@ -1,0 +1,7 @@
+Diseases: ['aneurysm']
+FINDINGS:
+
+Coil mass noted in the region of the anterior communicating artery. Again noted is small area of T2 prolongation in the right frontal subcortical deep white matter stable. This likely reflects old ischemic change. There is no evidence of acute intracranial hemorrhage acute ischemia midline shift. Again noted is arachnoid cyst along the medial left temporal lobe. Patency of the intracranial flow voids hypoplastic left vertebral artery. MR angiogram recanalization of the neck of the aneurysm. This measures between approximately 3-4 mm. When compared to prior examination 3-D time of flight images this appears stable. Patency of the remainder of the circulation. Hypoplastic right P1 segment with patent right posterior communicating artery.
+IMPRESSION:
+
+1. Stable recanalization at the neck of the anterior communicating artery coiled aneurysm. 2. Old ischemic changes in the right frontal lobe stable. Stable left medial temporal arachnoid cyst.

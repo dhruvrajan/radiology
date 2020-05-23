@@ -1,0 +1,7 @@
+Diseases: ['hygroma']
+FINDINGS:
+
+There postsurgical changes associated with craniotomy with resection of the entire left temporal lobe the medial temporal lobe with hippocampus and parahippocampal structure. There is T2 prolongation at the periphery of the resection margins as well as increased T2 flair signal unchanged since prior study. The surgical margins also exhibit mild contrast enhancement. On the high resolution coronal images there is 3-4 mm of the left posterior hippocampus that can be visualized before it merges with the fornix. The extra-axial fluid collection with mass effect on the left frontal and parietal lobes are unchanged in size. They have reduced in the T2 flair signal compared to prior study. These findings are suggestive of a subdural hygroma which seems likely to be related to a communication with the left temporal horn of the lateral ventricle. The contralateral hippocampus is normal. There is no acute intracranial hemorrhage or midline shift.
+IMPRESSION:
+
+1. Status post left temporal lobectomy changes. 2. Extra-axial fluid collection with mass effect on the left frontal and parietal lobes unchanged in size since prior study. Interval decrease in T2 flair signal suggestive of a subdual hygroma.

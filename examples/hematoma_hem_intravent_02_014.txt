@@ -1,0 +1,7 @@
+Diseases: ['infarction']
+FINDINGS:
+
+There are scattered foci of increased T2 signal in the cerebellarhemispheres that are bright on diffusion imaging and dark on theADC map consistent with acute infarctions that may be embolic.There are areas of increased diffusion signal in the regions ofthe left MCA and possibly left ACA territories corresponding todecreased signal on the ADC maps suggesting acute infarctionpossibly due to vasospasm.Again seen is intraventricular hemorrhage layering in the lateralventricles. There is subarachnoid hemorrhage as well. Theventricles are unchanged in size.There continues to be gas in the frontal horn of the right lateralventricle. There is also a focus of intracranial gas along theright frontal convexity.There is no pathologic enhancement.
+IMPRESSION:
+
+1. Acute punctate infarctions in the cerebellum that may beembolic.2. Probable acute infarction involving the left MCA territory andpossible left ACA territory.3. Unchanged intraventricular and subarachnoid hemorrhage.Ventricles unchanged in size.Transcribed by: Interface TalkStationLast Edited by: Interface TalkStation

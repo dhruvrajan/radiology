@@ -1,0 +1,7 @@
+Diseases: ['normal']
+FINDINGS:
+
+A few scattered lesions in the brain nonspecific in appearance. No definite infratentorial lesions. No mass effect no abnormal restricted diffusion. No visible lesions in the cervical and thoracic cord. Spinal column is unremarkable. Nonspecific subcentimeter lesion in the liver.
+IMPRESSION:
+
+1. A few nonspecific brain lesions uncertain clinical significance. Comparison with prior imaging suggested. 2. Spinal cord is normal. 3. Nonspecific liver lesion may be benign. Comparison with prior imaging suggested. As warranted ultrasound may be performed.

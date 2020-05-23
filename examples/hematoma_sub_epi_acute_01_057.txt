@@ -1,0 +1,7 @@
+Diseases: ['amyloid']
+FINDINGS:
+
+Acute hemorrhage in left frontal lobe surrounding edema. No significant abnormal restricted diffusion in the adjacent parenchyma. Subdural and subarachnoid hemorrhage as well. There is hemorrhage in the left inferior temporal lobe as well just above the petrous bone (series 8 image 10; series 6 image 6). Gradient echo images are degraded by artifacts but do show other areas of old hemorrhage in left superior tempooral lobe (series 12 image 18) and left inferior frontal lobe (series 12 image 15). Post-contrast images show mild rim enhancement at the periphery of the hematoma. No solid enhancement. MRA of the head shows patent anterior and posterior circulations. No MRA evidence of aneurysm. No abnormal vasculature around the left frontal hematoma to suggest an AVM.
+IMPRESSION:
+
+1. Acute hemorrhage in left frontal and left temporal lobes suggestive of traumatic contusions. Subdural and subarachnoid hemorrhage as well. 2. Old hemorrhages in peripheral left temporal lobe inferior left frontal lobe. Findings suggestive though not diagnostic of amyloid. 3. No aneurysm no AVM within the limits of MRA.

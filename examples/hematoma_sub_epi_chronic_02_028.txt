@@ -1,0 +1,7 @@
+Diseases: ['thrombosis']
+FINDINGS:
+
+Again noted is a hematoma in the left temporo-occipital region with mild surrounding edema. Mild regional mass effect. High FLAIR signal in bilateral sulci may represent small amounts of subarachnoid hemorrhage. There is a probable small subdural hematoma as well over the left convexity. Diffusion-weighted images show no areas of significant restricted diffusion to suggest acute arterial ischemia. GRE images show no other areas of blood product in the brain. There are scattered areas of signal abnormality in the deep white matter perhaps chronic ischemic change. Post-contrast images show no significant enhancement. MRV shows patency of the major dural venous sinuses. The left vein of Labbe is not well seen. The visualized paranasal sinuses and orbital contents are normal. The calvarium is normal in marrow signal.
+IMPRESSION:
+
+1. Left temporo-occipital lobe hemorrhage. Small amounts of subdural and subarachnoid hemorrhage. 2. No arterial infarction no abnormal enhancement to suggest underlying tumor. 3. The left vein of Labbe is not well seen. Possibly this hemorrhage resulted from a vein of Labbe thrombosis. However this study is not conclusive as the vein of Labbe can be variably seen.

@@ -1,0 +1,7 @@
+Diseases: ['amyloid']
+FINDINGS:
+
+The post-contrast axial examination is degraded by patient motion artifact. There are numerous scattered foci of susceptibility suggestive of microhemorrhages at the peripheral gray-white junction and right basal ganglia. There are areas of T2 prolongation within the white matter without mass effect. There is a small right pontine probable old lacunar infarction. No convincing areas of abnormal enhancement. No restricted diffusion. There is ethmoid sinus and frontal sinus mucosal thickening. Flow voids of the skull base are patent.
+IMPRESSION:
+
+1. No evidence of enhancing lesion to suggest metastases.2. Multiple predominantly peripheral microhemorrhages may be related to vascular etiology such as hypertension or microvascular etiology less likely other etiologies like amyloid angiopathy. There are also nonspecific white matter hyperintensities on T2-weighted images which may be related.

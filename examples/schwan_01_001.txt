@@ -1,0 +1,7 @@
+Diseases: ['schwannoma', 'meningioma', 'aneurysm']
+FINDINGS:
+
+There is a 12 x 8.5 cm enhancing well demarcated oval shapedlesion with non enhancing areas possibly representing cysticcomponent located in the right cerebellopontine angle above theinternal auditory canal with adjacent focal area of duralthickening (see image 13 series 7)exerting mass effect deforming the pons. The lesion is iso to hypointense on T2weighted images suggestive of hypercellularity. Differentialconsiderations would include right 5th nerve schwannoma versusmeningioma. An aneurysm should also be excluded and a CTA and/orMRA recommended.There is abnormal signal seen within the right lateral pons corresponding to restricted diffusion and representing infarct.The cerebral ventricles cortical sulci and basal cisterns areunremarkable. There is no midline shift or herniation.
+IMPRESSION:
+
+1. Right sided cerebellopontine enhancing mass as described abovedifferential consideration include cystic 5th nerve schwannoma meningioma Or an aneurysm. A CT angiogram recommended forfurther characterization.2. Small acute infarct in the right lateral pons.Transcribed by: Interface TalkStationLast Edited by: Interface TalkStation

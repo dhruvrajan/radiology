@@ -1,0 +1,7 @@
+Diseases: ['encephalomalacia', 'encephalitis']
+FINDINGS:
+
+There is marked encephalomalacia of the left cerebral hemisphere most pronounced in the temporal lobe including the hippocampus and anterior frontal lobe with associated ex vacuo dilatation of the left lateral ventricle and associated underlying confluent white matter high T2/flair signal intensity. In addition there is T2 signal abnormality in the medial posterior left thalamus. There is left-sided Wallerian degeneration in the peduncle and pons and thinning of the corpus callosum. The right hemisphere demonstrate scattered T2 hyperintensity in the white matter predominantly in the periventricular distribution as well as mild central volume loss for the patient's age. The right hippocampus is normal. These findings are compatible with sequella of left hemispheric encephalitis hypoxic ischemic encephalopathy. There is normal flow void in bilateral ICAs as well as major proximal cerebral arteries. The visualized paranasal sinuses and mastoid air cells are clear.
+IMPRESSION:
+
+1. Marked encephalomalacia of the left cerebral hemisphere most pronounced in the temporal lobe including the hippocampus. Any of these encephalomalacic areas can serve as a seizure focus and clinical correlation with EEG finding is recommended. 2. Findings are most suggestive of sequella of left hemispheric encephalitis hypoxic ischemic encephalopathy. Comparison to prior brain MRI if available as well as clinical correlation are most helpful. 3. Central volume loss of the right hemisphere.

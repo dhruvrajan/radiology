@@ -1,0 +1,7 @@
+Diseases: ['astrocytoma', 'oligodendroglioma', 'schwannoma']
+FINDINGS:
+
+Interval growth of left frontal lobe mass at/near the superior frontal sulcus with small cystic component. It is probably intra-axial originating from the cortex of the middle frontal gyrus but I cannot exclude the possibility that it is extra-axial. There is now nodular enhancement as well as probable leptomeningeal enhancement. There is also a possible focus of enhancement in the left IAC (series 8 image 7; series 9 image 20). The calvarial marrow is normal for age. Retention cysts in the maxillary sinuses.
+IMPRESSION:
+
+1. Increased size and enhancement of left frontal lesion worrisome for glioma (pilocytic astrocytoma pleomorphic xanthroastrocytoma oligodendroglioma) vs. ganglion cell tumor (ganglioglioma etc.). An intracerebral schwannoma is a rare entity but may have a similar appearance. There is probably also left frontal leptomeningeal enhancement nearby. 2. Possible left IAC enhancement may be artifact or due to a vessel but leptomeningeal tumor spread cannot be excluded. Consider CSF sampling.

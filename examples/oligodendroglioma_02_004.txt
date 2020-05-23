@@ -1,0 +1,7 @@
+Diseases: ['oligodendroglioma']
+FINDINGS:
+
+Patient status post left frontal craniotomy. There is unchanged postsurgical/post treatment encephalomalacia of the left frontal lobe with T2/FLAIR prolongation of the subcortical and deep white matter extending across the genu of the corpus callosum into the right periventricular white matter concerning for residual neoplasm. Nonspecific smooth appearing pachymeningeal enhancement. There is no new parenchymal enhancement. Ex vacuo dilatation of the left frontal horn. There are no new regions of mass effect. There is no restricted diffusion. No suspicious parenchymal enhancement. Partial empty sella. Intracranial vascular flow signals within normal limits. Frontoethmoidal and maxillary mucosal changes. Likely mucous retention cyst within the sphenoid sinus. Unchanged fluid within the right mastoid air cells. Orbits are unremarkable. Nasopharyngeal mucous retention cysts.
+IMPRESSION:
+
+1. Left frontal craniotomy for resection of oligodendroglioma. 2. Stable left frontal signal abnormality extending across the corpus callosum to the right frontal lobe. 3. No evidence of disease progression no concerning enhancement. I certify that I have personally reviewed the image and interpretation for this examination and agree with the findings in this report.

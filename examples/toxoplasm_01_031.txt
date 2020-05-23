@@ -1,0 +1,7 @@
+Diseases: ['hematoma']
+FINDINGS:
+
+Superior sagittal sinus straight sinus bilateral transverse and sigmoid sinuses are patent.
+IMPRESSION:
+
+1. Abnormality in the right cerebellar hemisphere is favored to represent spontaneous parenchymal hematoma related to the patient's thrombocytopenia/DIC. There is no evidence of underlying mass abscess or infarct. 2. Dural venous sinuses are patent. ATTENDING RADIOLOGIST AGREEMENT: I agree with the preliminary report without modification. I certify that I have personally reviewed the image and interpretation for this examination and agree with the findings in this report.

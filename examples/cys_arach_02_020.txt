@@ -1,0 +1,7 @@
+Diseases: ['normal', 'aneurysm', 'aneurysm']
+FINDINGS:
+
+The ventricles and sulci are stable as before. There continues tobe mass effect on the septum pellucidum with displacement to theleft likely related to a right intraventricular arachnoid cyst.The brain parenchyma is normal in morphology and signal intensity.There are no areas of abnormal enhancement. The visualizedparanasal sinuses and orbital contents are normal. The calvariumis normal in marrow signal.MRA of the circle of Willis shows an area of signal dropout withinthe region of the right P1 segment as before which likely relatesto the area of aneurysm coiling. Assessment for flow within thiscoiled aneurysm is difficult due to artifact. A 1x2mm focaloutpouching is seen at the basilar tip pointing to the right. Thesource imgaes demonstrate flow distal to the right P1 segment witha patent right PCOM. There is patency with flow of the left P1segment. No evidence of aneurysm occlusion or hemodynamicallysignificant stenosis is seen in the intracranial portion of theinternal carotid arteries and its branches.
+IMPRESSION:
+
+1. Normal MRI of the brain.2. A 1x2mm focal outpouching is seen at the basilar tip pointingto the right in the region of the coiled aneurysm. The possibilityof residual flow in the coiled aneurysm is not excluded. A CTAand/or diagnostic cerebral angiogram would better evaluate forthis and is recommended for further evaluation.Transcribed by: Interface TalkStationLast Edited by: Interface TalkStation

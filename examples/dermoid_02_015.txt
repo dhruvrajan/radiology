@@ -1,0 +1,7 @@
+Diseases: ['dermoid']
+FINDINGS:
+
+In the quadrigeminal plate cistern on the right between the inferior colliculi and the vermis there is an extra-axial T2 hyperintense well-defined mass which has central areas of low signal intensity and blooming on gradient echo probably representing fat and calcium such as can be seen with a dermoid cyst. Perhaps extra-axial cavernoma could also be considered. Aneurysm is considered much less likely. If possible correlation with prior imaging may be helpful. Further characterization with CT scan to be considered. Regardless the lesion has benign imaging features. There are scattered foci of T2 hyperintensity in the subcortical periventricular and deep white matter within expected number for age nonspecific but most commonly due to chronic small vessel ischemia in this age group. There is no evidence of intracranial hemorrhage or infarct. There is global cerebral volume loss and age-related. There is no hydrocephalus. There is no extra-axial collection. Major intracranial flow voids are present. The paranasal sinuses mastoid air cells and middle ear cavities are clear.
+IMPRESSION:
+
+1. No acute intracranial abnormality on unenhanced MR brain. 2. Expected age related changes described above. 3. Incompletely characterized probably calcified extra-axial structure between the quadrigeminal plate and vermis on the right most likely representing a dermoid. See above. I certify that I have personally reviewed the image and interpretation for this examination and agree with the findings in this report.

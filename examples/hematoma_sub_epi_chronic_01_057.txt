@@ -1,0 +1,7 @@
+Diseases: ['hematoma']
+FINDINGS:
+
+There is a T1 hyperintense subdural collection along the left cerebral convexity consistent with a subdural hematoma. There is mild mass effect on the adjacent brain parenchyma. No additional extra-axial fluid collections are identified. No midline shift. Scattered subcortical and periventricular white matter flair hyperintensities are identified this is a nonspecific finding but in this patient's age group but commonly associated with chronic small vessel ischemic change. Brain parenchyma is otherwise unremarkable. No acute intraparenchymal hemorrhage or acute infarct. No abnormal intraparenchymal enhancement. Ventricles sulci and cisterns are symmetric and patent. Flow voids are maintained in the anterior and posterior circulation as well as the superior sagittal sinus. Orbits are unremarkable. Paranasal sinuses are clear. Mild T2 hyperintensity noted in the mastoid air cells bilaterally consistent with fluid.
+IMPRESSION:
+
+1. Left subdural hematoma exerting mild mass effect on the adjacent brain parenchyma likely subacute given the imaging characteristics. 2. No evidence of acute infarction. Findings discussed with Dr. Tsao of the Emergency Department at 10:35 pm on August 3 2010 with read back confirmation. I certify that I have personally reviewed this examination and agree with this report.

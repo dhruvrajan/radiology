@@ -1,0 +1,7 @@
+Diseases: ['neurocytoma']
+FINDINGS:
+
+There is a 1.4 x 0.6 x 1.2 cm (AP x tr x cc dimensions) nonenhancing T2 hyperintense lobular lesion in the anterior portion of the left lateral ventricle with associated focal expansion of the ventricle in this region. There is no hydrocephalus or transependymal CSF flow. There is no acute intracranial hemorrhage extracerebral collection midline shift or mass effect. Cerebral volume is age appropriate. There are no regions of restricted diffusion to suggest the presence of acute ischemia. There is opacification of the lateral recess of the right sphenoid sinus. MR perfusion demonstrates no significant elevation of the rCBV in the area of the mass. MR spectroscopy is noncontributory.
+IMPRESSION:
+
+1. Nonenhancing 1 to 2 cm in size lesion in the anterior portion of the left lateral ventricle with imaging features most suggestive of a subependymoma. Imaging features are felt to be atypical for a central neurocytoma.

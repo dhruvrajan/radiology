@@ -1,0 +1,7 @@
+Diseases: ['migraine']
+FINDINGS:
+
+There is no acute intracranial hemorrhage extracerebral fluid collection midline shift or mass effect. The cerebral volume is appropriate for the patient's stated age. There are in few scattered foci of T2 prolongation within the white matter nonspecific but greater in number than expected for patient's stated age. Differential considerations are broad and include but are not limited to sequela of migraine headaches vasculitis Lyme's disease demyelinating processes; clinically correlate. Following contrast administration there is no pathologic enhancement. The calvarium is normal in marrow signal. The orbital contents are grossly unremarkable. The mastoid air cells and visualized paranasal sinuses are clear.
+IMPRESSION:
+
+1. Few scattered foci of T2 prolongation within the white matter nonspecific but greater in number than expected for patient's stated age. Differential considerations are broad and include but are not limited to sequela of migraine headaches vasculitis Lyme's disease demyelinating processes; clinically correlate.

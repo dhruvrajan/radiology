@@ -1,0 +1,7 @@
+Diseases: ['hydrocephalus']
+FINDINGS:
+
+MRI brain performed with the following sequences: sagittal T1-weighted T2-weighted axial FLAIR axial gradient echo susceptibility axial diffusion weighted and enhanced axial and coronal T1-weighted images. 13 mL MultiHance was injected intravenously.
+IMPRESSION:
+
+1. Motion degraded study suggests decompensated communicating hydrocephalus with mild transependymal edema. However ventriculomegaly is not out of proportion to prominent sulci. Clinical correlation recommended. No herniation nor midline shift. 2. Evolving postsurgical changes with resolution of bilateral subdural hematomas. 3. Advanced chronic small vessel ischemic changes and atrophy.

@@ -1,0 +1,7 @@
+Diseases: ['metastasis', 'metastasis']
+FINDINGS:
+
+Enhancing necrotic mass in left frontal lobe measures about 2.6 cm consistent with metastasis. Surrounding vasogenic edema in the left hemisphere extending into the corpus callosum. Moderate midline shift. Scattered other foci of signal abnormal abnormality in the brain are nonspecific. Other foci of enhancement at the right insula right pons right posterior temporal lobe right parietal lobe are also worrisome for metastasis in this patient. Moreover there is leptomeningeal metastasis within the right superior cerebellar folia. Focal round signal abnormality in pons is also worrisome for metastasis.
+IMPRESSION:
+
+1. Multiple brain metastases largest in left frontal lobe with mass effect and midline shift. 2. There is also evidence of leptomeningeal/CSF space metastasis particularly in the cerbellar folia. Suggest CSF sampling. 3. Probable C2 metastasis. Consider bone scintigraphy.

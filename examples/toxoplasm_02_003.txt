@@ -1,0 +1,7 @@
+Diseases: ['abscess', 'toxoplasmosis', 'abscess', 'hydrocephalus']
+FINDINGS:
+
+Little significant change since 8/12/07. Again noted is a lobulated rim-enhancing structure at the right pontomedullary junction either extra-axial in location or perhaps at the surface of the brainstem. It is unchanged in size and appearance. Diffusion-weighted images show reduced ADC within. There is T2 prolongation in the brainstem and right cerebellar peduncle reflecting edema. Again noted are multiple foci of signal abnormality scattered throughout the cerebrum cerebellum and brainstem probably the result of prior emboli. No new foci are noted. The ventricles are again noted to be enlarged with mild periventricular signal change that may reflect transependymal CSF flow. The sulci are also enlarged for the patient's age. Spectroscopy is non-contributory probably due to the proximity of the lesion to the skull base. Perfusion images are difficult to interpret given the peripheral location of the rim-enhancing structure. It may have elevated CBV although this appearance may be due to nearby vessels.
+IMPRESSION:
+
+1. Little significant change since 8/12/07. 2. Rim-enhancing structure at right pontomedullary junction likely an abscess. Differential considerations include toxoplasmosis bacterial or fungal abscess. 3. Mild hydrocephalus. 4. Old embolic disease to the brain.

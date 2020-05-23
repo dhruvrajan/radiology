@@ -1,0 +1,7 @@
+Diseases: ['infarction']
+FINDINGS:
+
+There is no new acute infarct. There is continued evolution of the left posterior MCA territory infarction with decreased edema and sulcal effacement compared to the prior MRI. There is also continued evolution of the large intraventricular hemorrhage with most blood product in the left lateral ventricle and a small amount in the right lateral ventricle. There is a tiny amount of hemosiderin in the 4th ventricle. There is new superficial siderosis about the brainstem. The ventricles are stable and prominent for the patient's age. There is stable blood product about the right frontal ventriculostomy catheter. There is a focus of increased susceptibility in the anterior right lateral ventricle likely a tiny focus of gas. The extra axial spaces are normal without evidence of mass or blood. The calvarium is normal. The orbits and paranasal sinuses are normal.
+IMPRESSION:
+
+1. No evidence of acute stroke. 2. Evolving left posterior MCA territory infarction with decreased edema and mass effect compared to MRI from 9/1/2010. 3. Evolving intraventricular blood products with new superficial siderosis about the brainstem.

@@ -1,0 +1,7 @@
+Diseases: ['hydrocephalus']
+FINDINGS:
+
+There has been interval increase in size of a dense discrete T2 hyperintense mass centered in the fourth ventricle displacing the brainstem anteriorly with maximal axial dimensions of 3.2 x 3.8 cm. The mass demonstrates mild irregular peripheral enhancement. There is dilatation of the lateral and third ventricles with mild transependymal spread of edema. Findings are suggestive of at least partial obstructive hydrocephalus. No midline shift. No evidence of acute infarction or intracranial hemorrhage. Mucosal disease involving ethmoid air cells. Prior suboccipital craniotomy. Perfusion imaging demonstrates no significant increase cerebral blood volume involving the mass. Spectroscopic interrogation of the mass demonstrates a high grade neoplastic spectrum.
+IMPRESSION:
+
+1. Interval increase in dense discrete mass centered in the fourth ventricle which displaces the brainstem anteriorly. There is no significant increase cerebral blood volume but the mass demonstratres a high grade neoplastic spectrum. Findings are overall concerning for an intermediate grade neoplasm. 2. Dilatation of third and lateral ventricles with mild transependymal spread of edema suggestive of at least partial obstructive hydrocephalus.

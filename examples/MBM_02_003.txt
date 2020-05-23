@@ -1,0 +1,7 @@
+Diseases: ['medulloblastoma']
+FINDINGS:
+
+There are postsurgical changes related to prior suboccipital craniectomy in this patient with history of prior medulloblastoma. There is similar diffuse prominence of the cerebellar folia consistent with volume loss. There is overall similar signal abnormality about the fourth ventricle with ex vacuo dilatation of the fourth ventricle. Following administration of contrast there is no pathologic enhancement. Overall similar T2/FLAIR signal abnormality along the ventral lateral aspect right pons extending into the middle cerebellar peduncle on the right similar to November 2012 exam however decreased from September 2012 exam. Similar region of encephalomalacia and gliosis right medial occipital lobe. Stable mild diffuse prominence of sulci with associated ventriculomegaly reflective of parenchymal volume loss. There are no extracerebral fluid collections focal regions of mass-effect or midline shift. No abnormal restricted effusion. Similar nonspecific FLAIR hyperintensity right frontal periventricular white matter nonspecific. Left greater than right maxillary ethmoidal and to lesser degree sphenoidal mucosal changes with bilateral maxillary mucous retention cyst. Continued opacification of the mastoid air cells bilaterally. No discrete suspicious marrow signal abnormalities. Imaged orbits unremarkable.
+IMPRESSION:
+
+1. Postsurgical changes in this patient status post remote treatment of medulloblastoma 2. Stable signal abnormality ventral aspect right pons extending to middle cerebellar peduncle.

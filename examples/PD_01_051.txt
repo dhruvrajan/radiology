@@ -1,0 +1,7 @@
+Diseases: ['amyloid']
+FINDINGS:
+
+No diffusion restriction. No suspicious extra-axial fluid collections. Small focus of susceptibility is noted within the left parahippocampal gyrus in the region of the uncus and may represent amyloid deposition versus sequela of prior hemorrhage. There are two numerous to count T2/FLAIR hyperintensities in the subcortical deep and periventricular white matter. Generalized cortical volume loss with resultant ventriculomegaly. No suspicious parenchymal or meningeal enhancement. The imaged intracranial vascular flow signals are within normal limits. Old left cerebellar hemisphere infarct. The imaged intracranial vascular flow voids are within normal limits. Small septum cavum pellucidum. Orbits and calvarium are within normal limits. Bimaxillary ethmoidal and sphenoidal mucosal changes.
+IMPRESSION:
+
+1. No evidence of acute ischemia. Diffuse T2/FLAIR hyperintensities throughout the white matter as above likely representing sequela of chronic microvascular ischemic disease. Remote left cerebellar hemisphere infarct. 2. Small focus of susceptibility within the left parahippocampal gyrus likely represent sequela of prior hemorrhagic event or amyloid. ATTENDING RADIOLOGIST AGREEMENT: I agree with the preliminary report without modification. I certify that I have personally reviewed the image and interpretation for this examination and agree with the findings in this report.

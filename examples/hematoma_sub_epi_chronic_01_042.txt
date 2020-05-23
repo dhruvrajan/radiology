@@ -1,0 +1,7 @@
+Diseases: ['hematoma', 'encephalomalacia']
+FINDINGS:
+
+T2-bright T1-bright extra-axial collection over right convexity again noted concordant with recent CT study and not apparent on distant MRI. Thin T1-bright extra-axial collections seen over right greater than left cerebellar convexities. These are most consistent with subdural hematomas. There is encephalomalacia involving the left frontal including cortex with prominence of sulci over left convexity compared to right encephalomalacia minimally increased since 2004. Minimal ex vacuo dilatation left lateral ventricle. Scattered hyperintensities in a periventricular and deep white matter and to a lesser extent deep gray matter structures are noted which are similar in distribution to the prior studies consistent with subcortical chronic small vessel ischemic changes. Chronic infarcts are noted in cerebellar hemispheres similar to prior. Diffusion-weighted images showed no convincing acute ischemia. Gradient echo images show no convincing parenchymal blood products except for those expected with subdural hematoma and recent surgery right frontal temporal region.
+IMPRESSION:
+
+1. No acute ischemia. 2. Subdural hematoma over right convexity similar in size to recent CT as well as small subdural hematomas over cerebellar convexities. 3. Chronic subcortical ischemic changes as well as left frontal transcortical chronic ischemic focus the latter with minimally more encephalomalacia and volume loss compared to 2004 MRI.

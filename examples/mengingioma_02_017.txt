@@ -1,0 +1,7 @@
+Diseases: ['meningioma', 'meningioma']
+FINDINGS:
+
+This is a limited study for operative localization.There is a 41 x 31 x 31 mm well-defined homogeneously enhancingmass with a small area of central necrosis in the left superiorfrontal-parietal area adjacent to the falx. There is mass effecton the surrounding sulci and the corpus callosum with somesurrounding vasogenic edema. Without comparison with priorimaging it is difficult to ascertain if this lesion is intra orextra axial. If the lesion is extra axial it is likely to be ameningioma if intra axial it would represent a high gradeneoplasm.Perfusion imaging shows high rCBV suggestive of a meningioma orhigh grade neoplasm.There are a few scattered foci of FLAIR hyperintensity in theperiventricular and subcortical white matter nonspecific and inthe appropriate clinical setting would be consistent with sequelaof small vessel ischemic disease.
+IMPRESSION:
+
+1. 41 x 31 x 31 mm well-defined homogeneously enhancing mass witha small area of central necrosis in the left superiorfrontal-parietal area adjacent to the falx. Without comparisonwith prior imaging it is difficult to ascertain if this lesion isintra or extra-axial. If the lesion is extra axial it is likelyto be a meningioma if intra-axial it would represent a highgrade neoplasm.2. Perfusion imaging shows high rCBV suggestive of a meningioma orhigh grade neoplasm.Transcribed by: Interface TalkStationLast Edited by: Interface TalkStation

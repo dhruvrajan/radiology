@@ -1,0 +1,7 @@
+Diseases: ['oligodendroglioma', 'astrocytoma']
+FINDINGS:
+
+There is an approximately 12 x 20 x 25 mm mass in the parafalcine right frontal cortex with minmal surrounding edema and mass effect. There is the suggestion of peripheral blood products or calcification. There is no appreciable enhancement. There is no increased perfusion in the right frontal lobe. There is the suggestion of mild scalloping of the right frontal inner osseous table. The brain is otherwise unremarkable noting no other abnormal signal or pathologic enhancement. No extra-axial fluid collection or midline shift. The ventricles are symmetric and cerebral volume is normal.Spectroscopic analysis demonstrates no abnormal reduction in NAA or elevated choline. There is a well-circumscribed 12 mm lesion in the region of the right suboccipital triangle (series 103 image 41) which appears continuous with the inferior right sigmoid sinus pr right vertebral vein. This likely represents a varix of the right vertebral vein but an aneurysm of the vertebral artery cannot be completely excluded in the absence of dedicated vascular imaging. Other considerations include a neurogenic/nerve sheath tumor or enhancing lymph node.
+IMPRESSION:
+
+1. Right parafalcine frontal mass with no appreciable enhancement or increased perfusion. Findings likely reflect an oligodendroglioma vs. low grade astrocytoma. 2. 12 mm lesion in the right suboccipital triangle. See findings.

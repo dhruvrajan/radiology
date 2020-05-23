@@ -1,0 +1,7 @@
+Diseases: ['astrocytoma', 'neurocytoma', 'lymphoma']
+FINDINGS:
+
+There is a heterogeneously enhancing lesion arising from the expected location of the right anterior commissure and right anterior fornix that measures 1.0 x 1.4 x 2.0 cm causing mass effect on the anterior third ventricle and anterior horn of the right lateral ventricle as well as displacing the left fornix laterally. Enhancement is intense along the inferior and posterior margins of the lesion whereas the anterior and superior margins are essentially nonenhancing. No significant increase in blood volume is seen on the perfusion weighted images. Spectroscopic analysis of the neoplasm demonstrate elevated Cr/NAA and Cr/Cho levels as well as a mildly elevated lipid/lactate peak. The remainder of the brain parenchyma is unremarkable in morphology and signal characteristic. Incidental note is made of a persistent septum cavum pellucidum. No abnormal extra-axial fluid collection is identified. No significant hemorrhage. No hydrocephalus. The orbits paranasal sinuses and mastoid air cells are clear. The superficial soft tissues are unremarkable.
+IMPRESSION:
+
+1. Parasagittal tumor associated with the right fornix and septum as detailed above. The imaging characteristics and MR spectrum suggest a grade II-III astrocytoma however a central neurocytoma could have a similar appearance. Colloid cyst and lymphoma seem unlikely based on the above imaging features.

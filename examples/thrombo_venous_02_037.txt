@@ -1,0 +1,7 @@
+Diseases: ['thrombosis']
+FINDINGS:
+
+There is FLAIR signal abnormality within the superior sagittal sinus and bilateral parasagittal cortical veins with correlating susceptibility on gradient echo images suspicious for cortical vein thrombosis in the setting of known superior sagittal sinus thrombosis. These findings were present on the prior study. Linear signal abnormality on diffusion weighted images at the vertex likely correlate to areas of cortical vein thrombosis. Otherwise no definite diffusion restriction. Redemonstrated is a focal area of subcortical white matter signal abnormality in the left precentral gyrus slightly progressed since the prior study most likely representing a venous infarct. The ventricles are normal in size. There is no mass effect or midline shift. Prominence of the nasopharyngeal soft tissues likely age-related.
+IMPRESSION:
+
+1. Slight interval progression of signal abnormality within the left precentral subcortical white matter venous infarct without diffusion restriction. 2. Stable bilateral parasagittal cortical vein thromboses and superior sagittal sinus thrombosis better evaluated on the prior study. ATTENDING RADIOLOGIST AGREEMENT: I have personally reviewed the images and agree with this report.

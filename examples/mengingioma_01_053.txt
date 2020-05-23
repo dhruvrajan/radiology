@@ -1,0 +1,7 @@
+Diseases: ['meningioma']
+FINDINGS:
+
+Status post left frontal craniotomy with stable post surgical changes. There is a stable 8-mm focus of nodular meningeal enhancement seen on image 20 of series 10 likely corresponding with the meningeal enhancement seen on image 20 of series 13 on prior examination. There is minimal stable asymmetry of the left cavernous sinus without evidence of abnormal mass-effect. Several scattered nonspecific T2/FLAIR hyperintense foci throughout the subcortical deep and periventricular white matter are likely the sequelae of chronic small vessel ischemic changes. There is no acute intracranial hemorrhage extracerebral fluid collection midline shift or mass effect. No evidence of acute infarction or susceptibility. The cerebral volume is appropriate for the patient's stated age. The visualized paranasal sinuses are grossly clear. Grossly stable prominent right cervical lymph node.
+IMPRESSION:
+
+1. Stable focus of nodular meningeal enhancement may represent recurrent or residual meningioma. 2. Nonspecific minimal asymmetry of the left cavernous sinus. ATTENDING RADIOLOGIST AGREEMENT: I have personally reviewed the images and agree with this report. I certify that I have personally reviewed the image and interpretation and agree with the findings in this report.

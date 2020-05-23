@@ -1,0 +1,7 @@
+Diseases: ['infarction']
+FINDINGS:
+
+The normally expected flow void from the intracranial right internal carotid artery is very diminutive in caliber. The right middle cerebral artery and right anterior cerebral artery flow voids are grossly normal in appearance within the limits of MRI. Please refer to the patient's prior head CT angiogram for further details. There is FLAIR signal abnormality within the posterosuperior right frontal lobe white matter without restricted diffusion or abnormal enhancement in this region. These findings are most likely in keeping with a subacute/chronic right middle cerebral artery territory infarction. There is no acute intracranial hemorrhage extracerebral fluid collection midline shift or mass effect. There is circumferential mucosal thickening within the ethmoid air cells frontal sinuses and and sphenoid sinus.
+IMPRESSION:
+
+1. No findings of an acute territorial cerebral infarct. 2. Subacute/chronic right MCA territory infarction. 3. Normally expected flow void from the intracranial right internal carotid artery is very diminutive in caliber. Attending note: Agree and have personally reviewed the images. The small right carotid artery is reflection poor inflow based on the CTA.

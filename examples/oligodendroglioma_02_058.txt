@@ -1,0 +1,7 @@
+Diseases: ['oligodendroglioma', 'encephalomalacia', 'infarction']
+FINDINGS:
+
+Again seen are postoperative changes from tumor resection along the right insula. The previously described area of high signal intensity involving gray and white matter along the posterior and inferior right frontal lobe is again seen and appears unchanged. No new suspicious mass-like signal abnormality or enhancement around the resection cavity. There are stable encephalomalacia involving the right frontal and temporal lobes compatible with prior right MCA territory infarction. Laminar necrosis is noted. No acute hemorrhage midline shift extra-axial collection hydrocephalus or infarction. The ventricles are stable compared to the prior study. Bilateral orbits are unremarkable. There are stable bilateral maxillary sinus mucus retention cysts/polyps.
+IMPRESSION:
+
+1. Surgical changes from prior resection of right frontotemporal oligodendroglioma. Encephalomalacia in the anterior right middle cerebral artery territory from prior MCA infarction and surgery stable. 2. Stable region of signal abnormality involving gray and white matter in the posterior inferior right frontal and temporal lobes possibly treatment sequela versus stable mild residual neoplasm. No suspicious new foci of signal abnormality or enhancement. Continued follow-up is advised.

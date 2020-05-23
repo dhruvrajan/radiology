@@ -1,0 +1,7 @@
+Diseases: ['oligodendroglioma', 'encephalitis']
+FINDINGS:
+
+Confirming findings seen on the prior study there is abnormal signal suggestion of restricted diffusion and mild expansion of the medial left frontal lobe including cortical gray matter predominantly in its inferior aspect. There is minimal rightward midline shift. There is extension of signal abnormality to the insular region. These findings favor an acute/subacute left ACA infarct. However low-grade primary neoplasm such as oligodendroglioma and encephalitis cannot completely be excluded. There is no hemorrhage. Ventricles sulci and cisterns are symmetric and patent. There are areas of abnormal signal in the white matter likely representing the sequela of chronic small vessel ischemic disease. There is a small chronic left cerebellar infarct. Pituitary fossa posterior fossa and both orbits are unremarkable. No abnormal enhancing lesions in the brain or its covering.
+IMPRESSION:
+
+1. Findings probably consistent with acute/subacute left ACA infarct with minimal midline shift. However low-grade primary neoplasm such as oligodendroglioma and encephalitis cannot be completely excluded. 2. Probably small vessel ischemic disease. Dr. Dietz was notified of these findings at 12:00.

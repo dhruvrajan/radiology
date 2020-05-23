@@ -1,0 +1,7 @@
+Diseases: ['meningioma', 'hemangiopericytoma']
+FINDINGS:
+
+There is a 4.7 cm heterogeneous mass in the left middle cranial fossa. It is difficult to say with certainty whether this mass is intra- or extra-axial in location although overall I favor the latter as there are several areas where the cortex seems to be displaced inward. The hippocampus and temporal horn are displaced superiorly. There is a curvilinear hypointensity laterally that may represent calcification. No edema within the left temporal lobe parenchyma. With contrast there is heterogeneous enhancement of the mass with apparent cystic areas within. There is a suggestion of curvilinear enhancement along the medial and lateral borders of the mass perhaps best seen on the coronal imaging (series 40a image 79).
+IMPRESSION:
+
+1. Left middle cranial fossa mass as above displacing the hippocampus superiorly. I favor an extra-axial location and thus suggest a differential diagnosis of unusual meningioma hemangiopericytoma and hemangioma. If intra-axial the tumor most likely is a glioma. Correlation with prior imaging (conventional imaging sequences) is suggested. 2. Please see separate report regarding fMRI findings.

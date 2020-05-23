@@ -1,0 +1,7 @@
+Diseases: ['astrocytoma']
+FINDINGS:
+
+Again seen are the foci of susceptibility along the margins of the lateral ventricles unchanged from prior exam. One of the lesions in the left caudothalamic groove near the foramen of Monro demonstrates contrast enhancement without any increase in size compared to the prior examination and likely a subependymal giant cell astrocytoma. The other two foci of susceptibility not enhance and likely represent subependymal nodules of tuberous sclerosis. Subcortical areas of slight FLAIR hyperintensity in the right inferior frontal and inferomedial left temporal lobe in keeping with tubers are again seen. There may be a focus in the right frontal lobe laterally as well image 19 of series 7. The ventricles are stable in size compared to prior exam. The ventricles and sulci are within range of normal for age. There is no mass effect or midline shift. There is no abnormal extra-axial fluid collection. Diffusion weighted imaging does not demonstrate an acute infarct. The skull is thick as before nonspecific but could potentially be related to chronic AED medication use. The visualized paranasal sinuses are clear except for very mild mucosal thickening in the ethmoid air cells. The mastoid air cells are unremarkable.
+IMPRESSION:
+
+1. Findings of tuberous sclerosis as described. 2. Stable small subependymal giant cell astrocytoma on the left without interval growth. Stable ventricular size.

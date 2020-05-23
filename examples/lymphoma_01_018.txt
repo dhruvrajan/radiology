@@ -1,0 +1,7 @@
+Diseases: ['normal', 'lymphoma']
+FINDINGS:
+
+The cerebral ventricles and sulci are mildly prominent for the patient's age in keeping with volume loss. The basal cisterns are patent. There are no areas of parenchymal signal abnormality. There are no abnormal areas of restricted diffusion. There is no pathologic enhancement in the brain or cranial nerves. There is mild uniform dural enhancement without nodularity of uncertain etiology or significance. Has this patient had recent lumbar puncture? Mild fluid is seen in the bilateral mastoid air cells. Minimal paranasal sinus is noted within the sphenoid sinuses. A borderline right retropharyngeal lymph node is visualized indeterminate in etiology (series 3 image 4). A Thornwaldt cyst this is also noted incidentally. There is heterogeneous signal intensity seen within the calvarium a nonspecific finding possibly secondary to the patient's reported lymphoma.
+IMPRESSION:
+
+1. Normal MRI appearance of the brain and cranial nerves.2. Diffuse signal abnormality within the calvarium nonspecific and possibly secondary to lymphoma.

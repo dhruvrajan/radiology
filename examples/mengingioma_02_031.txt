@@ -1,0 +1,7 @@
+Diseases: ['pseudotumor']
+FINDINGS:
+
+There is no suspicious leptomeningeal or parenchymal enhancement. There are no focal regions of mass effect. There is a 1.2 x 1.0 cm area of susceptibility along the left frontal vertex likely representing prominent dural calcification previously seen on prior head CT. There is no restricted diffusion. There are no extra-axial fluid collections. No focal regions of cerebral edema. There is no ventriculomegaly. Imaged dural venous sinuses particularly the transverse sinuses appears somewhat diminutive. Generalized hypointense appearance of the imaged bone marrow on T1-weighted sequences. Frontal ethmoidal and maxillary mucosal changes. Orbits are unremarkable.
+IMPRESSION:
+
+1. Dural based focus of susceptibility overlying the left frontal vertex is consistent with a dural based calcification. There is no convincing evidence of meningioma. 2. The bone marrow signal is diffusely decreased on T1 weighted images. This is a nonspecific finding and while this may be artifactual the setting of a 3 Tesla acquisition this can be seen in association with anemia other myeloproliferative disorders infiltrative processes and chronic hypoxic state including smoking. Clinical correlation is recommended. 3. Somewhat diminutive appearance of the imaged dural venous sinuses. While this finding has been seen in the setting of idiopathic intracranial hypertension (pseudotumor cerebri) in a patient whose headaches now resolved and in the absence of other intracranial findings this is of uncertain significance. Correlate clinically.

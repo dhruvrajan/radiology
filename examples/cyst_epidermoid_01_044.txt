@@ -1,0 +1,7 @@
+Diseases: ['aneurysm']
+FINDINGS:
+
+There is a 1 x 1.3 cm region of abnormal signal intensity in theright petrous apex. This is hyperintense on T2 weighted sequencesand slightly hyperintense on T1-weighted sequences. The lesion isstable from 2001. There is no definite enhancement followinggadolinium contrast. No definite diffusion restriction is seen .The differential diagnosis includes an epidermoid or cholesterolgranuloma although this would represent an atypical appearance ofeither entity. An epidermoid is favored given the CT appearance.The ventricles and sulci are normal in size and configuration.There is no mass effect or midline shift. There is no evidence ofintracranial hemorrhage. A venous angioma is noted in the leftparietal lobe. The visualized paranasal sinuses and orbitalcontents are normal. The paranasal sinuses are clear.
+IMPRESSION:
+
+1. Stable region of abnormal signal intensity in the right petrousapex which could represent an epidermoid or cholesterolgranuloma. This would be an atypical appearance for eitherentity however an epidermoid is favored. Other differentialdiagnostic considerations like mucocele aneurysm or metastasisare felt to be much less likely.2. Left parietal venous angioma.Transcribed by: Interface TalkStationLast Edited by: Interface TalkStation

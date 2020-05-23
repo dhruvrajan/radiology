@@ -1,0 +1,7 @@
+Diseases: ['encephalitis']
+FINDINGS:
+
+Multiple images are severely degraded by motion artifact. There are scattered foci of high T2/FLAIR signal abnormality in the subcortical and periventricular white matter nonspecific. Mild abnormal T2/FLAIR signal in the medial thalami bilaterally. Ventricles and sulci are appropriate for age. No mass lesion no extra-axial collection and no acute ischemia. No obvious abnormal enhancement given motion artifact. The paranasal sinuses are clear.
+IMPRESSION:
+
+1. Severely motion degraded study. 2. Mild abnormal signal in the medial thalami bilaterally. Differentially considerations include Wernicke's encephalopathy viral encephalitis seizure activity and venous ischemia. Clinical correlation advised.

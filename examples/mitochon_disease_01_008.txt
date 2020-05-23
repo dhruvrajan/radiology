@@ -1,0 +1,7 @@
+Diseases: ['normal', 'normal']
+FINDINGS:
+
+Brain: No abnormal focus of restricted diffusion. No abnormal susceptibility. No masses mass effect shift of midline structures hydrocephalus or effacement of basal cisterns. Visualized paranasal sinuses and bilateral mastoids appear grossly unremarkable. Prominence of the nasopharyngeal soft tissues and palatine tonsils advise correlation with direct inspection. Spine: Vertebral bodies appear normal in height and alignment normal marrow signal intensity pattern. No focal suspect lesions. Disk spaces are preserved. No canal or foramina stenosis. On image number 11 of series 12 there is suggestion of T2 hyperintense signal in the upper thoracic cord at T2-T3 not convincingly seen on the corresponding sagittal images could just be artifactual in etiology. No other areas of intrinsic cord signal abnormality. Tiny perineural cysts. Pre-and paravertebral soft tissues appear grossly unremarkable.
+IMPRESSION:
+
+1. No focal parenchymal abnormality in the brain. No acute intracranial findings or obvious mass lesions. 2. Vertebral bodies appear normal in height and alignment and normal marrow signal intensity pattern. Questionable focus of T2 hyperintensity in the upper thoracic cord at T2-T3 not convincingly seen on the corresponding sagittal images could just be artifactual in etiology. Advise clinical correlation. No other areas of intrinsic cord signal abnormality.

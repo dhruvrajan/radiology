@@ -1,0 +1,7 @@
+Diseases: ['metastasis']
+FINDINGS:
+
+Faint focus of enhancement on coronal post contrast images only (series 10 image 17) in the left thalamus not associated with T2 prolongation and not clearly seen on prior examination could represent capillary telangiectasia however early metastasis not entirely excluded. No other abnormal enhancing lesions in the brain or its covering. Otherwise no significant interval change. Extensive areas of T2 prolongation within the subcortical deep and periventricular white matter likely sequela of small vessel ischemic disease. Ventricles sulci and cisterns are symmetric and patent. No extraaxial fluid collections or mass effect. No acute intracranial hemorrhage or acute infarcts. Flow voids are maintained in the anterior and posterior circulation as well as the superior sagittal sinus. Pituitary fossa posterior fossa and both orbits are unremarkable. Mild ethmoid sinus mucosal thickening.
+IMPRESSION:
+
+1. Faint focus of enhancement on coronal post contrast images only in the left thalamus not associated with T2 prolongation and not clearly seen on prior examination probably represents subacute lacunar infarct however early metastasis not entirely excluded. Attention to this area is advised on follow-up examination. 2. No other suspicious enhancing lesions to suggest metastases. Addendum: Hypointensity in the dens on T1 weighted images worrisome for metastatic bone lesion. Advise correlation with bone scans

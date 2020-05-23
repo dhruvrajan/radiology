@@ -1,0 +1,7 @@
+Diseases: ['meningioma']
+FINDINGS:
+
+There is a small extra-axial mass with dural tail left cerebellopontine angle with edge of lesion along posterior aspect internal auditory canal measures about 5.5 mm in height and is stable compared to prior studies to November 28 2008. The ventricles and CSF spaces are otherwise symmetric and are moderately prominent probably minimally in excess of that expected for stated age of 77 but relatively stable over time. There are multiple nonspecific hyperintensities in the periventricular deep and subcortical white matter on long-TR images nonspecific but relatively stable over time. No abnormal enhancement other than the left cerebellopontine angle extra-axial lesion as noted above. Skull orbits and paranasal sinuses are remarkable for prior left ocular surgery and there is minimal fluid in the right or the left mastoid air cells which is increasing since most recent study. No other changes.
+IMPRESSION:
+
+1. Left cerebellopontine angle extra-axial mass most consistent with meningioma stable since November 28 2008 study. 2. Moderate parenchymal volume loss a little in excess of that expected for age but stable and nonspecific white matter hyperintensities on long-TR images which also appear stable over time. 3. Minimal fluid mastoid air cells right greater than left increasing since prior study and no other change.

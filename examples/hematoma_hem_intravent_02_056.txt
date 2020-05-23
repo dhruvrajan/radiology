@@ -1,0 +1,7 @@
+Diseases: ['hydrocephalus']
+FINDINGS:
+
+There is no restricted diffusion to suggest acute infarction. There is diffuse abnormal decreased intensity suggesting susceptibility effect on gradient echo images throughout the sulci above and below the tentorium appears also to "stain" surface of brainstem acuity is uncertain but there is focal susceptibility layering in occipital horns suggesting at least some recent hemorrhage. Subacute or chronic component with meningeal staining is another consideration elsewhere. There are scattered punctate foci of increased FLAIR signal intensity in periventricular and deep white matter which may represent chronic small vessel ischemic changes mild in extent. The size of the ventricular system is prominent. It may partly be secondary to compensated hydrocephalus. It may also be secondary to volume loss the latter is favored. No extra-axial collection.
+IMPRESSION:
+
+1. No acute infarction. 2. Diffuse subarachnoid hemorrhage versus component of meningeal staining but with layering small amount of intraventricular blood on left indicating recent hemorrhage (and blood on CSF sampling as well). The degree of susceptibility change is mild to moderate not as striking as can be seen with long-standing superficial siderosis. 3. Enlargement of the ventricular system volume loss favored over compensated hydrocephalus. I certify that I have personally reviewed the image and interpretation for this examination and agree with the findings in this report.

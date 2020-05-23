@@ -1,0 +1,7 @@
+Diseases: ['dermoid']
+FINDINGS:
+
+There is a linear area of T2 prolongation along the right frontal lobe consistent with prior ventriculostomy catheter tract. There is no evidence of acute ischemia. There is no acute intracranial hemorrhage mass effect midline shift. There is a 5 mm T1 hyperintense extra-axial lesion in the suprasellar cistern (series 2 image 12) which corresponds to fat density on CT. This likely represents a dermoid. Visualized paranasal sinuses are grossly clear.
+IMPRESSION:
+
+1. No acute intracranial abnormality. No acute ischemia. 2. Suprasellar dermoid.

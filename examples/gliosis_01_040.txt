@@ -1,0 +1,7 @@
+Diseases: ['gliosis']
+FINDINGS:
+
+Patient is status post resection of the anterior left temporal lobe with surrounding areas of T2/FLAIR hyperintensity also possibly involving the tail of left hippocampus likely representing gliosis which grossly appear unchanged as compared to the prior MRI scan. Right mesial temporal structures appear grossly unremarkable. No interval acute intracranial findings. No midline shift or hydrocephalus. Basilar cisterns appear patent. Following contrast administration no pathologic parenchymal/meningeal enhancement. Visualized paranasal sinuses show evidence of mild mucosal disease. Mastoids appear well pneumatized.
+IMPRESSION:
+
+1. Patient is status post resection of the anterior left temporal lobe with surrounding areas of T2/FLAIR hyperintensity likely representing gliosis which grossly appear unchanged as compared to the prior MRI scan. See above.

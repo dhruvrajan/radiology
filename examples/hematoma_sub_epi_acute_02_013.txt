@@ -1,0 +1,7 @@
+Diseases: ['hematoma']
+FINDINGS:
+
+Again noted are postoperative changes from right parietal craniotomy. No significant residual hematoma. Stable scattered signal changes in the brain likely ischemic. No new mass lesion no new edema. Ventricles and sulci are stable in size. Gradient echo images show no new areas of signal loss. Diffusion-weighted images show no areas of acute ischemia. Postcontrast images show no abnormal enhancement to suggest metastasis. The calvarium shows no suspicious foci of marrow replacement. The paranasal sinuses are clear. The left parietal scalp lesion is no longer seen perhaps was removed.
+IMPRESSION:
+
+1. No metastasis. 2. Post-operative changes from subdural hematoma evacuation. No significant residual hematoma.

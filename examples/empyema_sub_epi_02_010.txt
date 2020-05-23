@@ -1,0 +1,7 @@
+Diseases: ['hematoma']
+FINDINGS:
+
+Again seen are postoperative changes from right anterior temporal lobe resection with overlying craniotomy. T2 prolongation at the posterior margin of the resection cavity extending into the external capsule is similar to the most recent prior study from May 20 2008 but slightly increased compared to February 26 2008. While the original tumor did not enhance there was enhancement in the recurrent tumor. There are no suspicious areas of enhancement. Further decrease in size of peripherally enhancing left hemispheric subdural hematoma with decreasing mass effect. Mild residual left to right midline shift. Apparent subarachnoid FLAIR hyperintensity near left vertex probably related to susceptibility and incomplete CSF suppression. Bifrontal dural enhancement is probably a combination of treatment related enhancement and reaction to subdural collection. Evaluation for empyema is degraded by susceptibility from blood products within the hematoma. Again noted are a few scattered nonspecific areas of T2 prolongation within the white matter. There is a tract from a left frontal intraventricular catheter. Paranasal sinuses are essentially clear. Probable postradiation marrow changes.
+IMPRESSION:
+
+1. Stable appearance status post right temporal tumor resection without areas of suspicious T2 prolongation or enhancement. Continued follow-up is advised. 2. Decreasing left hemispheric subdural hematoma.

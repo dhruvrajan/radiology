@@ -1,0 +1,7 @@
+Diseases: ['meningioma']
+FINDINGS:
+
+There is unchanged prominence of the CSF spaces consistent with parenchymal volume loss. There are scattered nonspecific nonenhancing foci of increased FLAIR signal intensity stable with the prior examination There are no areas of acute infarction or hemorrhage. There is a stable 11 mm peripineal region cyst. Again noted is an extra-axial homogeneously enhancing mass in the right posterior fossa along the lateral margin of the right cerebellum/posterior right temporal bone most likely representing a meningioma. There is no edema in the adjacent brain parenchyma. This measures 20 mm on the current examination on image seven of series 10 previously 19 mm when measured in a similar fashion on the prior study. This abutts the right sigmoid sinus but the sinus does not appear to be invading at this time. There is an unchanged focal enhancing region in the left parietal lobe on image 21 of series 10 possibly representing a capillary telangiectasia. There are no other areas of abnormal enhancement. The visualized paranasal sinuses are clear.
+IMPRESSION:
+
+1. Stable enhancing mass most consistent with meningioma in the right posterior fossa as detailed above. 2. Scattered nonspecific white matter FLAIR hyperintensities. 3. No change in the left parietal lobe focal enhancement consistent with a developmental venous anomaly/capillary telangiectasia.

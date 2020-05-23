@@ -1,0 +1,7 @@
+Diseases: ['oligodendroglioma']
+FINDINGS:
+
+There is a heterogenous mass in the anteromedial right temporal and frontal lobes which measures 63 x 49 mm on the enhanced T1-weighted images (image 110 of series 4). The mass exerts mass effect with moderate effacement of the frontal horn of the right lateral ventricle and mild right to left shift of the midline at the level of the third ventricle. The mass is predominantly hypoenhancing except for mild irregular enhancement in the anteromedial right temporal lobe and deep right frontal lobe. The lesion has a significant cortical involvment and CBV map does not show significant elevation of rCBV considering this location . Right frontal burr hole and probable biopsy tract is present in the right frontal lobe. There is mild mucosal thickening in the right frontal sinuses and ethmoid air cells. The mastoid air cells are clear. There is elevation of the Choline to NAA ratio and the few areas of elevated lactate peaks on multivoxel spectroscopy consistent with neoplasm.
+IMPRESSION:
+
+1. Right temporal and right frontal lobe mass as detailed above with little enhancing tissue no significant elevated rCBV and low lactate levels consistent with a predominately low grade glial tumor. The cortical location would suggest the diagnoses of oligodendroglioma and ganglioglioma although diagnosis is presumably known from provious biopsy.

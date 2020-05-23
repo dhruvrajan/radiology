@@ -1,0 +1,7 @@
+Diseases: ['migraine', 'normal']
+FINDINGS:
+
+There is no acute intracranial hemorrhage midline shift mass effect. There is no hydrocephalus. Ventricles are stable in size compared to prior exam. Again seen are scattered foci of hyperintensity on long-TR sequences throughout the subcortical and periventricular white matter. These are stable allowing for differences in technique when compared to prior exam from 2005. Once again the appearance is nonspecific and differential considerations include inflammatory etiology Lyme disease migraine vasculitis. There is no pathologic enhancement in the brain. The orbits sinuses visualized parapharyngeal soft tissues are grossly unremarkable. Concerning the cervical spine there is moderate reversal of normal cervical lordosis this may be secondary to positioning. The cord signal is normal. The marrow signal is normal. There are no focal areas of central canal stenosis or neural foraminal narrowing in the cervical spine. No enhancing lesions are seen in the cervical cord.
+IMPRESSION:
+
+1. Stable nonspecific foci of T2 hyperintensity throughout the subcortical and periventricular white matter. Differential considerations include inflammatory etiology Lyme disease migraine vasculitis.2. Normal cord signal in the cervical spine no focal areas of central canal stenosis or neural foraminal narrowing. No pathologic enhancement.

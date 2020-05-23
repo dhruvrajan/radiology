@@ -1,0 +1,7 @@
+Diseases: ['hydrocephalus']
+FINDINGS:
+
+A suboccipital cranioplasty is noted. Expected postsurgical changes include small amounts of extraaxial air in the posterior fossa and T1 hyperintense collection in the surgical cavity likely representing blood products. There is interval resection of the posterior fossa mass with decreased mass effect on the fourth ventricle. In the posterior occipital horns right greater than left there are T1 isointense/T2 hypointense collections consistent with intraventricular blood. There is a small focus of restricted diffusion in the inferior right medial cerebellum (series 5 image 71) likely cytotoxic edema. Following contrast administration there is no convincing residual enhancement. Diffuse dural enhancement is noted likely related to recent surgery and/or shunting. A right frontal approach ventriculostomy catheter terminates in the third ventricle near the right foramen of Monroe in stable position compared to the 8/19/08 head CT. There is edema surrounding the ventriculostomy catheter within the right frontal white matter. The lateral and third ventricles are symmetric and enlarged but decreased in size compared to the 8/19/08 head CT. There is no midline shift. There is a mucous retention cyst in the left maxillary sinus and mild mucosal thickening in the posterior sphenoid sinus.
+IMPRESSION:
+
+1. Status post resection of posterior fossa mass with expected postsurgical changes as above with no convincing residual enhancement. 2. Decreasing obstructive hydrocephalus.

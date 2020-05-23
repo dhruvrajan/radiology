@@ -1,0 +1,7 @@
+Diseases: ['meningioma']
+FINDINGS:
+
+There is no acute intracranial hemorrhage extracerebral fluid collection midline shift or mass effect. No restricted diffusion. There is a homogeneously enhancing extra axial mass along the anterior-inferior left frontal lobe convexity with an associated dural tail and overlying bony hyperostosis. This is consistent with a meningioma and measures 1.4 cm in size. The visualized paranasal sinuses are clear with the exception of a right maxillary mucous retention cyst. Evaluation of the orbits shows no retrobulbar mass. There is no T2 signal abnormality or pathologic enhancement along the visualized optic pathways. The intra-orbital and intracranial optic nerves are small bilaterally. The extraocular muscles are symmetric in size.
+IMPRESSION:
+
+1. Enhancing left frontal convexity extra-axial mass most consistent with a meningioma. 2. Small bilateral optic nerves. See above.

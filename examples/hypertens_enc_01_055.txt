@@ -1,0 +1,7 @@
+Diseases: ['pseudotumor']
+FINDINGS:
+
+Examination mildly motion degraded. There are no territorial regions of restricted diffusion. There are patchy FLAIR hyperintensities within the deep and periventricular white matter which have a slight posterior predilection in the periatrial regions which are nonspecific but felt to represent the sequela of microvascular ischemic changes. There is no extracerebral fluid collection intraparenchymal hematoma focal region of mass effect or midline shift. Ventricles and sulci are grossly within normal limits for patient age. Following administration of contrast there is no pathologic enhancement. Transverse sinuses appear slightly diminished in caliber bilaterally. Mucosal changes medial aspect left sphenoid sinus and mild ethmoidal mucosal changes.. No discrete suspicious marrow signal abnormalities. Imaged orbits are unremarkable. Sellar contents appear mildly diminished but no frank stigmata of partial empty sella appreciated.
+IMPRESSION:
+
+1. No evidence of acute ischemia or mass effect. 2. No convincing intracranial findings to suggest posterior reversible encephalopathy syndrome. Probable peri-ventricular microvascular ischemic changes as detailed. 3. Transverse sinuses appear slightly diminished in caliber bilaterally. While this finding is nonspecific it is been described in the setting of idiopathic intracranial hypertension (pseudotumor cerebri). Correlate with clinical symptomatology and consider funduscopic exam as warranted.

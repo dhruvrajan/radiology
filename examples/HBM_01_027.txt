@@ -1,0 +1,7 @@
+Diseases: ['hemangioblastoma']
+FINDINGS:
+
+Suboccipital craniectomy/cranioplasty evolving post-operative changes in the cerebellum. The pseudomeningocele seen on the CT has resolved. New signal abnormality in left medulla likely representing hypertrophic olivary degeneration. Scattered other signal changes are stable likely chronic ischemia. With contrast curvilinear enhancement in the inferior posterior fossa is likely post-operative. Bilateral lens surgery.
+IMPRESSION:
+
+1. Post-operative changes from resection of cerebellar hemangioblastoma. No residual tumor. 2. Hypertrophic olivary degeneration on the left.

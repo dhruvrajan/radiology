@@ -1,0 +1,7 @@
+Diseases: ['hematoma']
+FINDINGS:
+
+Again seen is the acute intraparenchymal hematoma in the righttemporo-occipital lobe with a small amount of edema surroundingit. There is subarachnoid blood within the right cerebral sulci.The overall amount of blood is not significantly changed since theCT. Mild mass effect upon the right occipital horn. Ventriclesare stable in size.Flow voids within the dural venous sinuses confirm their patency as does flow-related enhancement on the localizing gradient-echoimages.No other regions of parenchymal signal abnormality are noted inthe brain. The susceptibility-weighted images show no other areasof intracranial blood product deposition. Diffusion-weightedimages show no areas of acute ischemia.Enhanced images show no definite parenchymal enhancement althoughseveral images are degraded by motion artifacts. There ismeningeal enhancement perhaps related to the subarachnoid bleed.MRA shows no abnormal vasculature to suggest an AVM or AV fistula.No evidence of aneurysm or occlusion. No evidence of vesselnarrowing to suggest a vasculitis.
+IMPRESSION:
+
+1. Intraparenchymal hematoma in right temporo-occipital lobe with subarachnoid hemorrhage stable since CT.2. No evidence of venous sinus thrombosis.3. No evidence of underlying vascular or neoplastic lesion toexplain the hemorrhage. A repeat enhanced MRI may be of valueafter the hemorrhage resolves.Transcribed by: Interface TalkStationLast Edited by: Interface TalkStation

@@ -1,0 +1,7 @@
+Diseases: ['meningitis', 'normal']
+FINDINGS:
+
+Mild flair hyperintensity within the cerebral sulci is most likely related hyper-oxygenation with ventilation. There is no acute intracranial hemorrhage extracerebral fluid collection midline shift or mass effect. Following contrast administration there is no pathologic enhancement to be imaging evidence of meningitis/encephalitis. There is no evidence of restricted diffusion. Punctate focus of T2 prolongation within the right frontal white matter is nonspecific without enhancement. Bilateral hippocampi demonstrate normal signal intensity architecture and volume. There is no evidence of heterotopia/cortical dysplasia. Patency of major intracranial vessels including dural venous sinuses is seen. The visualized paranasal sinuses show mild circumferential mucosal thickening of all the sinuses with complete opacification of the right sphenoid sinus and partial with fluid level in the left sphenoid sinus. Fluid level and trace opacification of the mastoid air cells are related to intubation.
+IMPRESSION:
+
+1. No imaging evidence of meningitis/encephalitis. Mild flair hyperintensity within the cerebral sulci is most likely related hyper-oxygenation with ventilation rather than meningitis. Please correlate with CSF findings. 2. No structural abnormality as a seizure focus. Normal bilateral hippocampi. 3. Sinus disease.

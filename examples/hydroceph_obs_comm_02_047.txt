@@ -1,0 +1,7 @@
+Diseases: ['hydrocephalus']
+FINDINGS:
+
+Please note that the study is slightly degraded by motion artifacts. The ventricles are disproportionately prominent with respect to the sulci which could represent central volume loss. However mild communicating hydrocephalus such as NPH cannot be excluded. There are areas of increased T2/FLAIR signal in the periventricular deep and subcortical white matter nonspecific possibly representing the sequela or small vessel ischemic disease. No extraaxial fluid collections or mass effect. Flow voids are maintained in the anterior and posterior circulation as well as the superior sagittal sinus. Pituitary fossa posterior fossa and both orbits are unremarkable. There is no evidence of visual pathway lesion. If clinically warranted a dedicated MRI of the orbits could be performed for further evaluation. No abnormal enhancing lesions in the brain or its covering. There is marked mucosal thickening in the right maxillary sinus.
+IMPRESSION:
+
+1. No evidence of visual pathway lesion. If clinically warranted a dedicated MRI of the orbits could be performed for further evaluation. 2. Disproportionately prominent lateral ventricles with respect to sulci possibly representing volume loss. However mild communicating hydrocephalus such as NPH cannot be excluded. 3. Nonspecific white matter disease.

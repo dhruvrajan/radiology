@@ -1,0 +1,7 @@
+Diseases: ['hematoma']
+FINDINGS:
+
+Right frontal burr hole changes. There is interval complete resolution of the right convexity subdural hematoma. There is no restricted diffusion in the brain to suggest acute infarction. There are scattered foci of increased T2/FLAIR signal in the subcortical deep and periventricular white matter nonspecific but are likely sequelae of chronic ischemia. The ventricles and sulci are normal in size and position. No extraaxial fluid collection. Mild diffuse dural enhancement most of the secondary to prior surgery. There is no abnormal enhancement. No mass lesions. No acute intracranial hemorrhage. There is a focus of susceptibility in the left occipital lobe (image 17 series 6) which is a present on prior study and likely represent hemosiderin staining from prior hemorrhage. The intracranial flow voids are normal. The calvarium is normal. The orbits are normal. Mild mucosal changes in the paranasal sinuses. Partially empty sella nonspecific.
+IMPRESSION:
+
+1. Interval complete resolution of the right convexity subdural hematoma. 2. No acute infarction or hemorrhage. ATTENDING RADIOLOGIST AGREEMENT: I have personally reviewed the images and agree with this report.

@@ -1,0 +1,7 @@
+Diseases: ['hematoma']
+FINDINGS:
+
+Study is degraded by motion artifact. There is a right frontal burr hole from prior Licox placement. Small amount of flair signal abnormality in the right frontal lobe along the course of the Licox monitor. Small amount of hyperintense signal within the sulci of flair signal likely represents mild residual subarachnoid blood. There is a trace subdural hematoma layering along the posterior falx and along the right temporoparietal convexity. Hyperintense signal in the splenium of corpus callosum and left pons consistent with evolving axonal injury. Persistent minimal diffusion restriction in the splenium of the corpus callosum. No new areas of restricted diffusion. Once again numerous foci of susceptibility are seen throughout the brain consistent with diffuse axonal injury. These appear less conspicuous on the current exam. Largest lesion is in the right temporal lobe. There is no acute infarct acute intracranial hemorrhage midline shift or mass effect. The cerebral volume is appropriate for the patient's stated age. There is a cavum septum pellucidum.
+IMPRESSION:
+
+1. Evolving traumatic brain injury as described above with multiple foci of susceptibility throughout the brain which appear less conspicuous on the current exam mild residual subarachnoid blood and trace subdural hematoma layering along the posterior falx and along the right temporoparietal convexity. Attending Note: I have reviewed the exam and agree with the above comments.

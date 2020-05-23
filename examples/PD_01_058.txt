@@ -1,0 +1,7 @@
+Diseases: ['thrombosis']
+FINDINGS:
+
+There are status post right frontotemporal craniotomy changes. There is encephalomalacia in the right temporal lobe. There is confluent white matter FLAIR hyperintensities in the right frontotemporal and frontoparietal lobes possibly secondary to treatment effects. There is no restricted diffusion in the brain. No mass lesions. There is no abnormal enhancement. The ventricles and sulci are prominent in keeping with volume loss. No extraaxial collection. There is a poor flow void in the right sigmoid sinus possibly due to slow flow but thrombosis cannot be excluded. The calvarium is normal. The orbits are normal. The paranasal sinuses are normal.
+IMPRESSION:
+
+1. Post-surgical right temporal lobe encephalomalacic changes. No recurrent tumor. 2. Poor flow void in right sigmoid sinus perhaps slow flow thrombosis not excluded. Suggest MRV or CTV.

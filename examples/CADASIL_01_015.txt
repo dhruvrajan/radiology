@@ -1,0 +1,7 @@
+Diseases: ['cadasil', 'encephalitis']
+FINDINGS:
+
+On the long-TR images there is abnormal increased signal intensity in anterior medial temporal lobes which appears primarily subcortical in location but may involve the cortex to a minimal extent as well without decreased diffusion and in fact diffusion is facilitated. No other abnormal foci of increased or decreased signal intensity. Appropriate intracranial flow voids are identified. Skull orbits and paranasal sinuses are unremarkable. The pituitary gland is round and full but this is consistent with pregnancy. MR angiography shows patent intracranial arterial vasculature. No high-grade stenosis or vessel irregularity is appreciated. MR venography shows patent deep and superficial venous structures left transverse sinus anatomically small no thrombosis is appreciated.
+IMPRESSION:
+
+1. Abnormal focal increased signal intensity anteromedial subcortical regions of temporal lobes involving cortex to a lesser extent. Pattern is nonspecific but can be seen with inflammatory disorders including demyelinating processes pattern has been described in CADASIL infectious/inflammatory etiology such as encephalitis not excluded pattern not typical for PRES. Depending on other clinical findings MRI cervical cord could be considered follow up recommended in any event. Discussed with Dr. Rybinnik stroke fellow 1230 hours 11/9/2010 acknowledged. 2. No evidence of acute infarct or hemorrhage. 3. MR angiography Circle of Willis is unremarkable for age. 4. MR venography is unremarkable.

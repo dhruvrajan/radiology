@@ -1,0 +1,7 @@
+Diseases: ['infarction']
+FINDINGS:
+
+There is a small focus of restricted diffusion in the right parietal-occipital lobe region (image 17-18 series 3) compatible with an acute or early subacute infarction. There is associated hyperintense cortical FLAIR signal in this region as well as involving a few gyri just superiorly in the right parietal lobe. There is a small region of curvilinear enhancement (image 21 series 8) in the cortex of the right parietal lobe suggesting a subacute component. Mildly hyperintense diffusion signal without corresponding abnormal T2 signal in the left pons may represent artifact. There are T2 scattered small foci of hyperintense T2 signal within the subcortical and periventricular white matter nonspecific and likely related to small vessel ischemic white matter disease. There is no acute intracranial hemorrhage extracerebral fluid collection midline shift or mass effect. The intracranial flow voids are maintained. There are mucus retention cysts in the inferior aspect of the maxillary sinuses bilaterally.
+IMPRESSION:
+
+1. Small right parietal-occipital lobe acute-subacute infarction as above. 2. Chronic ischemic white matter changes. Dr. Taylor was notified of these findings by phone on 12/19/2007.

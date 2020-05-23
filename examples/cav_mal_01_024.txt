@@ -1,0 +1,7 @@
+Diseases: ['infarction']
+FINDINGS:
+
+There is a focus of T2 prolongation and associated encephalomalacia within the left centrum semi ovale left caudate body extending into the left basal ganglia consistent with an old infarction. This has a small amount of associated susceptibility likely hemosiderin. A few additional foci of T2 prolongation in the periventricular white matter are nonspecific. There is no restricted diffusion to suggest acute infarction. There is no acute intracranial hemorrhage extracerebral fluid collection midline shift or mass effect. There is no pathologic enhancement. Incidental notation of a venous angioma in the right frontal lobe. The intracranial internal carotid arteries A1 and M1 segments and proximal branches are patent bilaterally. The vertebrobasilar system and proximal branches are patent. There are no regions of focal stenosis or aneurysm formation. Please note MRA is less sensitive for those aneurysms under 4 mm. The visualized paranasal sinuses are clear.
+IMPRESSION:
+
+1. Patency of the intracranial circulation. 2. Old infarction in the left caudate body/centrum semi ovale extending into the left basal ganglia. No evidence of acute infarction.

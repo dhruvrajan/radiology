@@ -1,0 +1,7 @@
+Diseases: ['oligodendroglioma']
+FINDINGS:
+
+There is a partially cystic mass in the right frontal lobe with associated mass effect and effacement of the right lateral ventricle. There is mild leftward midline shift anteriorly. This lesion measures 5.8 cm AP x 4.2 cm craniocaudad x 4.6 cm transverse. This mass appears intra-axial in nature with the vessels along the convexity which are not displaced and no well defined CSF cleft. There is more soft tissue like signal along the inferior anterior and lateral margins of the mass and there are associated septations. There is mild amount of surrounding T2 prolongation. After contrast administration there is no pathologic enhancement. There are vessels coursing throught the lesion. No definite restricted diffusion. Perfusion imaging demonstrates elevated relative cerebral blood volume within the soft tissue portions of the mass inferiorly and anteriorly. MR spectroscopy imaging is not contributory. The visualized paranasal sinuses are clear.
+IMPRESSION:
+
+1. Partially cystic right frontal lobe lesion. Favor a low grade glioma possibly an oligodendroglioma. However a non-enhancing higher-grade primary neoplasm cannot be excluded.

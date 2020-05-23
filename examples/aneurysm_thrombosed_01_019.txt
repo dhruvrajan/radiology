@@ -1,0 +1,7 @@
+Diseases: ['encephalomalacia', 'aneurysm', 'schwannoma']
+FINDINGS:
+
+Stable post-operative changes from arterial bypass surgery. Aneurysm clip near right clinoid. Please refer to separate report of MRA head. Stable post-operative changes from right suboccipital surgery. Aneurysm clip in right posterior fossa. Extensive encephalomalacia in the bilateral temporal lobes brainstem and right cerebellum. Volume loss in both hippocampi. Tract in right frontal lobe corpus callosal body and right caudate probably from prior ventriculostomy or shunt and ischemia. Small area of encephalomalacia in left frontal lobe stable. No new mass lesion no new edema no hydrocephalus no abnormal brain enhancement. Again noted is a large enhancing structure at the right base of skull primarily involving the petrous bone which is expanded with remodeling of the clivus and right sphenoid sinus wall. Finding was present on CT 10/19/02 where it showed no erosive change. Finding is stable since 7/16/02. Probable lymphoid tissue in nasopharynx. A polyp or retention cyst in the right maxillary sinus is larger.
+IMPRESSION:
+
+1. Overall stable findings. Extensive encephalomalacia and post-surgical changes. 2. Enhancing right skull base mass stable since 2002. Most likely diagnosis is an enhancing thrombosed aneurysm. Differential diagnosis includes schwannoma. Enhancement characteristics militate against cholesterol cyst or cholesteatoma. Stability and CT characteristics argue against glomus tumor.

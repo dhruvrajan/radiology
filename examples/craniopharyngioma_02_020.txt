@@ -1,0 +1,7 @@
+Diseases: ['craniopharyngioma']
+FINDINGS:
+
+No restricted diffusion. 7-mm T2 hyperintense T1 hypointense lesion within the posterior pituitary. No suspicious extra-axial fluid collections. No focal regions of cerebral edema or mass effect. No ventriculomegaly. No foci of susceptibility identified to suggest intracranial hemorrhage. The imaged intracranial vascular flow voids are within normal limits. Mild ethmoidal mucosal changes. The calvarium is normal. The orbits are normal.
+IMPRESSION:
+
+1. no evidence of ischemia. 2. 7 mm cystic appearing lesion within the posterior pituitary. Considerations would include Rathke cleft cyst versus cystic change within a pituitary adenoma versus cystic craniopharyngioma. Further evaluation recommended with dedicated MRI sella. *ATTENDING RADIOLOGIST CHANGE: I partially agree with the preliminary report with the following modifications or additions: I believe the small cystic structure in the posterior pituitary fossa is a benign cyst perhaps a pars intermedia cyst. At any rate I do not think it is a any clinical significance. The previously described right parietal and parieto-occipital subcutaneous tissue deformities are again noted and unchanged and of no clinical significance. I certify that I have personally reviewed the image and interpretation for this examination and agree with the findings in this report.

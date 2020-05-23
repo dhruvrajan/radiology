@@ -1,0 +1,7 @@
+Diseases: ['toxoplasmosis']
+FINDINGS:
+
+There is focal abnormal T2 hyperintensity within the righttemporal lobe. This lesion is incompletely characterized withoutintravenous contrast and repeat study with gadolinium is advised.Differential considerations in this patient with HIV includetoxoplasmosis. Neoplastic etiologies such as lymphoma are notexcluded.In addition there are scattered T2 hyperintensities throughoutthe brain and periventricular T2 hyperintensities which mayrepresent the sequela of chronic small vessel ischemic disease ormaybe related to prior infection. Linear T2 hyperintensity withinthe right cerebral hemisphere likely represents old ischemicchange.There is mild diffuse cerebral atrophy.The visualized paranasal sinuses and orbital contents are normal.The calvarium is normal in marrow signal.
+IMPRESSION:
+
+1. Focal abnormal T2 hyperintensity within the right temporallobe incompletely characterized and repeat study with gadoliniumis advised. Differential considerations include toxoplasmosis vs.other infectious and neoplastic causes.2. Scattered T2 hyperintensities throughout the brain andperiventricular T2 hyperintensities which may represent thesequela chronic small vessel ischemic disease or be related toprior infection.3. Mild diffuse cerebral atrophy.Transcribed by: Interface TalkStationLast Edited by: Interface TalkStation

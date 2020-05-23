@@ -1,0 +1,7 @@
+Diseases: ['meningioma']
+FINDINGS:
+
+No intracranial hemorrhage extra-axial fluid collection midline shift or mass-effect. Ventricles and sulci are symmetric and stable in size since prior exam. There is an extra-axial 1.5-cm enhancing mass arising in the region of the right greater wing of the sphenoid projecting into the right anterior temporal lobe. Stable from prior exam and thought to represent a meningioma. Underlying marrow signal is unremarkable. There is extensive T2/flair hyperintensity bilaterally in the periventricular and deep white matter stable since prior exam and likely representing chronic small vessel ischemic changes and perfusional watershed changes. Flow voids within the circulation are maintained. The orbits and pituitary are unremarkable. The marrow signal within the calvarium is unremarkable with no evidence of metastatic disease. Visualized portions of the paranasal sinuses are unremarkable.
+IMPRESSION:
+
+1. No acute intracranial abnormality. No evidence of acute infarction. 2. Right anterior temporal lobe meningioma stable since prior exam. 3. Small vessel ischemic and perfusional watershed changes within the white matter stable since prior exam.

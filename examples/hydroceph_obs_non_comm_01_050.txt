@@ -1,0 +1,7 @@
+Diseases: ['hydrocephalus']
+FINDINGS:
+
+There is a left occipital craniotomy. Encephalomalcic changes are seen in the left cerebellum. There is exvacuo dilation of the fourth ventricle. Blood and gas seen seen in the resection cavity on the post operative study have resolved. The small amount of extra-axial hemorrhage seen in the posterior fossa has also resolved. Major portion of the surrounding extensive T2 signal abnormality seen on the post surgical study has resolved. There are no areas of abnormal enhancement to suggest recurrent tumor. The previously seen hydrocephalus has resolved. The ventricles particularly the third ventricles and the temporal horns are smaller though prominent secondary to volume loss. Again noted are extensive foci of T2 signal abnormality in the periventricular white matter consistent with sequelae of small vessel and perfusional ischemic disease.The paranasal sinuses are clear. To the extent that they may be evaluated with routine MR imaging the vascular structures have a normal appearance.
+IMPRESSION:
+
+1. Status post left occipital craniotomy and tumor resection with encephalomalacic areas in the left cerebellum. Resolution of immediate post surgical changes seen on the prior study. No evidence of residual or recurrent tumor.2. Obstructive hydrocephalus has resolved.3. Stable sequelae of small vessel and perfusional ischemic disease.

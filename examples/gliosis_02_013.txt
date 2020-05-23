@@ -1,0 +1,7 @@
+Diseases: ['gliosis']
+FINDINGS:
+
+No extra-axial fluid collections. No foci of susceptibility identified to suggest intracranial hemorrhage. No suspicious parenchymal or meningeal enhancement. No focal regions of mass-effect. Scattered T2/FLAIR subcortical periventricular and deep white matter hyperintensities which are nonspecific. Generalized cerebellar and cerebral cortical volume loss with resultant ventriculomegaly. No restricted diffusion. Intracranial vascular flow signals are within normal limits. Mild frontal ethmoidal mucosal changes. Orbits are within normal limits. Diffuse patchy foci of precontrast T1 hypointensity scattered throughout the osseous structures predominantly within the membranous skull bones as can be seen in multiple myeloma.
+IMPRESSION:
+
+1. No suspicious parenchymal or meningeal enhancement to suggest intracranial myelomatous involvement. 2. Diffuse calvarial marrow signal abnormality as can be seen in the setting of multiple myeloma. ATTENDING RADIOLOGIST ADDITION: I agree with the preliminary report with the following additions: Flair hyperintensity along left cerebellar hemisphere could represent artifact or gliosis. I certify that I have personally reviewed the image and interpretation for this examination and agree with the findings in this report.

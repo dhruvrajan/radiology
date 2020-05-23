@@ -1,0 +1,7 @@
+Diseases: ['infarction']
+FINDINGS:
+
+Brain: There is restricted diffusion in the left parietal white matter as well as the left temporal lobe. Mildly increased T2 signal along the temporal lobe gyri and left parietal white matter with no corresponding enhancement. No evidence of acute hemorrhage. There is either a mega cisterna magna or arachnoid cyst in the posterior fossa. No ventriculomegaly. Basal cisterns are patent. The paranasal sinuses and mastoid air cells are clear. Evidence of probable functional endoscopic nasal surgery with right middle uncinectomy. MRA: MR angiographic images show loss of the left insular branches. The course and caliber of the remaining vessels of the circle of Willis are within normal limits.
+IMPRESSION:
+
+1. Acute infarction involving the left temporal lobe and parietal white matter without evidence of acute hemorrhage. 2. MRA shows loss of left MCA insular branches. Findings discussed with and acknowledged by Dr. Oligino at 8:30pm on 8/13/07.

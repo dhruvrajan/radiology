@@ -1,0 +1,7 @@
+Diseases: ['hydrocephalus']
+FINDINGS:
+
+The cerebellar tonsils are somewhat low-lying but are rounded. This finding is stable compared to the MRI from 2002. There is stable ventriculomegaly and dilatation of the central canal in the upper cervical cord. There is mild increased T2 signal in the periventricular white matter likely transependymal flow of CSF. The transependymal flow has improved compared to a CT from 7/16/2010. There is a tiny fluid-fluid level in the left lateral ventricle likely hemorrhage. A right-sided ventriculoperitoneal shunt is present; there is artifact from the reservoir that obscures the lateral aspect of the right cerebral hemisphere. There is mild edema/gliosis about the catheter tract. There is stable encephalomalacia in the medial right cerebellum. There is no restricted diffusion. The extra axial spaces are normal without evidence of mass or blood. The vascular flow voids are unremarkable. The bony calvarium is intact. The orbits and paranasal sinuses are normal.
+IMPRESSION:
+
+1. Stable hydrocephalus with mild transependymal flow of CSF improved since 7/16/2010. 2. Mild cerebellar tonsillar ectopia stable since 2002.

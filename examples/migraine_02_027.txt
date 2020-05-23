@@ -1,0 +1,7 @@
+Diseases: ['migraine']
+FINDINGS:
+
+Ventricles cisterns and sulci are symmetric and minimally prominent in size probably slightly in excess of that expected for age. There are scattered nonspecific hyperintensities on long-TR images in the subcortical white matter. No abnormal enhancing foci. No acute cytotoxic edema on diffusion-weighted images. Appropriate intracranial flow voids are identified. Specifically cerebellopontine angles and internal auditory canals appear unremarkable.
+IMPRESSION:
+
+1. Minimal parenchymal volume loss slightly beyond that expected for age. 2. Nonspecific hyperintensities subcortical white matter more than expected for age. Differential diagnosis is broad and includes diverse etiologies such as small vessel ischemic change other vasculopathies including migraine headaches inflammatory disorders including demyelinating processes and others. Comparison studies would be helpful to assess stability if available. 3. Unremarkable cerebellopontine angles and internal auditory canals.

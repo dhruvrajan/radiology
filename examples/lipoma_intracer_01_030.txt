@@ -1,0 +1,7 @@
+Diseases: ['lipoma']
+FINDINGS:
+
+Some images are degraded by motion. Mild subcortical and periventricular white matter flair hyperintensities this is a nonspecific finding but in this patient's age group commonly associated with chronic small vessel ischemic change. No extraaxial fluid collections or mass effect. No acute intracranial hemorrhage or acute infarcts. No abnormal enhancing lesions in the brain or its covering. Ventricles sulci and cisterns are symmetric and patent. Flow voids are maintained in the anterior and posterior circulation as well as the superior sagittal sinus. Endotracheal tube. Mucosal disease present within the maxillary and sphenoid sinuses and ethmoid air cells. Fluid signal in the mastoid air cells. There is a 2.2 x 3.0 cm well-circumscribed T1 and T2 hyperintense lesion within the soft tissues of the posterior right neck signal characteristics suggest a fat containing lesion such as a lipoma.
+IMPRESSION:
+
+1. No evidence of acute intracranial process. 2. Paranasal sinus and mastoid air cell disease as detailed above. 3. Fat containing 2.1 x 3.0 cm mass within the poster soft tissues the right neck signal characteristics suggest a lipoma clinical correlation recommended. ATTENDING RADIOLOGIST AGREEMENT: I agree with the preliminary report without modification. I certify that I have personally reviewed this examination and agree with this report.

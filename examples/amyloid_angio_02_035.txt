@@ -1,0 +1,7 @@
+Diseases: ['amyloid']
+FINDINGS:
+
+There is a focus of encephalomalacia left parietal lobe medially suspect old small transcortical infarct. There are scattered hyperintensities elsewhere subcortical and deep white matter which are nonspecific and without mass effect or abnormal enhancement deep gray matter relatively spared. Small encephalomalacic foci also seen in right cerebellum and left pons are probably related. There is minimal susceptibility associated with parietal malacic focus and there are scattered tiny foci of susceptibility which are in some cases peripheral and subcortical but also in the thalamus bilaterally multiple foci of susceptibility also in posterior fossa. Some of these may represent chronic small vessel/hypertensive changes/microbleeds although at least some of these may represent amyloid angiopathy. Skull orbits and paranasal sinuses are within normal limits appropriate intracranial flow voids are visualized. Ventricles and CSF spaces are nearly symmetric otherwise and are minimally prominent overall probably within normal limits for stated age of 77.
+IMPRESSION:
+
+1. No acute findings no enhancing foci to suggest intracranial metastatic disease. 2. Small encephalomalacic focus left parietal lobe suggests chronic infarct. Multiple small foci of susceptibility involving the thalamus but also subcortical regions could represent micro-bleeds related to chronic ischemic/hypertensive vascular changes amyloid angiopathy a consideration for at least some of these foci. New diagnosis of lung cancer per electronic record.

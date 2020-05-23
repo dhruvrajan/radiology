@@ -1,0 +1,7 @@
+Diseases: ['metastasis', 'encephalitis']
+FINDINGS:
+
+Prior right craniotomy. Enhancing right convexity dural mass consistent with metastasis. There is increased extracranial tumor at the vertex extending to the left. No extension to the sagittal sinus. Mass effect and subfalcine herniation are stable. Herniation of the left temporal lobe into the right perimesencephalic cistern is stable. There is also a suggestion of parenchymal brain invasion (series 9 image 16) similar to before. There is also evolving subdural hemorrhage. Slight increase in subdural over the right temporal bone. Slight increase in size of hematoma in the right temporal lobe. There is gyriform T1 hyperintensity along the right cerebral cortex most likely cortical necrosis less likely leptomeningeal signal. There is also a suggestion of asymmetric enhancement in the right leptomeningeal spaces perhaps leptomeningeal disease. Similar edema in right hemisphere. Similar abnormal FLAIR signal in sulci. Similar right MCA aneurysm.
+IMPRESSION:
+
+1. Right convexity dural metastasis with increased extracranial tumor extension. Mass effect edema and herniation are similar. Possible parenchymal brain invasion is also similar. 2. Evolving right subdural hemorrhage. Subdural hemorrhage over the temporal bone and parenchymal hemorrhage in the right temporal lobe are slightly larger. 3. Apparent cortical necrosis involving the right cerebral hemisphere. Has this patient been seizing? Differential diagnosis includes encephalitis. 4. Probable leptomeningeal carcinomatosis.

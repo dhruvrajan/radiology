@@ -1,0 +1,7 @@
+Diseases: ['astrocytoma']
+FINDINGS:
+
+Stable 15 mm solid and cystic enhancing mass in the anterior body/frontal horn of the right lateral ventricle. Stable small subependymal nodules in the atrium of the left lateral ventricle. Stable subcortical subcentimeter foci of hyperintense flair signal in the left frontal lobe may represent tubers. Persistent hyperintense flair signal abnormalities in the deep and periventricular white matter are nonspecific and may represent sequela of chronic microvascular change. Persistent mild ventricular prominence likely representing central atrophy. Stable small arachnoid cyst anterior to the right frontal lobe. No acute infarct hemorrhage extracerebral fluid collection or midline shift. The visualized paranasal sinuses are grossly clear.
+IMPRESSION:
+
+1. Stable 15 mm solid and cystic enhancing mass in the right lateral ventricle consistent with giant cell astrocytoma. 2. Stable sub ependymal nodules and subcortical tubers consistent with history of tuberous sclerosis. 3. Other findings as above.

@@ -1,0 +1,7 @@
+Diseases: ['schwannoma']
+FINDINGS:
+
+Again noted are postsurgical changes from left frontoparietal craniotomy including left frontal dural enhancement and heterogeneous signal within the orbital fat. Following contrast administration there is enhancement in the posterior aspect of the intraconal fat and around the left optic nerve which is likely postsurgical in nature. However residual schwannoma is not exclude. Asymmetric enhancement is also noted in the left temporalis muscle postsurgical in nature. The ventricles cisterns and sulci are symmetric. Cavum septum pellucidum and cavum vergae are again noted. There is no acute infarction. No abnormal parenchymal enhancement. Intracranial flow voids are maintained. Incidental note is made of a capillary telangiectasia in the pons. A small retention cyst/polyp is present in the right maxillary sinus.
+IMPRESSION:
+
+1. Status post left orbital schwannoma resection. There is enhancement within the apical intraconal fat of the left orbit and surrounding the optic nerve which may be postsurgical in nature; residual neoplasm not entirely excluded. On follow-up examination dedicated MRI of the orbits is recommended.

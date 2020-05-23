@@ -1,0 +1,7 @@
+Diseases: ['meningioma', 'infarction']
+FINDINGS:
+
+There is no acute infarction intracranial hemorrhage extracerebral fluid collection midline shift or mass effect. The cerebral volume is appropriate for the patient's stated age. There is a small focus of enhancement within the pons which may represent a capillary telangiectasia. 9 mm enhancing extra-axial right parafalcine lesion anteriorly is consistent with a meningioma. No associated mass effect or edema. The visualized paranasal sinuses are grossly clear. The right mastoid air cells are opacified.
+IMPRESSION:
+
+1. No acute infarction. 2. 9 mm enhancing extra-axial right parafalcine lesion anteriorly consistent with meningioma. No associated mass effect or edema. ATTENDING INTERPRETATION: Please note the following additions/clarifications: There is a punctate focus of apparent restricted diffusion within the right cerebellar hemisphere (image 6 series 5 and 476). While this may be artifactual a tiny acute infarction cannot be excluded. No other areas of restricted diffusion are identified. The focal area of enhancement within the pons likely reflects a vascular malformation such as a capillary telangiectasia. There is no associated susceptibility on the gradient echo sequence however and follow-up imaging is recommended to ensure stability. The findings were discussed with Dr. Dumont on 12/7/2008.

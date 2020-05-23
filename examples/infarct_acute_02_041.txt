@@ -1,0 +1,7 @@
+Diseases: ['infarction']
+FINDINGS:
+
+There is an area of signal abnormality which is bright on diffusion imaging involving the left corona radiata and posterior limb of the left internal capsule consistent with acute infarction. There is extensive T2/FLAIR hyperintensities in the periventricular and subcortical white matter consistent with small vessel ischemic changes. There is no acute intracranial hemorrhage extracerebral fluid collection midline shift or mass effect. The cerebral volume is appropriate for the patient""s stated age. Following contrast administration there is no pathologic enhancement. There is an area of high signal in the left sigmoid and transverse sinuses which enhance homogeneously and felt to be related to flow artifact. The visualized paranasal sinuses are grossly clear.
+IMPRESSION:
+
+1. Acute infarction involving the left corona radiata and posterior limb of the left internal capsule.2. Extensive sequela of small vessel ischemic disease.Findings discussed in detail with Dr. Tabby Ahmed at the time of attending interpretation.I certify that I have personally reviewed this examination and agreewith this report.

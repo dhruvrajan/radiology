@@ -1,0 +1,7 @@
+Diseases: ['encephalomalacia']
+FINDINGS:
+
+There is a stable small region of encephalomalacia within the anterior left frontal lobe. There is a second tiny focus of cortical FLAIR hyperintensity in the inferior left frontal lobe. These regions are both associated with susceptibility artifact. There is also a single focus of susceptibility artifact within the right frontal lobe and a single focus within the right parietal lobe. Findings are likely related to prior trauma although old infarct could have similar appearance. There is mild volume loss of the right hippocampus with normal signal intensity. There is associated dilation of the right lateral ventricle. The left hippocampus is probably normal. The ventricles and sulci are diffusely prominent but normal for patient age without focal abnormality. ASL perfusion images are degraded by patient motion and not reliable for evaluation. No areas of restricted diffusion. The extra axial spaces are normal without evidence of mass or blood. There is left vertebral dominance within the posterior circulation. The vascular flow voids are otherwise unremarkable. The calvarium is normal. The orbits and paranasal sinuses are normal. Mild leftward deviation of the nasal septum.
+IMPRESSION:
+
+1. Encephalomalacia within the left frontal lobe and multiple foci of susceptibility as described consistent with sequelae of prior trauma. 2. Mild right hippocampal volume loss. I certify that I have personally reviewed the image and interpretation

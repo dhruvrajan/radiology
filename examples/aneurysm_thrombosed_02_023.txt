@@ -1,0 +1,7 @@
+Diseases: ['aneurysm', 'aneurysm']
+FINDINGS:
+
+A few scattered foci of signal. Probable small focal infarcts in right parietal and right frontal lobes. Ventricles and sulci are mildly enlarged for age. There is a small focus of signal in the left Sylvian fissure (series 4 image 13) also present on prior MRI studies dating back to 8/16/10 (series 9 image 16). At that time it did not show any GRE signal loss. Left sphenoid sinus opacification. Probable retention cysts in left maxillary sinus. No extra-axial collection and no acute ischemia. The calvarial marrow is normal for age.
+IMPRESSION:
+
+1. Small focal structure in left Sylvian fissure possible aneurysm or thrombosed aneurysm. Suggest CTA head. 2. No mass no hemorrhage no acute ischemia. 3. Small right cerebral infarcts stable.

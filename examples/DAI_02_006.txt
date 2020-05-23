@@ -1,0 +1,7 @@
+Diseases: ['hematoma']
+FINDINGS:
+
+Again noted a is the hematoma in the left parietal lobe which has decreased in size compared to the prior MRI examination. Susceptibility imaging also demonstrates multiple foci of microhemorrhage in the cerebellum right superior cerebellar peduncle there is adjacent to the tentorium right temporal lobe inferior frontal lobes left caudate left parietal lobe right frontal lobe and along the corpus callosum in keeping with diffuse axonal injury. There are very thin bilateral posterior subdural hematomas also present on prior MRI examination. Prior right frontal approach tract is seen in the right frontal lobe. There is FLAIR hyperintensity in the anterior temporal lobes bilaterally and along the corpus callosum in keeping with contusions and shear injury. A subarachnoid hemorrhage has decreased compared to prior exam. The ventricles and sulci are within range of normal for age. There is no mass effect or midline shift. There is no abnormal extra-axial fluid collection. Diffusion weighted imaging does not demonstrate an acute infarct. There is circumferential mucosal thickening in the bilateral sphenoid and left posterior ethmoid sinuses. There is opacification and fluid in the bilateral mastoid air cells and middle ear cavities.
+IMPRESSION:
+
+1. Evolving left parietal hematoma decreased in size compared to prior MRI. 2. Findings of diffuse axonal and shear injury as described. 3. Very thin posterior subdural hematomas bilaterally also present on prior MRI.

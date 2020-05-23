@@ -1,0 +1,7 @@
+Diseases: ['thrombosis', 'thrombosis']
+FINDINGS:
+
+There is diffuse subarachnoid hemorrhage. There areblood products in the sphenoid sinus. Please refer to report ofthe brain MRI.There is no hemodynamically significant stenosis or aneurysmaldilatation seen in the bilateral cavernous internal carotidarteries supraclinoid internal carotid arteries proximal middlecerebral arteries proximal anterior cerebral arteries proximalposterior cerebral arteries basilar artery or distal vertebralarteries.Please note MRA is less sensitive for those aneurysms under 5 mm.The superior sagittal sinus right transverse sinus right sigmoidsinuses straight sinus vein of Galen and internal cerebralveins show normal flow related enhancement. The left transversesinus exhibits minimal enhancement secondary to partialthrombosis or hypoplasticity. There is thrombosis of the leftsigmoid sinus and left jugular bulb/proximal jugular vein. Thisis corroborated by the conventional MR sequences.
+IMPRESSION:
+
+1. No hemodynamically significant stenoses or aneurysmaldilatations in the intracranial arterial vasculature.2. Thrombosis of left sigmoid sinus and left jugular bulb. Lefttransverse venous sinus partial thrombosis vs. hypoplasticity.Findings discussed with the neurosurgical house staff at the timeof initial review.Transcribed by: Interface TalkStationLast Edited by: Interface TalkStation

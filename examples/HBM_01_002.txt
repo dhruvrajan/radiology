@@ -1,0 +1,7 @@
+Diseases: ['hemangioblastoma']
+FINDINGS:
+
+Utilizing a 3 Tesla unit MRI of the brain was performed and included the following sequences: sagittal T1-weighted axial fast spin echo T2-weighted axial flair axial diffusion weighted and enhanced axial and coronal T1-weighted images. 20 mL of Magnevist was injected intravenously.
+IMPRESSION:
+
+1. Postsurgical changes of right cerebellar hemangioblastoma resection without evidence of recurrence. 2. Nonspecific marrow heterogeneity as above.

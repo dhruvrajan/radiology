@@ -1,0 +1,7 @@
+Diseases: ['infarction']
+FINDINGS:
+
+There is sequela of prior infarct in the left basal ganglia and centrum semiovale. Mild ex vacuo dilatation of the left lateral ventricle body. The left cerebral peduncle is smaller than the right likely reflecting Wallerian degeneration. Scattered T2 hyperintensities in the periventricular subcortical and deep white matter nonspecific. There is no restricted diffusion in the brain to suggest acute infarction. No extraaxial fluid collection. No mass lesions. No intracranial hemorrhage. The intracranial flow voids are normal. The calvarium is normal. The orbits are normal. The paranasal sinuses are normal. MRV demonstrates patent dural venous sinuses and internal cerebral veins.
+IMPRESSION:
+
+1. No acute infarction or hemorrhage. 2. Old infarction in the left centrum semiovale and left basal ganglia and Wallerian degeneration in the left cerebral peduncle. 3. Scattered T2 hyperintensities in the white matter more than expected for age. Findings are nonspecific but in the proper clinical setting may represent chronic small vessel ischemic changes demyelination inflammatory or infectious process. 4. Patent dural venous sinuses and internal cerebral veins. ATTENDING RADIOLOGIST AGREEMENT: I have personally reviewed the images and agree with this report. I certify that I have personally reviewed the image and interpretation and agree with the findings in this report.

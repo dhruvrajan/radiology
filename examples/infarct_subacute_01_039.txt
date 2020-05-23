@@ -1,0 +1,7 @@
+Diseases: ['normal']
+FINDINGS:
+
+MRI: Again noted are postsurgical changes related to right frontoparietal craniotomy for resection of a right temporal AVM. There are metallic artifacts related to surgical clips and/or embolization coils. There is minimal increased T2 signal at the margins of the surgical cavity. There is no vascular enhancement to suggest residual lesion. Ventricles sulci and cisterns are symmetric and patent. No extraaxial fluid collections or mass effect. Flow voids are maintained in the superior sagittal sinus. Pituitary fossa posterior fossa and both orbits are unremarkable. No abnormal enhancing lesions in the brain or its covering. There is mucosal thickening in the maxillary sinuses right greater than left and in the ethmoid air cells. There is minimal opacification of the left mastoid air cells. MRA: There is no hemodynamically significant stenosis or aneurysmal dilatation seen in the bilateral cavernous internal carotid arteries supraclinoid internal carotid arteries proximal middle cerebral arteries proximal anterior cerebral arteries proximal posterior cerebral arteries basilar artery or distal vertebral arteries. Please note MRA is less sensitive for those aneurysms under 5 mm.
+IMPRESSION:
+
+1. Status post right temporal AVM resection. No acute intracranial abnormality. In particular no acute/subacute infarct. 2. Normal MRA brain.

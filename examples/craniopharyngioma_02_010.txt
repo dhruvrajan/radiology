@@ -1,0 +1,7 @@
+Diseases: ['craniopharyngioma']
+FINDINGS:
+
+Images are degraded by motion. There is a mass with prominent suprasellar component and evidence of T1 shortening and susceptibility with suprasellar component measuring approximately 9 x 8 x 8 mm. This exerts mass-effect and elevates the optic chiasm. This mass may be in contiguity with the pituitary stalk inferiorly. While the sellar contents appear slightly inferiorly displaced there is mild heterogeneous enhancement of the sellar contents suggested however a component of sellar involvement cannot be excluded. There is no evidence of extension into the cavernous sinuses. Limited evaluation of the intracranial contents is unremarkable. Imaged orbits are unremarkable. There are prominent right maxillary and to a lesser degree sphenoidal and ethmoidal mucosal changes.
+IMPRESSION:
+
+1. Degraded exam as detailed. 2. Intrinsically T1 hyperintense mass which appears predominantly suprasellar which appears inferiorly displaced sellar contents. While this mass may be entirely suprasellar a solid component cannot be excluded. Given the presence of T1 shortening and susceptibility likely reflective of blood products or calcification differential considerations would include hemorrhage into a pituitary adenoma craniopharyngioma or possibly a large Rathke cleft cyst. Direct comparison with prior imaging would be helpful. There is elevation of the optic chiasm secondary to mass effect.

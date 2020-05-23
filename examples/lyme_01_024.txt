@@ -1,0 +1,7 @@
+Diseases: ['sarcoidosis']
+FINDINGS:
+
+There are abnormal signal changes best seen on the FLAIR sequences within the right optic tract with thickening/ enlargement and mild enhancement. Evaluation of the orbits shows no unremarkable and symmetric optic nerves. Mild nonspecific scattered foci of T2/FLAIR in the deep white matter. The extraocular muscles are symmetric in size. There is no intracranial hemorrhage extracerebral fluid collection midline shift or mass effect. Following contrast administration there is no pathologic enhancement. The visualized paranasal sinuses are unremarkable
+IMPRESSION:
+
+1. Abnormal signal within the right optic tract with enlargement and mild enhancement . Differential considerations include infectious/inflammatory etiologies including sarcoidosis demyelinating disease and Lyme disease. Other considerations would include optic tract glioma. 2. Nonspecific white matter hyperintensities pattern does not suggest one etiology over another.Positive result transmitted to Dr. Liu via Vocada VoiceLink.

@@ -1,0 +1,7 @@
+Diseases: ['meningitis']
+FINDINGS:
+
+There is subcortical white matter hyperintensity on T2 and flair of the bilateral occipital and parietal lobes as well as the high frontal lobes near the vertex with minimally facilitated diffusion. There is abnormal FLAIR hyperintensity within the sulci diffusely. The cerebral volume is appropriate for the patient's stated age. There are small mucous retention cysts of the inferior right maxillary sinus. Linear high T2 signal of the right mastoid air cells likely represents chronic inflammatory change.
+IMPRESSION:
+
+1. Subcortical white matter signal changes as detailed above without restricted diffusion. The imaging findings are most consistent with posterior reversible encephalopathy syndrome (PRES) given the clinical setting. Diffuse FLAIR signal abnormality within the sulci is suggestive of diffuse sulcal subarachnoid hemorrhage likely secondary to PRESS. Although considered less likely in this case other etiologies for FLAIR signal abnormality in the sulci include increased FiO2 related to intubation meningitis and other leptomeningeal inflammatory and neoplastic processes. As the basilar cisterns are clear aneurysmal subarachnoid hemorrhage is considered unlikely. For further characterization CSF sampling could be performed. 2. Likely chronic inflammatory changes of the right mastoid air cells. Findings discussed with Dr. Alanzi at 4:59 PM 1.31.10.

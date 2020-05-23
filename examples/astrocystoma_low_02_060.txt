@@ -1,0 +1,7 @@
+Diseases: ['oligodendroglioma', 'encephalomalacia']
+FINDINGS:
+
+There is an approximately 20 x 28 mm (transverse plane) T2-bright lesion anterior right lateral temporal lobe which appears primarily subcortical with relative sparing of thin cortical ribbon peripherally. There may be very little sulcal effacement and proximity but in general there is no substantial mass effect. The mass does not enhance. No restricted diffusion. Encephalomalacic foci are seen bilateral anterior/inferior frontal lobes on right more than left possibly old trauma. No other abnormal foci of increased or decreased signal intensity in the brain. No these areas enhance after IV contrast. Appropriate intracranial flow voids are identified.
+IMPRESSION:
+
+1. 20 x 28 mm mass right lateral temporal lobe involving white matter with relative sparing of cortex overlying with no substantial mass effect does not enhance or show abnormal decreased effusion. Most likely diagnosis is neoplasm could be low grade glioma and perhaps oligodendroglioma. Advanced imaging may help in further characterization of this lesion. No internal comparison studies comparison with old studies from outside would be helpful if available and is recommended. 2. Encephalomalacia anterior/inferior frontal lobes along cribriform plates suspect old trauma.

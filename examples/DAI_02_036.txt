@@ -1,0 +1,7 @@
+Diseases: ['hematoma']
+FINDINGS:
+
+Since prior examination there has been interval increase in left subdural space indicating progression of a left subdural collection. Along the posterior aspect of the left subdural space there is focal T1 shortening (please see series 8 images 21-23). This area is suspicious for methemoglobin. Although most of the fluid in the left subdural space follows CSF signal given in the methemoglobin this is concerning for development of a subacute subdural hematoma as opposed to hygroma. GRE sequences demonstrate multiple innumerable punctate foci of susceptibility artifact along the gray-white junctions of the cerebral hemispheres bilaterally. Focal punctate susceptibility noted along the right aspect of the body of the corpus callosum. Additional focus of susceptibility along the left superior insula. A few scattered areas of susceptibility also noted along the left inferior cerebellum. Overall findings are concerning for diffuse axonal injury. Left frontal scalp hematoma. Visualized paranasal sinuses are grossly clear.
+IMPRESSION:
+
+1. Interval development of subacute left subdural hematoma. 2. Findings concerning for diffuse axonal injury.

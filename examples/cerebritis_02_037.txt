@@ -1,0 +1,7 @@
+Diseases: ['abscess']
+FINDINGS:
+
+The patient is status post left frontal craniotomy with encephalomalacic changes in the left frontal lobe with ex vacuo dilatation of the left frontal horn. Minimal dural enhancement is seen along the left frontal lobe in the surgical bed likely post-operative. No other areas of enhancement are present. The remainder of the brain parenchyma is normal in appearance. There is no evidence of hydrocephalus. No extra axial collection is seen. There is no abnormal diffusion restriction. Multiple mucus retention cysts are in bilateral maxillary sinuses right greater than left. There is thickened and enhancing mucosa in the ethmoid air cells and sphenoid and frontal sinuses. CT can better assess bony integrity.
+IMPRESSION:
+
+1. Post-surgical changes from left frontal craniotomy for presumed evacuation of the abscess as given in the patient's history. No evidence of residual or recurrent abscess or active cerebritis.2. Pansinus disease as above. CT can better assess bony integrity.

@@ -1,0 +1,7 @@
+Diseases: ['normal', 'lipoma', 'dermoid']
+FINDINGS:
+
+There are no large extracerebral fluid collections focal regions of mass-effect or midline shift. Ventricles and sulci are within normal limits for patient age. Imaged paranasal sinuses are unremarkable. There is a lentiform appearing right frontal scalp lesion which is T1 hyperintense which appears more hypointense along its posterior margin measuring 16 x 4 mm in axial plane. Medial deformity left lamina papyracea probably secondary to remote prior trauma versus less likely congenital.
+IMPRESSION:
+
+1. Normal appearance of the brain parenchyma on MRI obtained for research purposes. 2. Right frontal T1 hyperintense scalp lesion with hypointense posterior margin (which could reflect chemical shift). Imaging findings are nonspecific however this could reflect a lipoma versus possible dermoid or proteinaceous sebaceous cyst. Underlying osseous lesion not excluded. Consider ultrasound for further assessment.

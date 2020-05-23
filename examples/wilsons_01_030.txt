@@ -1,0 +1,7 @@
+Diseases: ['hydrocephalus']
+FINDINGS:
+
+Interval enlargement of ventricles. Sulci also remain enlarged. Mild periventricular signal abnormality may represent transependymal CSF flow. There are multiple scattered areas of T2 weighted and FLAIR hyperintense signal involving the periventricular deep and subcortical white matter nonspecific but likely representing age related small vessel ischemic disease. There are no areas of abnormal enhancement or restricted diffusion. GRE images show scattered microhemorrhages scattered throughout the cerebrum and cerebellum. Mild mucosal changes in the maxillary sinuses. Focal signal abnormality in the clivus beneath the sella nonspecific. No significant extra-osseous extension. This finding is probably new since the prior study. Degenerative changes in the upper cervical spine are not well evaluated.
+IMPRESSION:
+
+1. Interval ventricular enlargement concerning for hydrocephalus vs. less likely interval volume loss. 2. Focal signal abnormality in clivus nonspecific. In a patient of this age metastatic disease or myeloma is of concern. 3. Scattered microhemorrhages in the brain.

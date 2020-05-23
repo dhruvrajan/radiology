@@ -1,0 +1,7 @@
+Diseases: ['hydrocephalus']
+FINDINGS:
+
+There is a 3.0 x 2.5 x 3.0 cm non-enhancing mass in the suprasellar region/3rd ventricle. There is intrinsic T1 shortening likely representing proteinaceous contents. There is T2 prolongation. Gradient echo images reveal a partial rim of low signal on the right side of the lesion possibly representing calcifications or blood products. There is no abnormally restricted diffusion. There is forward compression of the chiasm. The mass obstructs the 3rd ventricle causing obstructed hydrocephalus. There is transependymal flow of CSF. This likely represents a colloid cyst. However the differential diagnosis includes hamartoma glioma and craniopharyngioma. There are nonspecific foci of high T2/FLAIR signal in the white matter. Flow voids are maintained in the anterior and posterior circulation as well as the superior sagittal sinus. No abnormal enhancing lesions in the brain or its covering. Note is made of a small calvarial lesion on the right near the vertex possibly representing an intraosseous lipoma.
+IMPRESSION:
+
+1. Suprasellar/3rd ventricle mass likely colloid cyst. Differential diagnosis includes hamartoma glioma and craniopharyngioma.2. Obstructed hydrocephalus with transependymal flow of CSF.Dr. Bauman was notified of these findings at the time of fellow review.Attending

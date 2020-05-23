@@ -1,0 +1,7 @@
+Diseases: ['meningioma', 'pseudotumor', 'thrombosis']
+FINDINGS:
+
+There is no interval change. There is a stable 7 mm left frontal parafalcine avidly enhancing extra-axial mass in keeping with a small meningioma. No other mass lesions idenified. There is no significant mass effect or associated edema in the underlying brain parenchyma. There is no acute intracranial hemorrhage extracerebral fluid collection midline shift or mass effect. No restricted diffusion to suggest acute infarction. The cerebral volume is appropriate for the patient's stated age. Incidental note of a partially empty sella. The visualized paranasal sinuses show new mucosal changes in the left maxillary sinus. Trace fluid in the mastoid air cells is stable. No suspicious osseous lesions. While the distal sigmoid sinuses and jugular bulbs appear unremarkable there does appear to be bilateral narrowing at the junction of the transverse and sigmoid sinuses. It remains uncertain as to whether this is causal or secondary to pseudotumor cerebri and clinical correlation is suggested with regard to the patient's CSF pressures.
+IMPRESSION:
+
+1. Stable small incidental left parafalcine meningioma. No mass effect. 2. Abnormal venous anatomy which has been associated with pseudotumor cerebri see above. I do not see evidence of thrombosis of the deep or superficial venous structures.

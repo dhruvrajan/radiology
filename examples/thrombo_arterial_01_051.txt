@@ -1,0 +1,7 @@
+Diseases: ['normal', 'normal']
+FINDINGS:
+
+The ventricles and sulci are normal as to size shape and positionfor patient's stated age of 39. No intracranial hemorrhage ormidline shift is demonstrated. No diffusion restriction orabnormal enhancement is demonstrated.The origins of the common carotid and vertebral arteries arevisualized and unremarkable. Incidentally noted the leftvertebral artery origin arises from the aortic arch (a normalanatomic variant). The carotid and vertebral arteries are normalin caliber and course. No hemodynamically significant stenosesare identified. There is no evidence of arterial dissection onthe axial fat saturated T1 sequence.The intracranial portions of both internal carotid arteries andmajor branches are unremarkable. The basilar artery and majorbranches are unremarkable. The intracranial portions of bothvertebral arteries are unremarkable. Specifically no aneurysmsor clinically significant stenoses were demonstrated.
+IMPRESSION:
+
+1. Unremarkable enhanced MRI of the brain. Specifically nodiffusion abnormality to suggest acute ischemia.2. Normal MR angiogram of the brain.3. Normal MR angiogram of the neck. Specifically no evidence ofarterial dissection.Attending

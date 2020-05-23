@@ -1,0 +1,7 @@
+Diseases: ['meningioma', 'encephalomalacia', 'gliosis']
+FINDINGS:
+
+Post-surgical changes are seen from a right frontal craniotomy. Encephalomalacia changes and gliosis in both frontal lobes. Porencephalic cyst arising from the left lateral ventricle extending into the sphenoid sinus. T2 hypointense expanding the clivus sphenoid body left sphenoid wing and anterior clinoid wave and heterogeneous enhancement resulting in severe narrowing of the left optic canal and secondary hypoplasia of the left optic nerve. No mass effect midline shift or hydrocephalus. No acute intracranial hemorrhage or extracerebral fluid collection. The cerebral volume is appropriate for the patient's stated age. Hippocampi and anterior temporal lobes are unremarkable. Moderate cerebellar volume loss consistent with Dilantin therapy.
+IMPRESSION:
+
+1. Post-surgical changes from right frontal craniotomy as described. 2. Porencephalic cyst arising from left lateral ventricle extending into the sphenoid sinus. 3. Expansion and enhancement involving the left base of skull as described above consistent with fibrous dysplasia. Cannot exclude meningioma. Advise CT for further evaluation. 4. Severe narrowing of the left optic canal with atrophy of the optic nerve. 5. Encephalomalacia and gliosis in the frontal lobes bilaterally

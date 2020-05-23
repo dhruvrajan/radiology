@@ -1,0 +1,7 @@
+Diseases: ['meningioma', 'schwannoma']
+FINDINGS:
+
+There is a mass centered in Meckel's cave on the right withextension into the right middle cranial fossa and into the rightmasticator space. There is mass effect upon the right temporallobe with vasogenic edema. There is extension along V3 on theright and through the foramen ovale. The mass also encompassesbut does not significantly narrow the cavernous right internalcarotid artery. There is associated enhancement on post contrastimages.There are no other masses identified. There is no intracranialhemorrhage or extra-axial fluid.The visualized paranasal sinuses are clear.The orbits are unremarkable. Both globes are intact. There is noevidence of extension of the lesion into the retro-orbital space.
+IMPRESSION:
+
+1. Enhancing mass centered in Meckel's cave on the right withmass effect upon the right temporal lobe and extension throughforamen ovale. This likely represents a meningioma. Otherpossibilities include schwannoma neurofibroma and less likelylymphoma.Transcribed by: Interface TalkStationLast Edited by: Interface TalkStation

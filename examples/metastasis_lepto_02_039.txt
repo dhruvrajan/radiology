@@ -1,0 +1,7 @@
+Diseases: ['metastasis', 'metastasis']
+FINDINGS:
+
+Study is slightly motion-degraded. Left craniotomy postoperative cavity in left parietal lobe . Increasing signal changes in left cerebral white matter increasing mass effect on the lateral ventricle. No midline shift. Basal cisterns are clear. With contrast increasing solid enhancement extending into the left parietal lobe measuring about 14 mm craniocaudally (series 10 image 9). Stable nodular meningeal enhancement along the medial and lateral convexities. The superior sagittal sinus is not completely evaluated but appears patent. The nodule of enhancement in the right occipital lobe is slightly smaller now decreasing from 5 to 4 mm (series 10 image 4). There is some subarachnoid space signal on FLAIR images nonspecific but leptomeningeal disease remains a concern. Stable unerupted right maxillary molar.
+IMPRESSION:
+
+1. Post-operative changes from left parietal metastasis resection. 2. Increasing parenchymal enhancement signal and mass effect in left parietal lobe worrisome for growing neoplasm. Differential includes treatment change. No herniation. 3. Stable meningeal enhancement over the left cerebral convexities likely metastatic disease. Stable subarachnoid space signal may represent leptomeningeal disease. 4. Right occipital lobe metastasis is smaller now.

@@ -1,0 +1,7 @@
+Diseases: ['toxoplasmosis', 'lymphoma']
+FINDINGS:
+
+Again noted are bilateral areas of edema in the medial basal ganglia centered at the globus pallidus. There is also some signal loss in these areas on GRE images. No significant DWI hyperintensity. Bilateral areas of GRE signal loss are also noted in the parietal lobes extending to the cortex near small holes in the skull. Another focus of signal loss is noted in the right splenium. Patchy areas of T2/FLAIR hyperintensity are also noted in the bilateral white matter perhaps chronic ischemic disease but other possibilities including HIV encephalopathy or even PML are possible in an HIV patient.
+IMPRESSION:
+
+1. Bilateral areas of edema in the basal ganglia. This distribution is most concerning for toxic injury such as carbon monoxide methanol ethylene glycol or cyanide exposure. Anoxic injury is possible although the relative lack of DWI findings is unusual. Clinical correlation advised. In an HIV patient the possibility of toxoplasmosis lymphoma or even abscesses is hard to exclude although the relatively symmetric distribution militates against these diagnoses. 2. Bilateral old hemorrhages in the parietal lobes extending to the skull where there are small holes. This finding may reflect prior neurosurgical procedure perhaps biopsies. Alternatively the holes may represent small foramina and the hemorrhages may be from prior hypertensive injury. Correlation with patient history suggested. 3. White matter abnormality as above may be small vessel ischemic disease but other etiologies are not excluded.

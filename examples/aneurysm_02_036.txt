@@ -1,0 +1,7 @@
+Diseases: ['aneurysm']
+FINDINGS:
+
+Utilizing a 3 Tesla unit unenhanced MRI of the brain was performed and included axial T1 weighted axial T2 fast spin echo and axial T2 FLAIR images. Additionally ASL perfusion imaging was performed for research purposes only.
+IMPRESSION:
+
+1. Left suprasellar mass suspicious for ICA aneurysm. Further evaluation with CT angiography or MR angiography brain is recommended. 2. Nonspecific white matter changes possibly reflecting small vessel ischemia advanced for age.

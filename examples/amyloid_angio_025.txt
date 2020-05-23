@@ -1,0 +1,7 @@
+Diseases: ['amyloid']
+FINDINGS:
+
+There is no acute infarct intracranial hemorrhage extracerebral fluid collection midline shift or mass effect. There is extensive flair signal abnormality in the deep and periventricular white matter which likely represent sequela of chronic microvascular disease. Numerous foci of susceptibility are seen in the centrum semiovale bilaterally. This likely represents microhemorrhages in this patient with a history of hypertension. Differential diagnosis includes amyloid angiopathy. The cerebral volume is appropriate for the patient's stated age. Partially empty sella turcica. The visualized paranasal sinuses are grossly clear. Degenerative disease in the visualized cervical spine.
+IMPRESSION:
+
+1. No acute infarct or hemorrhage. 2. Extensive flair signal abnormality in the deep and periventricular white matter is nonspecific however likely represents sequela of chronic microvascular change. 3. Numerous small foci of susceptibility in the centrum semiovale bilaterally may represent hypertensive microhemorrhages. Differential diagnosis includes amyloid angiopathy and multiple cavernomas (if patient has had history of radiation). Attending interpretation: Agree with above. I certify that I have personally reviewed this examination and agreewith this report.

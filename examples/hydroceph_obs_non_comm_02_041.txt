@@ -1,0 +1,7 @@
+Diseases: ['glioblastoma', 'hydrocephalus']
+FINDINGS:
+
+Again seen is a large enhancing necrotic tumor involving the genu and body of the corpus callosum with ependymal and intraventricular extension. There is surrounding abnormal signal likely representing a combination of vasogenic edema and infiltrating tumor. Compared to the prior study there has been no significant change in the size of the enhancing tumor and of the surrounding abnormal signal. There is a new small focus exhibiting T1 shortening and T2 prolongation with restricted diffusion which probably communicates with a biopsy tract in the right frontal lobe likely representing blood products at the biopsy site. Again noted is dilatation of the lateral ventricles stable reflecting obstructive hydrocephalus. The 3rd and 4th ventricles are normal in size. Pituitary fossa posterior fossa and both orbits are unremarkable. Again noted is opacification of the right maxillary sinus.
+IMPRESSION:
+
+1. Probably stable enhancing and necrotic tumor involving the genu and body of the corpus callosum with intraventricular extension consistent with glioblastoma. 2. Status post biospy with focus of blood products at biopsy site. 3. Stable obstructive hydrocephalus.

@@ -1,0 +1,7 @@
+Diseases: ['amyloid']
+FINDINGS:
+
+Ventricles midline. T-2 and flair images show patchy hyperintensity in the periventricular and subcortical white matter as well as basal ganglia. No pathologic appearance is seen in the brain parenchyma. Diffusion images show no acute ischemia. Gradient echo images show a few punctate foci decreased signal intensity in the right parietal lobe left thalamus and right cerebellum which may represent sequela of prior ischemia/hypertension. Another consideration would be amyloid angiopathy. Imaging of the internal auditory canals and otic capsules shows no masses or pathologic enhancement on the left. On the right there is abnormal enhancement of the intracanalicular portion and genu of the right facial nerve. No masses are seen. No fluid levels are seen within the the visualized paranasal sinuses and mastoid air cells are grossly clear.
+IMPRESSION:
+
+1. Patchy areas of white matter hyperintensities described above without mass effect or pathologic or enhancement. No acute ischemia seen. These findings may represent sequela of small vessel ischemic disease. Additionally gradient echo images show some punctate foci decreased signal which may represent blood products associated with ischemia; alternatively this may represent sequela of amyloid angiopathy.2. Abnormal enhancement of the right facial nerve involving intracanalicular portion and genu. This may represent sequela of inflammatory/infectious process. Considering provided history of recent improvement neoplastic process is less likely.

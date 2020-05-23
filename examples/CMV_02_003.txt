@@ -1,0 +1,7 @@
+Diseases: ['toxoplasmosis', 'lymphoma', 'lymphoma']
+FINDINGS:
+
+Again seen are multiple cystic/malacic areas in the right frontal lobe and bilateral basal ganglia which are essentially unchanged. In the right frontal lobe about the cystic lesions there is diffuse hyperintensity on flair and T2 weighted sequences grossly stable from prior exam. In the pons along the anterior fourth ventricle there is nodular enhancement measuring 7 mm in its greatest dimension increased from the prior exam. There is associated restricted diffusion in this region. Differential considerations include toxoplasmosis CMV or lymphoma. Lymphoma is favored given the restricted diffusion. Correlation with CSF sample is suggested. A second linear enhancing region is seen along the medial right occipital cortex stable likely representing a developmental venous anomaly. There is stable volume loss likely chronic HIV changes. There are no extra axial fluid collections. The paranasal sinuses and mastoid air cells are clear. There is no mass effect or midline shift. The orbits and retrobulbar spaces are without mass.
+IMPRESSION:
+
+1. Increase in the nodular enhancement in the region of posterior pons/anterior fourth ventricle with associated restricted diffusion. Differential considerations include toxoplasmosis CMV or lymphoma. Lymphoma is favored given the restricted diffusion. Correlation with CSF sample is suggested.2. Stable areas of cystic/malacic changes in the right frontal lobe and bilateral basal ganglia

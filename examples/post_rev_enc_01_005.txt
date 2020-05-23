@@ -1,0 +1,7 @@
+Diseases: ['infarction']
+FINDINGS:
+
+Again noted are postsurgical changes from a left-sided craniotomy with extra-axial blood products along the left cerebral convexity interhemispheric fissure and slightly over the right frontal convexity. There is susceptibility at the site of left MCA aneurysm clipping. There is a small subcentimeter focus of hyperintense T2 signal and restricted diffusion in the posterior left putamen/posterior limb of the internal capsule consistent with an infarction. This is similar to prior head CT study. There is mild amount of T2 prolongation within the left frontal and left insular/anteromedial temporal lobe region which may be postsurgical or ischemic. There may be mild retricted diffusion in the left frontal lobe abnormal signal region however this may be related to adjacent blood products. Some of this signal in the left insula/temporal region may be related to adjacent artifact from aneurysm clip. The diffusion images are obscured in this region by the aneurysm clip. The is no significant midline shift. The basal cisterns are patent. The visualized paranasal sinuses are grossly clear.
+IMPRESSION:
+
+1. Small infarction in the left posterior limb of the internal capsule/putamen. Mild areas of abnormal hyperintense T2 signal in the left frontal lobe and left insula/anterior-medial temporal lobe may be postsurgical or possibly ischemic. See above comments. No findings to suggest posterior reversible encephalopathy syndrome. Dr. Halpern was notified by phone at 8:30 pm on 9/13/2008.

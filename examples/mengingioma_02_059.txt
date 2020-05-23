@@ -1,0 +1,7 @@
+Diseases: ['hydrocephalus', 'meningioma']
+FINDINGS:
+
+Diffusion weighted images show no acute ischemia. Ventricles are diffusely enlarged out of proportion to the sulci which are also enlarged. Mild periventricular signal abnormality may represent transependymal CSF flow. Right tentorial enhancing mass again noted likely meningioma.
+IMPRESSION:
+
+1. Probable hydrocephalus. 2. Probable right tentorial meningioma.

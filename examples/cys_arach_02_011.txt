@@ -1,0 +1,7 @@
+Diseases: ['hydrocephalus']
+FINDINGS:
+
+The ventricles and sulci are normal in size and configuration. 2.1 cm AP x 1.2 cm TR x 2 cm CC cystic lesion within a cavum septum pellucidum with mild mass effect and lateral bowing following CSF on all pulse sequences consistent with a septum pallucidum arachnoid cyst. No evidence of obstructive hydrocephalus. The brain parenchyma is normal in morphology and signal intensity. There are no areas of abnormal restricted diffusion or pathologic enhancement. The medial temporal lobes are symmetric and normal in size and signal intensity. There are no areas of heterotopic tissue. Incidental note of a tiny pineal cyst. Mild mucosal thickening of the bilateral maxillary sinuses and ethmoid air cells. Stable right frontal scalp nodule nonspecific may reflect a sebaceous cyst.
+IMPRESSION:
+
+1. No evidence of mesial temporal sclerosis. 2. Stable cyst of the cavum septum pellucidum without obstructive hydrocephalus. I certify that I have personally reviewed this examination and agree with this report.

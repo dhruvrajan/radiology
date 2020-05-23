@@ -1,0 +1,7 @@
+Diseases: ['encephalitis', 'encephalomalacia']
+FINDINGS:
+
+Some of the sequences are motion degraded. Focal linear area of encephalomalacia in the right cerebellum likely secondary to old ischemia. Multiple foci of periventricular T2 prolongation. In the proper clinical setting (especially given region of encephalomalacia in the right cerebellum) this could represent sequela of small vessel ischemic disease. Alternatively inflammatory and demyelinating etiologies are not entirely excluded in a person of this age. Faint T2 prolongation along the medial right temporal lobe (series 4 image 12). This may represent artifact however underlying herpes encephalitis (versus limbic encephalitis) not excluded. Punctate susceptibility artifact in the right thalamus this may represent small cavernoma versus old microhemorrhage. No pathologic enhancement following gadolinium administration. Stable ventricular size. Fluid in the left maxillary sinus and sphenoid sinus. Fluid in the left frontal sinuses.
+IMPRESSION:
+
+1. Faint T2 prolongation noted on flair sequences within the right medial temporal lobe. This may be artifactual however underlying abnormality such as herpes encephalitis not entirely excluded. Follow-up exam suggested perhaps with coronal flair sequences at that time. 2. Encephalomalacia in the right cerebellum likely secondary to old ischemia probable small vessel ischemic changes in the deep white matter.

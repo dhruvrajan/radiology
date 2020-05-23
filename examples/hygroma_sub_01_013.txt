@@ -1,0 +1,7 @@
+Diseases: ['hygroma']
+FINDINGS:
+
+Flair sequences demonstrate hyperintense signal within the subcortical white matter of the right lateral posterior frontal posterior parietal and occipital lobes. Some of these areas also appear to involve cortex. Findings are concerning for posterior reversible encephalopathy syndrome. There are no areas of abnormal restricted diffusion. No pathologic parenchymal enhancement. There is prominent thin dural enhancement. Scattered areas of flair hyperintensity are present throughout the subcortical and ventricular white matter with more focal areas in the right thalamus. These are likely secondary to small vessel ischemic change. No evidence of hemorrhage in the brain. On axial flair sequences there is a suggestion of hyperintense small subdural collection on the right side. There is no associated hyperdense blood products on recent head CT or T1 hyperintense material on axial T1 sequences. This most likely represents incidental subdural hygroma. MR venogram demonstrates patency of the venous sinuses. No evidence of thrombosis.
+IMPRESSION:
+
+1. Imaging findings concerning for posterior reversible encephalopathy syndrome. 2. Thin dural enhancement of unclear etiology. Likely small right subdural hygroma. 3. No evidence of acute infarction. No evidence of venous thrombosis.

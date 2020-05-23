@@ -1,0 +1,7 @@
+Diseases: ['infarction']
+FINDINGS:
+
+Redemonstrated is encephalomalacia and gliosis from large right MCA territory infarction. There is no abnormal restricted diffusion. There is a small focus of susceptibility artifact in the paramedian right frontal lobe which probably represents a tiny cavernoma as it demonstrates centrally increased T2 signal with low T2 intensity rim; much less likely is a tiny parenchymal hemorrhage. The ventricles are normal in size and shape except for ex-vacuo dilatation of right lateral ventricle. There is no midline shift or mass effect. The extra axial spaces are normal without evidence of mass or blood. The calvarium is grossly normal. The orbits and paranasal sinuses are grossly normal.
+IMPRESSION:
+
+1. No acute infarction. Chronic large right MCA territory infarction redemonstrated. 2. Probable small cavernoma of the right frontal lobe. ATTENDING RADIOLOGIST AGREEMENT: I agree with the preliminary report without modification. I certify that I have personally reviewed the image and interpretation for this examination and agree with the findings in this report.

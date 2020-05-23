@@ -1,0 +1,7 @@
+Diseases: ['normal']
+FINDINGS:
+
+There is patent intracranial circulation including the bilateral distal vertebral arteries basilar artery and its distal branches the bilateral intracranial internal carotid arteries and the A1 and M1 segments. There are no regions of focal stenosis. There is no intracranial aneurysm . Please note MRA is less sensitive for those aneurysms under 5 mm. The right vertebral artery is dominant. There is fetal origin of the left posterior communicating artery. There is incidental note of a small persistent right trigeminal artery. There is motion artifact on the post gadolinium cervical MRA. There is patency of the bilateral vertebral arteries. The bilateral common carotid cervical internal carotid and external carotid arteries are patent. There is no hemodynamically significant stenosis. The right internal carotid artery is mildly tortuous. The brain parenchyma is suboptimally evaluated but there is no evidence of mass effect or hydrocephalus.
+IMPRESSION:
+
+1. No stenosis occlusion or aneurysm of the intracranial arteries. 2. Incidental persistent right trigeminal artery normal variant. 2. Patent neck vasculature. No measurable stenosis by NASCET criteria. I certify that I have personally reviewed the image and interpretation for this examination and agree with the findings in this report.

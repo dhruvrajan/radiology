@@ -1,0 +1,7 @@
+Diseases: ['hematoma']
+FINDINGS:
+
+Again noted is a left subdural hematoma with post-operative changes from burr hole and drainage. The hematoma is similar in size to before allowing for differences in technique. There are encephalomalacic changes in the left internal capsule extending to the corona radiata with blood products consistent with old hemorrhage. Probable Wallerian degeneration of the left cerebral peduncle. No abnormal restricted diffusion to suggest acute ischemia. There is some restricted diffusion in the subdural hematoma. With contrast no abnormal enhancement.
+IMPRESSION:
+
+1. Left subdural hematoma evacuation. 2. Old hemorrhage in left internal capsule with Wallerian degeneration. 3. No acute ischemia. No MR evidence of Wernicke's encephalitis.

@@ -1,0 +1,7 @@
+Diseases: ['aneurysm']
+FINDINGS:
+
+There is a posteriorly directed saccular 6-mm aneurysm in the suprasellar cistern near the ICA terminus most likely originating near the posterior communicating artery origin however this study was not tailored to assess the arteries. Aneurysm could be further characterized with CT arteriogram which could also evaluate for additional smaller aneurysms. Neurosurgery/neurointerventional radiology consultation is advised. Otherwise no abnormal signal or enhancement in the brain or meninges. No evidence of ischemia or hemorrhage. No mass or mass effect. Major intracranial flow voids are present. The ventricles are normal in size and configuration. Cerebral volume is normal. Paranasal sinuses are clear. Orbits are normal. Mastoid air cells are clear. Signal in the calvarium is normal. Probable erosive changes in the odontoid process question arthritis. MR venography shows patent dural venous sinuses and deep veins.
+IMPRESSION:
+
+1. No acute intracranial abnormality or explanation for the patient's confusion. 2. 6-mm aneurysm in the suprasellar cistern near the left ICA terminus probably originating near the PCOM take off not completely evaluated as this study was not tailored to assess the arteries. Recommend CT angiography for further evaluation and to exclude additional aneurysms. Also advise neurosurgery/neurointerventional radiology consultation.

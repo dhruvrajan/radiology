@@ -1,0 +1,7 @@
+Diseases: ['metastasis']
+FINDINGS:
+
+There are scattered punctate foci of restricted diffusion in the brain. No hemorrhage. Ventricles and sulci are appropriate for age. No mass lesion no extra-axial collection. No abnormal enhancement in the brain. Right mastoids are opacified. Right maxillary sinus is completely opacified. Enhancing focal abnormality in right parietal bone (series 9 image 6) has a sclerotic rim; however in the setting of known lung cancer the finding is worrisome for metastasis. The marrow elsewhere is heterogeneous.
+IMPRESSION:
+
+1. Multiple scattered punctate acute infarcts worrisome for emboli. Differential diagnosis includes vasculitis thrombotic state. 2. No hemorrhage no brain mass lesion. 3. Focal lesion in right parietal bone worrisome for metastasis. Consider bone scintigraphy as clinically warranted.

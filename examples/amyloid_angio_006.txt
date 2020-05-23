@@ -1,0 +1,7 @@
+Diseases: ['hematoma', 'infarction', 'amyloid']
+FINDINGS:
+
+The bone marrow is diffusely decreased in signal intensity which is a nonspecific finding but can be seen in hematologic and/or marrow infiltrative processes such as anemia. Clinically correlate. There has been interval progression of ventricular size with transependymal egress of CSF consistent with communicating hydrocephalus. Resolving hematoma is in the posterior right temporal lobe with resolution of small amount of intraventricular hemorrhage. There is no other evidence of intracranial hemorrhage. There is evidence of global volume loss. Stable areas of periventricular and subcortical white matter T2/FLAIR hyperintensity are non-specific but likely represent sequela of small vessel and perfusional ischemic disease. Dural calcification or tiny meningioma is at the vertex on the right. The patient is status post bilateral cataract surgery. The mastoid air cells and visualized paranasal sinuses are clear.
+IMPRESSION:
+
+1. Resolving hematoma of uncertain etiology. Differential diagnoses include hemorrhagic transformation of infarction (arterial or venous) amyloid angiopathy and hypertension.2. Interval development of hydrocephalus.Results discussed with Dr. Asbury at 1:10pm on 2/1/07.

@@ -1,0 +1,7 @@
+Diseases: ['infarction']
+FINDINGS:
+
+There is T2 prolongation along the periventricular white matter and corpus callosum nonspecific. There is a focal area of T2 prolongation and associated restricted diffusion in the right superior cerebellum compatible with an acute or early subacute infarction. There is no evidence of acute intracranial hemorrhage extra-axial fluid collection or midline shift. MRV imaging demonstrates patency of the superior sagittal sinus straight sinus bilateral internal cerebral veins bilateral transverse and sigmoid sinuses and bilateral jugular bulbs. The left transverse sinus is hypoplastic. No evidence of venous sinus thrombosis. There is diffuse paranasal sinus mucosal thickening. The mastoid air cells are partially opacified bilaterally.
+IMPRESSION:
+
+1. Acute or early subacute right cerebellar infarction. 2. No evidence of venous sinus thrombosis. 3. Diffuse paranasal sinus and mastoid air cell disease. FINAL ATTENDING

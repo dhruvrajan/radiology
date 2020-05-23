@@ -1,0 +1,7 @@
+Diseases: ['normal', 'hydrocephalus']
+FINDINGS:
+
+There are regions of T2 prolongation in the periventricular deep subcortical and pontine white matter which is nonspecific but likely reflects small vessel ischemic changes. The ventricles and sulci reflect parenchymal volume loss likely age-appropriate. There is prominence of the temporal horns which may be a result of the underlying volume loss although normal-pressure hydrocephalus is not excluded. There is mild mucosal disease along the base of the left maxillary sinus. The nasal septum is deviated to the right. Visualized orbits are unremarkable.
+IMPRESSION:
+
+1. Age-appropriate parenchymal volume loss. 2. Prominence of the temporal horns may be related to the volume loss although normal pressure hydrocephalus is not excluded. Clinical correlation advised. 3. Nonspecific foci of T2 hyperintensities in the white matter likely small vessel ischemic changes.

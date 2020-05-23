@@ -1,0 +1,7 @@
+Diseases: ['lymphoma', 'lymphoma']
+FINDINGS:
+
+The study is motion degraded. There is nonspecific T2 prolongation in the subcortical white matter and cortex in the right posterior parietal as well as the right occipital lobes. There are a few additional foci of T2 prolongation in the subcortical and periventricular white matter non-specific in etiology. There is no restricted diffusion to suggest acute infarction. There is no acute intracranial hemorrhage extracerebral fluid collection midline shift or mass effect. No evidence of acute ischemia. There is no definite pathologic enhancement which can be confirmed on two imaging planes. The visualized paranasal sinuses are grossly clear. There is abnormally low bone marrow signal within the calvarium skull base and upper cervical spine likely secondary to given history of lymphoma.
+IMPRESSION:
+
+1. Areas of abnormal signal in the right parietal and occipital cortex and subcortical white matter. These are non-specific in etiology and may be secondary to prior ischemia or infectious/inflammatory etiologies. Other possibilities would include posterior reversible encephalopathy. Imaging findings are not typical for lymphoma. Correlate with CSF cytology and medication regimen. 2. No definite pathologic enhancement. 3. Abnormal bone marrow signal. This is nonspecific and may be due to known lymphoma or due to other bone marrow infiltrative process or anemia. Findings discussed with and acknowledged by Dr. Haddad at approximately 6:10 p.m. on 4/13/08.

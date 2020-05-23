@@ -1,0 +1,7 @@
+Diseases: ['schwannoma', 'hydrocephalus']
+FINDINGS:
+
+Stable heterogeneously enhancing right cerebellopontine angle mass extending into and expanding the right internal auditory canal with associated mass effect on the adjacent pons and middle cerebellar peduncle. Associated mild edema within the compressed pons is again noted. There is interval progressive increase in size of the ventricular system most consistent with communicating hydrocephalus. There are multiple signal abnormalities again noted within the supratentorium and infratentorial white matter consistent with an unchanged pattern of involvement in this patient with multiple sclerosis. The focal rim enhancing lesion within the right frontal lobe no longer enhances. There is no acute intracranial hemorrhage extracerebral fluid collection or midline shift. The visualized paranasal sinuses are grossly clear. There is small fluid within the right mastoid air cells.
+IMPRESSION:
+
+1. Stable right schwannoma stable mass effect. 2. Stable extent of white matter lesions. Resolution of right frontal enhancing lesion. 3. New communicating hydrocephalus. ATTENDING RADIOLOGIST AGREEMENT: I have personally reviewed the images and agree with this report. I certify that I have personally reviewed the image and interpretation and agree with the findings in this report.

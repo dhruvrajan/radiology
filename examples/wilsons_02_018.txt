@@ -1,0 +1,7 @@
+Diseases: ['encephalomalacia']
+FINDINGS:
+
+There are approximately 6 foci of restricted diffusion primarily in the deep and subcortical left frontal lobe in the left centrum semi ovale and left corona radiata the largest area is best seen on image 50 of series 5 and involves a small area of cortex. There is no mass effect or midline shift. These likely represent embolic infarcts from a left-sided source (e.g. cervical ICA atherosclerosis). The large intracranial arterial vessels demonstrate normal flow voids. Ventricles sulci and extra-axial fluid spaces are prominent given patient age similar in appearance to prior exams. There are areas of encephalomalacia in the right frontal parietal and occipital lobes which are similar in appearance to prior exams when accounting for differences in modality. There are areas of increased T2/FLAIR signal in the periventricular white matter likely representing chronic small vessel ischemic disease. Polypoid mucosal thickening and visualized paranasal sinuses small amount of fluid in the mastoid air cells bilaterally.
+IMPRESSION:
+
+1. Several small foci of restricted diffusion in the left hemisphere mostly in a left MCA distribution. The appearance is suspect for acute small embolic infarcts from a left-sided source. 2. Stable areas of right-sided encephalomalacia.

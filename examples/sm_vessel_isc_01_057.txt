@@ -1,0 +1,7 @@
+Diseases: ['encephalomalacia']
+FINDINGS:
+
+There is no restricted diffusion in the brain. Encephalomalacia changes are present in the right parietal occipital lobe. There are foci of increased T2/FLAIR signal in the white matter which are likely sequelae of chronic ischemia. The ventricles and sulci are normal in size and position. No extraaxial fluid collection. No mass lesions. No intracranial hemorrhage. The intracranial flow voids are normal. The calvarium is signal is heterogeneous a nonspecific finding. The orbits are normal. The paranasal sinuses are normal.
+IMPRESSION:
+
+1. No acute ischemic infarction. 2. Encephalomalacia in the right parieto-occipital lobe. 3. Chronic small vessel ischemic changes in the white matter. 4. Heterogeneous marrow signal in the calvarium nonspecific. Correlate with infiltrative process such as anemia or multiple myeloma. ATTENDING RADIOLOGIST AGREEMENT: I have personally reviewed the images and agree with the preliminary report without modification.

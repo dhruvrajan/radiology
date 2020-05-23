@@ -1,0 +1,7 @@
+Diseases: ['infarction']
+FINDINGS:
+
+The ventricles are normal in size and position for age. There is an area of abnormal T2 signal in the right corona radiata representing gliosis adjacent to encephalomalacia along the right lateral ventricular body margin consistent with an old infarct. Wallerian degeneration is seen in the deep white matter tracts extending from the area of infarction. There are periventricular subcortical and deep white matter T2 hyperintensities which are nonspecific but in a patient of this age likely due to small vessel ischemic disease. There is no mass effect or midline shift. There is no intra or extra-axial fluid collections. There is no intraparenchymal hemorrhage. The visualized paranasal sinuses are clear. Gradient echo imaging shows no hemosiderin depostion within the brain. There is no pathologic enhancement.
+IMPRESSION:
+
+1. Old infarction in the right corona radiata. No acute infarct.2. Small vessel ischemic disease.I certify that I have personally reviewed this examination and agreewith this report.

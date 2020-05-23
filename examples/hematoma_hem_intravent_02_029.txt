@@ -1,0 +1,7 @@
+Diseases: ['infarction']
+FINDINGS:
+
+The patient is status post right craniotomy with expectedpostoperative changes including surgical cavity intracranial andsubgaleal gas. There is hemorrhage in the lateral ventricles with intraventricular gas in the anterior temporal horn. There isextra-axial fluid collection with blood fluid level and mass effect and mild midline shift slightly increased sincethe prior study.There is residual enhancement around the surgical cavity compatiblewith residual tumor. There is increased T2 signal intensity in theright frontotemporal lobe with extension into the brainstem whichmay represent post-treatment change and/or tumor.There is an area of acute infarction involving the right frontallobe just anterior to the surgical cavity.There is subarachnoid blood likely post-operative.Again noted is a Dandy-Walker variant which is unchanged from theprior study.
+IMPRESSION:
+
+1. Status post right craniotomy with expected post operativechanges as detailed above. There is extra-axial fluidcollection with increased mass effect and mildly increased midlineshift.2. New area of acute infarction involving the right frontal lobe anterior to the surgical cavity.3. New subarachnoid hemorrhage involving the left parietalregion likely post-operative.Findings discussed with Dr. Jackson of neurosurgery.Transcribed by: Interface TalkStationLast Edited by: MELHEM ELIAS R MD

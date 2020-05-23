@@ -1,0 +1,7 @@
+Diseases: ['meningioma', 'hematoma']
+FINDINGS:
+
+As seen on post-op CT head there are changes of a left frontal craniotomy with resection cavity containing blood products/hematoma which is stable in size. There is T2/FLAIR hyperintensity surrounding the resection cavity in the left frontal lobe and in inferior bilateral frontal lobes. When compared to the most recent CT there is no significant interval change in the size of the cavity and hematoma in the surgical bed. There is no concerning restricted diffusion. There is no abnormal enhancement when comparing unenhanced and enhanced images to suggest residual tumor or it The left to right midline shift is slightly improved compared to the preop MRI and stable since post-op CT. The right to left midline shift measures approximately 15-16 mm. There is persistent mass effect on bilateral frontal horns more on the left with mild compression of the foramen of Monro and dilatation of occipital horns. There is no transependymal CSF flow. Persistent crowding of the foramen magnum and mild effacement of the basal cistern are also unchanged.
+IMPRESSION:
+
+1. Status-post resection of probable large meningioma in the left anterior cranial fossa. Stable resection cavity and hematoma within the surgical bed with persistent but stable left to right midline shift compression on the foramen of Monroe mild ventricular dilatation mild crowding of the basilar cisterns and crowding of the foramen magnum. No evidence for acute stroke. No evidence for residual neoplasm. Attention on follow-up imaging is recommended.

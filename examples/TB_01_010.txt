@@ -1,0 +1,7 @@
+Diseases: ['tuberculosis', 'lymphoma', 'hydrocephalus']
+FINDINGS:
+
+Again demonstrated is nodular enhancement along the pial surfaces of the cerebellum and brainstem. There is mild meningeal enhancement supratentorially especially in the region of the right occipital lobe. There is no abnormal enhancement in the brain parenchyma. There is no restricted diffusion or abnormal susceptibility. There is mild periventricular and scattered subcortical increased T2/FLAIR signal nonspecific but likely due to chronic ischemia. The ventricles are enlarged which may be due to mild central atrophy or mild communicating hydrocephalus related to the meningeal disease. The extra axial spaces are normal without evidence of mass or blood. The vascular flow voids are unremarkable. The bony calvarium is intact. The orbits and paranasal sinuses are normal.
+IMPRESSION:
+
+1. Nodular leptomeningeal enhancement of the cerebellum brainstem and supratentorial regions. The differential diagnosis includes granulomatous infection such as tuberculosis granulomatous disease such as neurosarcoidosis lymphoma and leptomeningeal carcinomatosis. 2. Enlarged ventricles possibly due to central atrophy or mild communicating hydrocephalus.

@@ -1,0 +1,7 @@
+Diseases: ['meningioma', 'encephalomalacia']
+FINDINGS:
+
+Post surgical changes from prior left sided craniectomy for resection of a left tentorial cerebelli meningioma. Encephalomalacia changes in the left cerebellum extending to the left cerebellar peduncles distorted appearance of the fourth ventricle is redemonstrated with persistent thick enhancement and dural thickening around the resection and along the left tentorium cerebelli extending to the left occipital bone and sigmoid sinus appears overall similar in distribution to prior exam. Left sided transverse and sigmoid sinuses appear patent. Paranasal sinuses show evidence of mild mucosal disease. Mastoids appear well pneumatized.
+IMPRESSION:
+
+1. Post surgical changes from prior left sided craniectomy for resection of a left tentorial cerebelli meningioma. 2. Encephalomalacia changes in the left cerebellum left cerebellar peduncles distorted appearance of the fourth ventricle with persistent thick enhancement and dural thickening around the resection and along the left tentorium cerebelli largely unchanged from prior scan. Continued follow-up is recommended.

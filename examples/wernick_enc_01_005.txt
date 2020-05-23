@@ -1,0 +1,7 @@
+Diseases: ['infarction']
+FINDINGS:
+
+Multiple sequences are significantly degraded by motion artifact. Significant volume loss for age without evidence for hydrocephalus. Scattered foci of hyperintense T2/FLAIR signal abnormality within the periventricular and subcortical white matter are non-specific however likely reflective of chronic microvascular ischemic change in a patient of this age. Diffusion weighted imaging demonstrates no acute infarct. There is no parenchymal mass hemorrhage or midline shift. No extra-axial fluid collection is present. Following contrast administration there is no pathologic enhancement. Expected flow voids of the major intracranial vessels are present at the skull base. Circumferential mucosal thickening of the right sphenoid sinus. Mild mucosal thickening of the left greater than right ethmoid air cells. Scattered opacified mastoid air cells bilaterally.
+IMPRESSION:
+
+1. Significantly degraded examination secondary to motion artifact. 2. No acute intracranial normality. Probable chronic microvascular ischemic change without evidence for acute infarct. No findings to suggest Wernicke encephalopathy. *ATTENDING RADIOLOGIST CHANGE: I partially agree with the preliminary report with the following modifications or additions: Images are degraded by patient motion. Subtle foci of restricted diffusion in the pons seen on image 12 of series 6 and 600 which is suspicious for subacute infarction. Clinically correlate.

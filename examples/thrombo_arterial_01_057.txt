@@ -1,0 +1,7 @@
+Diseases: ['normal', 'meningitis', 'normal']
+FINDINGS:
+
+Brain MRI: The ventricles are normal in size and position. There is no evidence of intra or extra-axial hemorrhage. There is no extra-axial collection. There is no mass-effect midline shift or herniation. There is no abnormal diffusion restriction. No focal parenchymal lesion is seen. Trace ethmoidal mucosal thickening is seen. The paranasal sinuses are otherwise clear. The calvarium is normal in appearance. To the extent that they may be evaluated with routine MR imaging the arterial vascular structures have a normal appearance. MRV: Superior sagittal sinus straight sinus bilateral transverse and sigmoid sinuses are patent as is the deep venous system and visualized portions of the internal jugular veins.
+IMPRESSION:
+
+1. Normal unenhanced brain MRI. 2. No evidence of venous thrombosis. ATTENDING RADIOLOGIST ADDITIONS: I have personally reviewed the images and agree with the preliminary report with the following additions: Images are minimally motion degraded. Informed written consent for this examination was obtained. CSF sampling would be more sensitive for detection of subarachnoid hemorrhage and/or meningitis. The pituitary gland is mildly enlarged compatible the patient's pregnant state. Mild T1 hypointensity of the visualized cervical spinal marrow is likely secondary to normal hematopoetic marrow in a patient of this age. I certify that I have personally reviewed the image and interpretation and agree with the findings in this report.

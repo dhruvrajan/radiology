@@ -1,0 +1,7 @@
+Diseases: ['encephalomalacia']
+FINDINGS:
+
+There is encephalomalacia with surrounding gliosis within the medial frontal lobes bilaterally which may be post-traumatic. There is no acute intracranial hemorrhage extracerebral fluid collection midline shift or mass effect. No restricted diffusion. Following contrast administration there is no pathologic enhancement. There is mild mucosal thickening within the bilateral maxillary sinuses sphenoid sinus and ethmoid air cells. The mastoid air cells are partially opacified bilaterally. A nasal route tube is partially visualized.
+IMPRESSION:
+
+1. Bilateral frontal lobe encephalomalacia which may be post-traumatic. Clinically correlate. 2. No acute intracranial abnormality.

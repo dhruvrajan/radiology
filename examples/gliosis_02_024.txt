@@ -1,0 +1,7 @@
+Diseases: ['encephalomalacia', 'gliosis']
+FINDINGS:
+
+There is a large area of encephalomalacia and gliosisin the right temporal lobe status post AVM resection.Susceptibility artifact from a surgical clip is also seen in thisarea. There there is asymmetric atrophy of the right hippocampalstructures which is likely due to the prior surgery rather thanmesial temporal sclerosis. There is ex vacuo dilatation of theright temporal horn. There is no mass effect midline shift oredema. There is no intra or extra-axial fluid collections. Thereis no intraparenchymal hemorrhage. The visualized paranasalsinuses are clear.Diffusion weighted imaging demonstrates no acute ischemia.There is no pathologic enhancement.
+IMPRESSION:
+
+1. Right temporal encephalomalacia and gliosis status post AVMresection. Atrophy of the right mesial temporal lobe is due tovolume loss in the temporal lobe rather than Mesial TemporalSclerosis.2. No definite evidence of AVM recurrence.Transcribed by: Interface TalkStationLast Edited by: Interface TalkStation

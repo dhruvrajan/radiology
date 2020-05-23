@@ -1,0 +1,7 @@
+Diseases: ['hydrocephalus']
+FINDINGS:
+
+MRI: Redemonstrated is a hemorrhage centered in the right basal ganglia similar in size to the prior study. There is extensive associated mass effect as manifest by sulcal effacement near complete effacement of the right lateral ventricle and leftward midline shift. The shift may be slightly worse than before by a millimeter or two. DWI images show some hyperintensity medially perhaps representing ischemia. There is also mass effect on the right cerebral peduncle and partial effacement of the right posterolateral supersellar cistern. The left temporal horn is slightly larger than before. The visualized paranasal sinuses are essentially clear. MRA: There is subfalcine displacement of the anterior communicating arteries secondary to mass effect as well as lateral displacement of the M3 and MCA segments. There is early bifurcation of both middle cerebral arteries. There is no evidence of aneurysm stenosis occlusion or vascular malformation.
+IMPRESSION:
+
+1. Right basal ganglia hemorrhage. Midline shift is stable to slightly worse. 2. Area of DWI hyperintensity medially may represent ischemic tissue vs. artifact. 3. Possible slight enlargement of left temporal horn may represent early hydrocephalus. 4. Unremarkable intracranial MRA with no occlusion or aneurysm. Findings discussed with Dr. Scott of the primary service on 3/15/10 at 11:40 am with readback.

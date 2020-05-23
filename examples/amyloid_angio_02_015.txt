@@ -1,0 +1,7 @@
+Diseases: ['amyloid']
+FINDINGS:
+
+There is an old lacunar infarct adjacent to the right frontal horn. Scattered bilateral foci of T2 prolongation are nonspecific but most likely related to chronic small vessel ischemia. Scattered pinpoint areas of susceptibility in the cortical gray matter and subcortical white matter most likely represent hypertensive or amyloid angiopathy related microhemorrhages. There is no acute intracranial hemorrhage acute ischemia extracerebral fluid collection midline shift or mass effect. Incidental note is made of a 8 mm degenerative xanthogranuloma associated with the left choroid plexus. There is mild prominence of the ventricles and subarachnoid spaces suggestive of mild parenchymal volume loss. There is mild sequential mucosal thickening in the bilateral ethmoid air cells and left maxillary sinus. The remainder of the visualized paranasal sinuses and mastoid air cells are clear. Bilateral lens prostheses are noted.
+IMPRESSION:
+
+1. No evidence of acute ischemia. 2. No original atrophy old lacunar infarct in the right frontal lobe and nonspecific white matter changes most likely related to small vessel ischemia. 3. Bilateral pinpoint foci of susceptibility with predominantly peripheral distribution in a patient of this age is most likely represent either hypertensive or amyloid angiopathy related microhemorrhages.

@@ -1,0 +1,7 @@
+Diseases: ['encephalitis']
+FINDINGS:
+
+There is stable hyperintense T2 prolongation within the medial temporal lobes bilaterally left greater than right without definite restricted diffusion or abnormal enhancement. There are a few small foci of T2 prolongation in the subcortical and periventricular white matter nonspecific and possibly relate to small vessel ischemic white matter changes. There is no acute intracranial hemorrhage extracerebral fluid collection midline shift or mass effect. The visualized paranasal sinuses are grossly clear with the exception of mild left ethmoid air cell mucosal changes. There has been interval right cataract extraction.
+IMPRESSION:
+
+1. Stable persistent abnormal hyperintense T2 signal in the bilateral medial temporal lobes right greater than left. This likely represents residual signal abnormality secondary to limbic encephalitis. In the appropriate setting other etiologies including seizures or inflammation could give this appearance.

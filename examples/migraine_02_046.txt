@@ -1,0 +1,7 @@
+Diseases: ['migraine']
+FINDINGS:
+
+No prior for comparison. There is a 2 mm nonspecific focus of T2 hyperintensity in the deep white matter of the right frontal lobe (series 3 image 22 and series 5 image 5) and for the patient's age probably reflecting demyelination sequela of migraine. Bilateral hippocampi demonstrate normal architecture volume and signal intensity. The brain parenchyma is unremarkable without evidence of cortical dysplasia heterotopia or enhancing mass. There is no pathologic enhancement. Ventricles cisterns and sulci are within normal limits. The paranasal sinuses mastoid air cells are clear.
+IMPRESSION:
+
+1. No structural abnormality to explain patient's seizure activity. 2. Nonspecific 2 mm in focus in the deep white matter of the right frontal lobe for patient's age probably reflecting demyelination sequela of migraine.

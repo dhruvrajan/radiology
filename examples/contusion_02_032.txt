@@ -1,0 +1,7 @@
+Diseases: ['contusion', 'normal']
+FINDINGS:
+
+A small focus of FLAIR hyperintensity is noted in the rightfrontal white matter nonspecific and may represent a small nonhemorrhagic contusion. FLAIR hyperintensity is also noted alongthe left high frontal sulci which may suggest small amount ofsubarachnoid hemorrhage.There is no extracerebral fluid collection mass effect or shiftof midline. The ventricular system is normal in size andposition. Diffusion weighted images are normal do not show acuteinfarction.Both the vertebrals and carotid arteries in the neck are normal incourse and caliber. There is no evidence of hemodynamicallysignificant stenosis.The intracranial carotid and vertebral arteries are normal incourse and caliber. There is no evidence of aneurysms orhemodynamically significant stenosis.
+IMPRESSION:
+
+1. Small focus of FLAIR hyperintensity in the right frontal whitematter nonspecific in appearance and could reflect a small nonhemorrhagic contusion. Small amount of subarachnoid hemorrhagealong the left high frontal sulci.2. Normal MR angiogram of the circle of Willis and neck arteries.No evidence of hemodynamically significant stenosis or flowlimiting dissection.Transcribed by: Interface TalkStation

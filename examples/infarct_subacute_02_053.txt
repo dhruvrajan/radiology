@@ -1,0 +1,7 @@
+Diseases: ['infarction']
+FINDINGS:
+
+BRAIN: There is an acute or subacute infarct involving the posterior left lateral aspect of the medulla which is hyperintense on T2/flair and diffusion images. There is no intracranial hemorrhage extracerebral fluid collection midline shift or mass effect. There is no pathologic enhancement. Mucosal thickening in the left maxillary sinus. The remainder of the visualiz paranasal sinuses and mastoid air cells are essentially clear. No air fluid levels. MRA NECK: There is conventional arch anatomy. The origin of the left vertebral artery is not well visualized. The remainder of the otia of the great vessels are widely patent The bilateral common carotid cervical internal carotid and external carotid arteries are patent. There is no hemodynamically significant stenosis. There is patency of the bilateral vertebral arteries. There is co-dominance of the vertebral arteries. MRA BRAIN: There is patency of the intracranial circulation including the bilateral distal vertebral arteries basilar artery and its distal branches the bilateral intracranial internal carotid arteries and the A1 and M1 segements. There is a patent ACOM. There are no regions of focal stenosis or aneurysm formation. Please note MRA is less sensitive for those aneurysms under 5 mm.
+IMPRESSION:
+
+1. Acute versus subacute left posterior medulla infarction. 2. Patency of the intracranial circulation and neck vasculature. FINAL ATTENDING

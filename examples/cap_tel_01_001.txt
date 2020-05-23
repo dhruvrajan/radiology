@@ -1,0 +1,7 @@
+Diseases: ['encephalomalacia']
+FINDINGS:
+
+No abnormal focus of restricted diffusion to suggest acute infarction. No acute hemorrhage. No extracerebral fluid collections. No midline shift or mass effect. No hydrocephalus or effacement of basal cisterns. A few scattered foci of T2/FLAIR hyperintensity in bilateral cerebral white matter are nonspecific. A large developmental venous anomaly in the right cerebellar hemisphere with surrounding focal areas of hemosiderin deposition with associated susceptibility effects likely from presence of associated cavernous angioma and/or capillary telangiectasia. Focal encephalomalacia in the right cerebellar hemisphere was also noted on the prior CT scans. Additional developmental venous anomaly in the left frontal lobe. Visualized paranasal sinuses show evidence of mild mucosal disease. Mastoids appear well pneumatized.
+IMPRESSION:
+
+1. No acute intracranial findings. 2. Large developmental venous anomaly in the right cerebellar hemisphere with surrounding focal areas of hemosiderin deposition with associated susceptibility effects likely from presence of associated cavernous angioma and/or capillary telangiectasia. Focal encephalomalacia in the right cerebellar hemisphere was also noted on the prior CT scans. Additional developmental venous anomaly in the left frontal lobe.

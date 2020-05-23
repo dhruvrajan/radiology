@@ -1,0 +1,7 @@
+Diseases: ['amyloid', 'meningioma']
+FINDINGS:
+
+There is a focus of susceptibility artifact in the right frontal lobe with surrounding T2 prolongation compatible with prior hemorrhage. There is no underlying enhancing lesion given the susceptibility artifact. There is an additional punctate focus of susceptibility artifact in the left cerebellum. There is no extracerebral fluid collection midline shift or mass effect. The cerebral volume is appropriate for the patient's stated age. There is a 1.5 cm dural based homogenously enhancing lesion likely meningioma. The calvarium clivus and upper cervical spine are diffusely decreased in marrow signal nonspecific but can be seen in marrow infiltrative processes including chronic anemia; clinically correlate. The orbital contents are grossly unremarkable. The mastoid air cells and visualized paranasal sinuses are clear.
+IMPRESSION:
+
+1. Two foci of susceptibility artifact in the right frontal lobe and left cerebellum. The larger lesion in the right frontal lobe has surrounding T2 prolongation; age indeterminate. Differential considerations include amyloid angiopathy multiple cavernomas; small hemorrhagic mass lesions are felt to be less likely given lack of enhancement although not entirely excluded. 2. 1.5 cm probable meningioma in the right frontal region. 3. Diffusely decreased in marrow signal nonspecific but can be seen in marrow infiltrative processes including chronic anemia; clinically correlate. Results were discussed with and acknowledged by Dr. Chen at 9:10 am on 4/21/09.

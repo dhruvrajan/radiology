@@ -1,0 +1,7 @@
+Diseases: ['hematoma', 'gliosis', 'encephalomalacia']
+FINDINGS:
+
+Continued interval evolution of right parieto-occipital lobe intraparenchymal hematoma with residual blood products surrounding gliosis and encephalomalacia. No appreciable underlying enhancement. No interval focus of restricted diffusion is noted to suggest acute infarction. No interval acute intra-or extra-axial hemorrhage is noted. Scattered foci of FLAIR signal abnormality within bilateral cerebral white matter and in pons are nonspecific likely related to chronic small vessel ischemia. Hemosiderin staining in bilateral parietal/occipital lobes with susceptibility on the gradient sequence likely represents superficial siderosis in a pattern/distribution unchanged from before. No significant mass-effect or midline shift no hydrocephalus or effacement of basal cisterns. Likely old lacunar infarct in the right periatrial region. Stable opacification of the left maxillary sinus. Mucosal thickening within bilateral ethmoid air cells with opacified right sphenoid sinus is unchanged. Mastoid air cells are clear.
+IMPRESSION:
+
+1. Continued interval evolution of right parieto-occipital lobe intraparenchymal hematoma with residual blood products surrounding gliosis and encephalomalacia. No underlying enhancing mass lesions. 2. Superficial siderosis in bilateral parietal occipital region. 3. No interval acute intracranial findings. 4. Paranasal sinus disease for which clinical correlation is recommended.

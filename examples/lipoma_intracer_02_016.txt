@@ -1,0 +1,7 @@
+Diseases: ['lipoma']
+FINDINGS:
+
+There is a well-circumscribed T1 and T2 hyperintense lesion in the left frontal scalp region measuring 24 x 6 mm which does not enhance. Findings most in keeping with a lipoma. There are multiple foci of FLAIR hyperintensity seen in subcortical periventricular and deep white matter which are non-specific but likely represents sequela of chronic small vessel ischemic changes. No extra-axial fluid collections or mass effect. No evidence of acute infarct or intracranial hemorrhage. Ventricles sulci and cisterns are symmetric and patent. Flow voids are maintained in the anterior and posterior circulation as well as superior sagittal sinus. Pituitary fossa and orbits are unremarkable. There is mild mucosal thickening in the paranasal sinuses. No abnormal enhancement in the brain or its coverings
+IMPRESSION:
+
+1. No evidence of metastatic disease in the brain. Specifically no abnormal enhancement or mass is seen at the region of increased FDG uptake seen on prior PET CT of 8/6/12. 2. Left frontal scalp lipoma. 3. Chronic small vessel ischemic changes in the white matter. I certify that I have personally reviewed the image and interpretation

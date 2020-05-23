@@ -1,0 +1,7 @@
+Diseases: ['normal', 'craniopharyngioma']
+FINDINGS:
+
+No abnormal focus of restricted diffusion. No abnormal susceptibility. No masses mass effect shift of midline structures hydrocephalus or effacement of basal cisterns. Somewhat prominent appearing T1 hyperintensity in the posterior pituitary image number 13 of Series 3 nonspecific. Correlate with clinical/ hormonal findings. Visualized paranasal sinuses and mastoids appear well pneumatized.
+IMPRESSION:
+
+1. No acute intracranial findings or obvious mass lesions. 2. Somewhat prominent appearing T1 hyperintensity in the posterior pituitary nonspecific. Possibilities include this is related to vasopressin storage in the neurohypophysis normal anatomic variant or the presence of high concentration of protein (Rathke cleft/ pars intermedia cyst craniopharyngioma etc. Correlate with clinical/ hormonal findings and/ or follow up MRI only as clinically warranted.

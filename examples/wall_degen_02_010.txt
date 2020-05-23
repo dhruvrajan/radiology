@@ -1,0 +1,7 @@
+Diseases: ['infarction']
+FINDINGS:
+
+There are numerous small foci of T2 prolongation in the subcortical and periventricular white matter nonspecific but likely related to small vessel ischemic white matter changes. A more focal area of T2 prolongation in the right corona radiata extending into the right basal ganglia likely represents an old lacunar infarction with abnormal signal tracking into midbrain along corticospinal tracts consistent with likely wallerian degeneration. There is no restricted diffusion to suggest acute infarction. There is no acute intracranial hemorrhage extracerebral fluid collection midline shift or mass effect. There is no pathologic enhancement. The visualized paranasal sinuses are clear. There is patency of the intracranial circulation including the bilateral distal vertebral arteries basilar artery and its proximal branches the bilateral intracranial internal carotid arteries and the A1 and M1 segements. There are no regions of focal stenosis or aneurysm formation. Please note MRA is less sensitive for those aneurysms under 4 mm. There is patency of the bilateral cervical vertebral arteries. The bilateral common carotid cervical internal carotid and external carotid arteries are patent. There is no hemodynamically significant stenosis.
+IMPRESSION:
+
+1. Patency of the intracranial circulation. 2. Patency of the neck vasculature. 3. Probable chronic ischemic white matter changes and old right basal ganglia lacunar infarction. No evidence of acute infarction. FINAL ATTENDING

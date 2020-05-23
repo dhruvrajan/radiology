@@ -1,0 +1,7 @@
+Diseases: ['amyloid']
+FINDINGS:
+
+Rapid strep protocol MRI brain performed with the following sequences: Axial T2 FLAIR axial diffusion weighted axial gradient echo susceptibility.
+IMPRESSION:
+
+1. No acute infarct. Chronic small vessel ischemic changes quite advanced for age with suggestion of hypertensive encephalopathy. 2. Chronic sequela of multiple prior intracranial hemorrhages likely hypertensive in etiology although cerebral amyloid angiopathy could account for some of the findings and a cavernoma of the right cerebellum is suggested without evidence of recent expansion/rebleeding.

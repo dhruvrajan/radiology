@@ -1,0 +1,7 @@
+Diseases: ['abscess', 'hydrocephalus']
+FINDINGS:
+
+Changes from prior left craniectomy again visualized. Two extraaxial collections overlying the left frontal lobe are overall stable in size. The smaller anterior collection continues to demonstrate thicker peripheral enhancement and probable restricted diffusion and remains concerning for abscess. The larger lateral collection likely represents a noncomplicated postsurgical collection. No other regions of abnormal enhancement. The ventricles are decreased in size compared to the prior study and there is slight improvement in the transependymal flow of CSF associated. The left lateral ventricle has demonstrated larger decrease in size and the left cerebrum no longer extends into the craniectomy site. Mild rightward bowing of the midline. Peripheral regions of FLAIR hyperintensity in the left frontal lobe and anterior left temporal lobe likely reflect evolving regions of parenchymal contusion. Old right frontal burr hole visualized. Mild mucosal thickening of the paranasal sinuses.
+IMPRESSION:
+
+1. Stable extraaxial collections; the smaller anterior collection continues to have features concerning for abscess. 2. Improved hydrocephalus. 3. Postsurgical changes from prior craniectomy. 4. Evolving post-traumatic changes. I certify that I have personally reviewed the image and interpretation for this examination and agree with the findings in this report.

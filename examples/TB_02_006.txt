@@ -1,0 +1,7 @@
+Diseases: ['tuberculosis', 'metastasis']
+FINDINGS:
+
+Nonenhancing T2 hyperintensity is noted along the inferior aspect right kidney measuring 3 cm probably reflective of a renal cyst.
+IMPRESSION:
+
+1. No suspicious parenchymal or meningeal enhancement or evidence of mass effect to suggest metastasis intracranially. 2. Small focus of acute/subacute ischemia right parietal subcortical white matter. Consider neurology consultation. Other sequela of microvascular ischemic changes. 3. Edema and enhancement present along the L4-L5 vertebral endplates most prominently at L4 without evidence of adjacent paraspinous soft tissue inflammatory change. Given that the spine is about the endplate leading consideration would include developing Schmorl's nodes. Infectious etiology such as early spondylodiskits in the setting of tuberculosis is an additional consideration however felt to be less likely given the lack of abnormal disk signal and paraspinal/prevertebral inflammatory change. Doubt that this is related to metastasis. Consider CT to further assess osseous appearance of endplates. Follow-up MRI may be performed to assess for expected evolution of findings. 4. 3 cm T2 hyperintensity inferior aspect right kidney probably reflective of a renal cyst. Consider correlation with ultrasound. 5. Spondylotic changes of the lumbar spine as detailed.

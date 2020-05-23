@@ -1,0 +1,7 @@
+Diseases: ['craniopharyngioma', 'craniopharyngioma']
+FINDINGS:
+
+The patient is status post right pterional craniotomy for craniopharyngioma resection. There is post surgical change in the suprasellar region with residual heterogeneous suprasellar tissue; small residual tumor cannot be completely excluded in this area. There is a ventricular shunt via the right parietal approach with its tip terminating in the right lateral ventricle. The ventricles are not enlarged. However prior studies are not available to compare difference in size of ventricles. There is relatively symmetric T2 hyperintensity from the periventricular white matter to the centrum semi ovale bilaterally. There are focal cystic areas in the corona radiata frontal lobes and temporal lobes perhaps also related to prior radiation. There are focal area of increased susceptibility in the bilateral temporal lobes also likely post surgical. The visualized paranasal sinuses and orbital contents are normal.
+IMPRESSION:
+
+1. Post surgical change status post craniopharyngioma resection. There is a ventricular shunt via the right parietal approach. 2. Nonspecific suprasellar tissue which could represent fibrous scar but residual craniopharyngioma cannot be completely excluded. Comparison with prior studies suggested. 3. Probable post-treatment changes in the frontal and temporal lobes. I certify that I have personally reviewed this examination and agree with this report.

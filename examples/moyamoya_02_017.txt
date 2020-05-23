@@ -1,0 +1,7 @@
+Diseases: ['aneurysm', 'aneurysm']
+FINDINGS:
+
+CT head November 15 2011 standard unenhanced
+IMPRESSION:
+
+1. Unremarkable CT brain. 2. Unremarkable MRI brain. 3. MR angiogram of head shows dolichoectasia right anterior circulation decreased caliber left anterior circulation with stenosis distal supraclinoid left internal carotid artery. Complex anatomy anterior to indicating artery complex and origin of left posterior inferior cerebellar artery noted better evaluated on CT angiogram. 4. Diffusely decreased caliber common and internal carotid artery on the left could be related to distal stenosis and decreased inflow. No focal stenosis in the neck. 5. CT angiogram confirms diffuse decreased caliber cervical carotid on the left with irregular short segment distal supraclinoid internal carotid artery stenosis although the vessel is still patent. The left posterior inferior cerebellar artery appears tortuous but without focal aneurysm on the CT angiogram dolichoectasia without focal aneurysm anterior communicating artery complex as well.

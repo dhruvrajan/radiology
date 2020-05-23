@@ -1,0 +1,7 @@
+Diseases: ['normal']
+FINDINGS:
+
+Ventricles midline without shift. There is a singlefocus of increased signal intensity in the left frontal lobesubcortical white matter on T2 weighted and flair images series 3image 20 which does not exert mass effect nor enhance.On post contrast axial images 22 21 and 22 is some enhancementright frontal and which has configuration of venous angioma. noregions of enhancement that are suspicious for metastatic diseaseare seen.Diffusion images show no acute ischemia.Signal intensity of the bone marrow appears somewhat low on T1weighted images in the calvarium and upper cervical spine.Paranasal sinuses are clear however there is opacification ofmany of the right sided mastoid air cells.
+IMPRESSION:
+
+1. No suspicious foci of enhancement within the brainparenchyma to suggest metastatic disease.2. Low signal intensity to the bone marrow; this is a nonspecificfinding and may be a normal variant. Other possibilities wouldinclude chronic anemia/illness as well as marrow infiltrativedisease potentially diffuse metastases in a patient with knownprimary. If clinically indicated further evaluation or correlationwith a bone scan may be helpful.3. Right mastoid air cell opacification.Transcribed by: Interface TalkStation

@@ -1,0 +1,7 @@
+Diseases: ['lymphoma']
+FINDINGS:
+
+There is a 0.7 x 0.5 x 0.5 cm (AP by TR by CC) enhancing lesion within the third ventricle. The lesion is intermediate signal on T1 and mildly T2 hyperintense. No other enhancing lesion is identified. There is no hydrocephalus. There is no surrounding parenchymal edema. There are a few scattered nonspecific subcortical periventricular and deep white matter T2/FLAIR foci which may be sequela of small vessel ischemic disease. There is no restricted diffusion in the brain. There is no mass effect or midline shift. There is no abnormal parenchymal enhancement. The ventricles and sulci are appropriate for the patient's stated age. No extraaxial collection. The calvarium is unremarkable.The orbits are normal. The paranasal sinuses are essentially clear.
+IMPRESSION:
+
+1. Subcentimeter enhancing lesion within the third ventricle. This would be an unusual location for metastatic lesion. Differential considerations could include unusual appearance of a colloid cyst. Other infectious inflammatory etiologies as well as lymphoma could be considered. Recommend clinical correlation and comparison with prior imaging if available. Short interval followup could be obtained to assess for stability. 2. No enhancing parenchymal lesion identified.

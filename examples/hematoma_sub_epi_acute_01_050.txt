@@ -1,0 +1,7 @@
+Diseases: ['normal']
+FINDINGS:
+
+There is FLAIR hyperintensity along the anterior interhemispheric fissure/falx with associated susceptibility artifact findings consistent with subdural hemorrhage. Additional more subtle FLAIR abnormality in the left frontal lobe (image 28 series 4) and susceptibility artifactual are likely artifactual and are related to the adjacent frontal bone. There is normal appearance of the brain parenchyma. There is no abnormal restricted diffusion in the brain. No mass lesion is seen. The ventricles and sulci are normal in size and position. The calvarium is normal. The orbits are normal. The paranasal sinuses are normal. To the extent that they may be evaluated with imaging obtained the arterial structures appear within normal limits. MRV demonstrates patency of the dural venous sinuses.
+IMPRESSION:
+
+1. Patency of the dural venous sinuses. 2. Small subdural hemorrhage in the anterior interhemispheric falx. 3. Normal unenhanced brain parenchyma. No evidence of acute ischemia. *ATTENDING RADIOLOGIST CHANGE: I have personally reviewed the images and agree with the preliminary report with the following modifications or additions: The flair hyperintensity and susceptibility artifact projecting over the left frontal lobe are likely related to prominent dural calcification seen better on prior CT scans. I certify that I have personally reviewed the image and interpretation and agree with the findings in this report.

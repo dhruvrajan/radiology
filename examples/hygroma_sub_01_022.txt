@@ -1,0 +1,7 @@
+Diseases: ['metastasis', 'hygroma']
+FINDINGS:
+
+There is a 4-5 mm focus of cortically based T2 prolongation as well as subtle T1 shortening and subtle associated enhancement in the right posterior medial frontal lobe (series 9 image 24 and series 10 and image 17) there is a second such focus in the right postcentral gyrus (series 8 image 19 on series 10 and image 14); findings suspicious for metastasis. There is a very thin extra-axial collection overlying the left cerebral convexity displacing vascular structures medially which follows CSF on all sequences reflecting a subdural hygroma. No significant mass effect. Mild subcortical and periventricular white matter flair hyperintensities are identified this is a nonspecific finding but in this patient's age group commonly associated with chronic small vessel ischemic change. No extraaxial fluid collections or mass effect. No acute intracranial hemorrhage or acute infarcts. Ventricles sulci and cisterns are symmetric and patent. Flow voids are maintained in the anterior and posterior circulation as well as the superior sagittal sinus. Mild mucosal disease noted in the ethmoid air cells otherwise the paranasal sinuses are clear.
+IMPRESSION:
+
+1. Small right frontal and right parietal lobe metastasis as above. 2. Very thin subdural hygroma overlying the left cerebral convexity. No significant mass effect. 3. Probable sequela of small vessel ischemic change.

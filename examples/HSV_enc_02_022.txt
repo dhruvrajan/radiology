@@ -1,0 +1,7 @@
+Diseases: ['encephalitis', 'normal']
+FINDINGS:
+
+There is an area of T2/FLAIR cortical hyperintensity in the leftmedial temporal lobe with some mass effect on the adjacent lefttemporal horn. The cortex within the left medial temporal lobeappears expanded/edematous. There is also some minimal enhancementwith gadolinium.The ventricles and sulci are normal in size and configuration.The visualized paranasal sinuses and orbital contents are normal.The calvarium is normal in marrow signal.MRA of the circle of Willis shows no evidence of intracranialstenosis occlusion or aneurysm.
+IMPRESSION:
+
+1. T2/FLAIR cortical hyperintensity in the left medial temporallobe with some mass effect on the adjacent left temporal horn.There is also some minimal enhancement with gadolinium. In theacute setting this would be worrisome for herpes encephalitis however the patient was ambulatory and had no gross motor/speechabnormalities noted at time of scanning by technologists.Differential diagnosis also includes low grade glioma recentepisode of seizure and paraneoplastic syndrome given thepatient's history of prostate cancer.2. Normal MRA of the circle of Willis.The findings were discussed with Dr. Graham on 4-13-05 at 1706hours.Transcribed by: Interface TalkStationLast Edited by: Interface TalkStation

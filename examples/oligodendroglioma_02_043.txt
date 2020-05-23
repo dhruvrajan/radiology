@@ -1,0 +1,7 @@
+Diseases: ['oligodendroglioma']
+FINDINGS:
+
+There is a 2.2 x 2.1 x 2.3 cm (AP x transverse x cc dimensions) in size superficially located rounded mass within the parasagittal left frontal lobe near the vertex. The mass is homogeneously T2 hyperintense and T1 hypointense without enhancement on the postcontrast images. The lesion extends to the cortical surface and expands the cortex. There is no significant surrounding edema. There is no midline shift. The lesion demonstrates no restricted diffusion. No other lesions are visualized. The ventricular system is normal in size and appearance. The basal cisterns are patent. Cerebral volume is appropriate for the patient's stated age. The visualized paranasal sinuses demonstrate minimal mucosal thickening in the right maxillary sinus. MR perfusion demonstrates no elevation of the rCBV within the left frontal lobe lesion. MR spectroscopy demonstrates a lactate peak and mild elevation of the choline peak within the left frontal lesion.
+IMPRESSION:
+
+1. Left frontal lobe intra axial mass with conventional imaging findings most consistent with an oligodendroglioma. The advanced imaging shows no perfusion abnormality and no spectral features that would suggest a higher-grade tumor.

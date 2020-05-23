@@ -1,0 +1,7 @@
+Diseases: ['amyloid']
+FINDINGS:
+
+Mild cerebral volume loss is age-appropriate. There is no mass mass effect or midline shift. Extensive subcortical and periventricular white matter signal abnormality is nonspecific but likely related to small vessel ischemic change. Gradient images demonstrate scattered foci of susceptibility in the left temporal and bilateral frontal lobes do not have the appearance of subarachnoid hemorrhage. These are nonspecific but maybe related to prior microbleed. These are not as extensive as usually seen in amyloid angiopathy. There is no restricted diffusion. No intracranial hemorrhage.
+IMPRESSION:
+
+1. No evidence of intracranial hemorrhage. 2. Scattered foci of susceptibility are nonspecific but not likely secondary to amyloid angiopathy.

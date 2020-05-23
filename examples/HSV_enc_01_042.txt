@@ -1,0 +1,7 @@
+Diseases: ['normal']
+FINDINGS:
+
+Parts of the study are degraded by motion artifact. On the longTR sequences are few nonenhancing areas of white matter signalabnormality in the periventricular and bilateral corona radiata not associated with edema or mass effect and likely reflectingsequela of small vessel ischemic changes.In addition there is minimal restricted diffusion in the region ofthe left corona radiata image 21 of series 7 corresponding to lowADC values possibly representing acute lacunar infarct.There is no midline shift or herniation. There are no extra axialfluid collections. There is no acute intracranial hemorrhage.There is no pathologic enhancement. There are small fluid levelsin the sphenoid and maxillary sinuses.
+IMPRESSION:
+
+1. Probable left corona radiata infarct. The rest of theexamination is within normal limits although it is degraded bymotion artifact.2. Fluid levels in the sphenoid and maxillary sinuses.Transcribed by: Interface TalkStationLast Edited by: Interface TalkStation

@@ -1,0 +1,7 @@
+Diseases: ['hydrocephalus']
+FINDINGS:
+
+Again noted is enlargement of the ventricles out of proportion to the sulci. No obstructive mass on this noncontrast study. There is mild periventricular signal. Inflammatory changes in the paranasal sinuses. The calvarium is normal and marrow signal. No acute infarcts.
+IMPRESSION:
+
+1. Ventricular enlargement may represent hydrocephalus. Mild periventricular signal nonspecific. Clinical correlation advised. 2. No visible obstructive mass but contrast would be necessary for full evaluation.

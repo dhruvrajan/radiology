@@ -1,0 +1,7 @@
+Diseases: ['contusion']
+FINDINGS:
+
+Suseptibility artifact is seen in the parasagittal bifrontal lobes left greater than right the left temporal lobe right inferior temporal lobe and right inferior tegmentum with possible extension into the superior cerebellar peduncle. While some of the susceptibility artifact may represent cortical contusion diffuse axonal injury should be considered. There is also intraventricular blood. Hyperintense signal on flair sequences of the lateral cerebral sulci correspond to subarachnoid hemorrhage. There is mucosal thickening of the paranasal sinuses and minimal fluid in the mastoid air cells. There is a left posterior scalp hematoma with overlying metal artifact. Flow voids are maintained in major intracranial vascular structures. There is T2 high signal in the ligamentum nuchae and anterior to the C2 through C5 vertebral bodies concerning for ligamentum nuchae and anterior longitudinal ligament injury. There is maintenance of the cervical lordosis. There are no focal regions of signal alteration in the vertebral marrow. The cervical spinal cord is intrinsically normal in size without focal signal abnormality. There is no cord compression. Degenerative changes changes are noted throughout the cervical spine.
+IMPRESSION:
+
+1. Multiple foci of susceptibility artifact. While some of the susceptibility artifact may represent cortical contusion diffuse axonal injury should be considered. Subarachnoid hemorrhage. 2. Ligamentum nuchae and anterior longitudinal ligament injury.

@@ -1,0 +1,7 @@
+Diseases: ['aneurysm', 'aneurysm']
+FINDINGS:
+
+Postoperative changes from right craniotomy with aneurysm clip in right sylvian fissure. Chronic infarct in left occipital lobe has occurred since 1999. Left subinsular/caudate hemorrhagic encephalomalacia has also occurred since 1999. Stable encephalomalacia in right basal ganglia. No acute ischemia. No abnormal enhancement. Susceptibility artifacts related to the right ICA clip obscure the images. There are also artifacts related to the coils at the left ICA with some loss of flow-related enhancement in the cavernous ICA. Small focus of residual flow (series 2 image 86) measures only 1 mm. Stable aneurysm at the right A1/A2 junction measures about 3 mm. Stable 1-2 mm aneurysm at left carotid terminus. No new aneurysms. Right vertebral artery terminates in the right PICA.
+IMPRESSION:
+
+1. Artifacts from clipping of right ICA aneurysm. 2. Coiling of left ICA aneurysm small 1 mm focus of residual flow. 3. Stable aneurysms at right ACOM complex and left ICA terminus. 4. Chronic hemorrhagic ischemic and post-surgical changes in the brain as above.

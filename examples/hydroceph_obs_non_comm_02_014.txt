@@ -1,0 +1,7 @@
+Diseases: ['hydrocephalus']
+FINDINGS:
+
+The study is motion degraded. The lateral ventricles and third ventricle are enlarged unchanged by comparison. There is apparent narrowing of the cerebral aqueduct (image 11 series 2) which may be the result of an adhesion from known bacterial meningitis. There is hyperintense T2 signal in the periventricular white matter greatest at the frontal horns. Although this may be related to small vessel ischemic white matter disease transependymal CSF resorption is a consideration. No restricted diffusion. There is no acute intracranial hemorrhage extracerebral fluid collection or midline shift. There is global parenchymal volume loss. Following contrast administration there is no definite pathologic enhancement. The visualized paranasal sinuses are grossly clear. There is partial opacification of the mastoid air cells bilaterally.
+IMPRESSION:
+
+1. Enlargement of the lateral ventricles and third ventricle. Although this may in part be due to volume loss there is concern for obstructive hydrocephalus. There may be narrowing of the cerebral aqueduct as above. 2. No definite pathologic enhancement although the study is motion degraded. Dr. Haines was notified of these findings on 12/19/2007.

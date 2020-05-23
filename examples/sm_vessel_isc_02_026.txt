@@ -1,0 +1,7 @@
+Diseases: ['vasculitis/vasculopathy', 'migraine']
+FINDINGS:
+
+As noted on the prior CT there are scattered foci of T2 prolongation in the periventricular and subcortical white matter without associated mass effect enhancement or restricted diffusion more than expected for a patient of this age. There is no acute intracranial hemorrhage extracerebral fluid collection midline shift or mass effect. No restricted diffusion to suggest acute infarction. No susceptibility artifact to suggest presence of microhemorrhages. The cerebral volume is appropriate for the patient's stated age. Following contrast administration there is no convincing pathologic parenchymal or meningeal enhancement. The expected flow voids of the major intracranial vessels are patent at the skull base. Moderate circumferential mucosal changes of the left sphenoid and maxillary sinuses and mild mucosal changes of the right maxillary right sphenoid left greater than right inferior frontal sinuses as well as the ethmoid air cells. There is partial opacification of the right mastoid air cells. No suspicious osseous lesions.
+IMPRESSION:
+
+1. Scattered foci of T2 prolongation in the periventricular and subcortical white matter without associated mass effect enhancement or restricted diffusion nonspecific and may reflect sequela of vasculitis/vasculopathy including early chronic small vessel ischemic changes inflammatory etiologies such as multiple sclerosis and lyme disease hypertension sequela of prior trauma migraine and others. 2. No acute infarction or mass lesion.

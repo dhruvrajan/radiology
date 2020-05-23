@@ -1,0 +1,7 @@
+Diseases: ['aneurysm', 'aneurysm', 'infarction']
+FINDINGS:
+
+There are scattered foci of T2/FLAIR hyperintensity in the periventricular and subcortical white matter likely the sequela of small vessel ischemia. There are additional areas of encephalomalacia in the subcortical left frontal lobe cortical left occipital lobe and bilateral cerebellar hemispheres from prior infarcts. There is no restricted diffusion or enhancement post-contrast to suggest that any of these areas are acute. There are additional FLAIR hyperintensities in the left occipital lobe possibly representing small foci of subarachnoid blood products although no blood products are seen on the recent CT. Clinical correlation is suggested. On the post-gadolinium MRA images there is apparent narrowing of the paraclinoid left ICA possibly artifactual. There is a 4 mm aneurysm involving the right precavernous ICA. There is a 5 mm aneurysm involving the right periophthalmic internal carotid artery.
+IMPRESSION:
+
+1. 5 mm right periophthalmic ICA aneurysm. 4 mm right precavernous ICA aneurysm. 2. Apparent narrowing of the left supraclinoid ICA possibly artifactual. 3. Possible foci of subarachnoid blood products in the left occipital lobe. Clinical correlation is suggested. 4. Scattered areas of prior infarction. Scattered small vessel ischemic changes.

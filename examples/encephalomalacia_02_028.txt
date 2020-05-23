@@ -1,0 +1,7 @@
+Diseases: ['encephalomalacia']
+FINDINGS:
+
+No interval acute infarction acute intra-or extra-axial hemorrhage midline shift or hydrocephalus. Basilar cisterns are patent. Severe encephalomalacia changes in bilateral frontal and temporal lobes are redemonstrated grossly unchanged as compared to the prior studies. Brain volume loss. Scattered foci of T2/FLAIR hyperintensity in bilateral cerebral white matter are nonspecific. Following contrast administration no pathologic parenchymal/ meningeal enhancement. Visualized paranasal sinuses show evidence of lobulated mucosal thickening in the left maxillary sinus. Scattered mucosal thickening in the left more than right ethmoid air cells and in the left sphenoid sinus where there is suggestion of a small fluid level and some frothy appearing secretions. Advise clinical correlation. Trace fluid in the left more than right mastoids.
+IMPRESSION:
+
+1. No interval acute intracranial findings. No enhancing mass lesions. Stable appearance of extensive encephalomalacia changes in bilateral frontal and temporal lobes as described above. 2. Paranasal sinus disease for which clinical correlation is recommended.

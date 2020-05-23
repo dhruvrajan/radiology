@@ -1,0 +1,7 @@
+Diseases: ['infarction', 'meningioma']
+FINDINGS:
+
+There are several foci of T2 prolongation in the subcortical periventricular and deep white matter as well as the brainstem nonspecific but likely related to small vessel ischemic white matter changes and not significantly changed. There is a focal infarction within the posterior limb of the left internal capsule which has developed internal cystic encephalomalacic changes. This has some mild residual restricted diffusion although decreased from 2/7/2008 examination. No new areas restricted diffusion. No abnormal susceptibility to suggest hemosiderin deposition. No acute intracranial hemorrhage extra-axial fluid collection mass effect or midline shift. Stable tortuosity of the internal carotid arteries. There is a stable 12 mm enhancing extra-axial mass along the posterior aspect of the right petrous temporal bone unchanged and consistent with a meningioma. The visualized paranasal sinuses are clear. There is a small nonenhancing subcutaneous cyst within the left suboccipital scalp unchanged. Bilateral lens implants.
+IMPRESSION:
+
+1. Evolving infarction involving the posterior limb of the left internal capsule. No evidence of new ischemia. 2. Stable enhancing extra-axial mass along the posterior aspect of the right petrous temporal bone most consistent with a meningioma.

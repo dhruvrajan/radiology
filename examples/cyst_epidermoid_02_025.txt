@@ -1,0 +1,7 @@
+Diseases: ['infarction']
+FINDINGS:
+
+As seen on prior CT examination the subarachnoid space in the pre-pontine/premedullary cistern is prominent. There is no evidence of restricted diffusion or abnormal enhancement. Normal vessels course through this area. There are scattered white matter hyperintensities in the left anterior circulation nonspecific but may represent sequela of small vessel ischemic disease. Some of these may be in the ACA/MCA watershed territory. There is a lacunar infarction in the left basal ganglia. No acute hemorrhage midline shift restricted diffusion or hydrocephalus. Left frontal developmental venous anomaly. No abnormal enhancement. Trace sinus mucosal thickening. Appropriate vascular flow voids seen at the skull base.
+IMPRESSION:
+
+1. Prominent pre-pontine/premedullary subarachnoid space without evidence of arachnoid or epidermoid cyst. 2. Old lacunar infarction in the left basal ganglia with left anterior circulation white matter hyperintensities most likely the sequelae of small vessel ischemic disease. MRA would be helpful for evaluating the possibility of a unilateral intracranial stenosis.

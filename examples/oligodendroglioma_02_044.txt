@@ -1,0 +1,7 @@
+Diseases: ['oligodendroglioma', 'meningioma']
+FINDINGS:
+
+There is a mass in the left middle cranial fossa vs. inferior lateral temporal lobe measuring about 24 to 26mm in diameter. The mass is peripheral and situated just anterior to petrous bone. On some sequences there is a suggestion that the mass is extraaxial (possible CSF cleft on T1-weighted images) but on other sequences it appears intraaxial. Dark foci within the mass are consistent with calcifications suggested on CT. It does appear fairly well defined. The mass enhances throughout but is not as striking as usually seen with meningiomas. There is a blush of enhancement adjacent to body of left lateral ventricle that is barely visible on long-TR images probably capillary telangiectasia or developmental venous anomaly. No other findings. The intracranial flow voids appear preserved.
+IMPRESSION:
+
+1. Probable intra-axial left temporal mass less likely extraaxial mass. Differential diagnosis includes primary CNS neoplasms such as oligodendroglioma or less likely ganglioglioma given calcifications meningioma is not excluded.2. Probable developmental venous anomaly or capillary telangiectasia adjacent to left lateral ventricle.

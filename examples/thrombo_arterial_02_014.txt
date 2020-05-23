@@ -1,0 +1,7 @@
+Diseases: ['meningitis']
+FINDINGS:
+
+There is diffuse abnormal FLAIR hyperintensity of the subarachnoid spaces which is most prominent in the temporal and occipital lobes bilaterally. There is a corresponding T1 signal abnormality. There is also no corresponding hyperdensity on the noncontrast CT scan performed earlier today. These findings may be related to the recent lumbar puncture or the patient's known diagnosis of lymphomatous meningitis. No intraparenchymal T2/FLAIR hyperintensity is seen. Diffusion weighted images are negative for restricted diffusion. No evidence of acute infarct. Ventricles cortical sulci basilar cisterns are of normal size and configuration. There is no extracerebral fluid collection midline shift or mass effect. Evaluation of the intracranial venous system is unremarkable. There is no evidence of venous sinus thrombosis as clinically questioned.
+IMPRESSION:
+
+1. Diffuse abnormal FLAIR hyperintensity of the leptomeninges most prominent in the temporal occipital lobes bilaterally. This is likely related to recent lumbar puncture or the patient's known diagnosis of lymphomatous meningitis as detailed above.2. Unremarkable MRV of the head.Attending review: In this setting MRA of the arterial vasculature for aneurysmal dilatation is recommended for evaluation of the 3rd nerve palsy as warranted. This was discussed with Dr. Chaitra Ujjani at the time of attending review. By report the patient has a gadolinium allergy.

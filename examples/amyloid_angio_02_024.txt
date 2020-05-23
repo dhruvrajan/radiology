@@ -1,0 +1,7 @@
+Diseases: ['amyloid']
+FINDINGS:
+
+The ventricles are normal in size and position for patient's age. There is no acute evidence of intra or extra-axial hemorrhage. There periventricular deep and subcortical white matter as well as brainstem T2 flair and signal abnormalities consistent with chronic small vessel ischemic changes. There are chronic lacunar infarcts in the left thalamus left pons and deep gray matter of the basal ganglia. Some of these are associate with suspectibility artifact on GRE especially in the left pons and thalamus suggestive of remote microhemorrhage in these regions. There are no areas of abnormal enhancement. Punctate hypointense foci in the left parietal and occipital lobes on gradient echo images are also noted. There is mild mucosal thickening of the ethmoid sinus. No osseous abnormalities are seen. To the extent that they may be evaluated with routine MR imaging the vascular structures have a normal appearance.
+IMPRESSION:
+
+1. No acute infarction mass effect midlineshift or hydrocephalus. 2. Chronic lacunar infarcts of the left thalamus left pons and basal ganglia and white matter signal abnormalities suggestive of chronic ischemic changes. 3. Left parietal and occipital lobe susceptibility foci possibly amyloid angiopathy. Similar hypointense foci are seen in deep gray matter and brainstem and may be related and/or perhaps reflect microbleeds related to chronic small vessel disease.

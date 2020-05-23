@@ -1,0 +1,7 @@
+Diseases: ['aneurysm']
+FINDINGS:
+
+Brain: Again noted is subarachnoid hemorrhage now more in the cerebral sulci. There is some intraventricular blood. Ventricles are mildly prominent but there is no transependymal CSF flow. No abnormal restricted diffusion. No abnormal enhancement. No parenchymal signal loss on GRE images. Cervical spine: Multilevel degenerative changes with extradural impressions on the thecal sac mild cord flattening at C4-5 and C5-6. Biforaminal narrowing at C4 and C5. No abnormal flow voids no abnormal enhancement no spine tumor. The cord is normal in size and signal intensity aside from artifactual signal changes. Questionable flow void adjacent to the right vertebral artery (see series 13 image 3) not visible on prior CTA or angiogram.
+IMPRESSION:
+
+1. Evolving subarachnoid and intraventricular hemorrhage. Ventricles are prominent but stable. 2. No tumor no parenchymal bleed no acute ischemia. 3. Questionable flow void adjacent to right vertebral artery may be artifact thrombosed aneurysm not excluded. Consider follow-up angiogram.

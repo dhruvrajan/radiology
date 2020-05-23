@@ -1,0 +1,7 @@
+Diseases: ['hematoma']
+FINDINGS:
+
+Examination reveals a high convexity subacute subdural hematoma with maximal thickness of 1.5 CM. There is mild mass effect manifested by effacement of sulci and slight effacement of the body of the right lateral ventricle. There is however no shift across the midline. Examination of the brain is otherwise unremarkable. Following contrast administration there is no pathologic enhancement. The visualized paranasal sinuses reveal a retention cyst in the sphenoid and right maxillary sinus. Incidental note is made of a Thornwaldt cyst in the nasopharynx. Evaluation of the orbits shows no retrobulbar mass. There is no T2 signal abnormality or pathologic enhancement along the visualized optic pathways. The extraocular muscles are symmetric in size.
+IMPRESSION:
+
+1. High right convexity subdural hematoma as delineated above. 2. No orbital abnormality.

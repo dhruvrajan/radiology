@@ -1,0 +1,7 @@
+Diseases: ['infarction', 'amyloid']
+FINDINGS:
+
+Focal area of T2/FLAIR hyperintensity and restricted diffusion seen within the left pons consistent with acute/subacute infarction. Small foci of restricted diffusion also seen within the right occipital lobe (images 14 and 19 series 3). Areas of encephalomalacia seen within the left occipital lobe and bilateral cerebellar hemispheres consistent with old areas of infarction. Extensive T2/FLAIR signal abnormality within the periventricular deep and subcortical white matter consistent with sequela from small vessel disease. No areas of acute hemorrhage identified. There are multiple foci of susceptibility throughout the supra-and infratentorial brain likely reflecting small areas of hemosiderin deposition from amyloid angiopathy or hypertension. The ventricular system and sulci are diffusely prominent consistent with volume loss. There is no evidence of mass effect or midline shift. No abnormal parenchymal or meningeal enhancement is seen. The orbits and mastoid air cells appear normal. Bilateral small maxillary sinus retention cysts noted.
+IMPRESSION:
+
+1. Acute/subacute infarction within the left pons and right occipital region as detailed. No evidence of acute hemorrhage or abnormal enhancement. 2. Multiple foci of susceptibility throughout the brain likely reflecting small areas of prior hemorrhage from amyloid angiopathy or hypertension. 3. Old left occipital and bilateral cerebellar infarctions. Extensive small vessel disease.

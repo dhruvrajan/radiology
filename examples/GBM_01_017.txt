@@ -1,0 +1,7 @@
+Diseases: ['glioblastoma']
+FINDINGS:
+
+Sagittal T1 post contrast 3-D axial T1 with gadolinium axial flair post contrast images of the brain per stealth protocolwere performed.There is a large enhancing mass in the right frontal lobe with centralnecrosis. Cannot exclude additional punctate focus of enhancement onimage 86 series 3. There is vasogenic edema and there is sulcaleffacement in the right cerebral hemisphere but no midline shift. Inaddition there is mass effect on the anterior horn of the rightlateral ventricle. No evidence of extension into the corpus callosum.No obstructive hydrocephalus is seen.There is atrophy consistent with patient age and associatedventricular prominence.Minimal-moderate microvascular ischemic white-matter changes. Majorintracranial vascular structures appear patent.
+IMPRESSION:
+
+1. Probable glioblastoma multiforme right frontal lobe. Cannotexclude additional punctate focus of enhancement left frontal lobe;this may be vascular in nature rather than neoplastic.Transcribed by: Interface TalkStationLast Edited by: HERSKOVITS EDWARD H MD

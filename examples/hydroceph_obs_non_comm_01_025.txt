@@ -1,0 +1,7 @@
+Diseases: ['normal', 'hydrocephalus']
+FINDINGS:
+
+There is diffuse dilation of the ventricular system out of proportion to sulcal prominence worrisome for normal pressure hydrocephalus given clinical symptoms. There is no obstructive mass lesion. No mass effect or midline shift. Mild periventricular FLAIR hyperintensity is nonspecific. There is no restricted diffusion or abnormal susceptibility. There is no extra-axial fluid collection. A small old lacune is noted in the right temporal lobe white matter. Bidirectional flow is noted in the cerebral aqueduct. Peak velocity measured at 3.13 cm/sec with forward volume of 0.05 ml reverse volume of 0.02 ml for net forward volume of 0.03 ml. Cisterns are patent. Flow voids are maintained in the anterior and posterior circulation as well as superior sagittal sinus. Pituitary fossa and orbits are unremarkable.
+IMPRESSION:
+
+1. Ventricular-sulcal discordance concerning for normal pressure hydrocephalus given the patient's symptoms. 2. Nonspecific periventricular FLAIR signal may represent transependymal CSF flow vs. ischemic change. 3. No obstructive mass on this noncontrast MRI. CSF flow measures as above. 4. Old lacune in right temporal white matter. I certify that I have personally reviewed the image and interpretation and agree with the findings in this report.

@@ -1,0 +1,7 @@
+Diseases: ['aneurysm']
+FINDINGS:
+
+Interval evolution of subdural blood around bilateral cerebral convexities more prominent posteriorly and layering along the tentorium. Interval increase in subdural blood around the cerebellum and anterior to the brainstem extending into the cervical spine which may represent a true increase vs. redistribution of the blood products. Increase in FLAIR signal is again noted in the subarachnoid spaces unchanged from prior examination. This was felt to be artifactual on prior examination due to lack of susceptibility artifact however gradient echo images were not performed in the current study. Diffusion weighted images are negative for restricted diffusion. No evidence of acute infarction. Following the administration of intravenous contrast no pathologic enhancement is seen. Right posterior communicating artery coil mass is noted. Consider conventional angiogram to assess for recanalization. There is patency of the venous sinuses. The left transverse and sigmoid sinuses are hypoplastic. The calvarium is normal in marrow signal. The orbital contents are grossly unremarkable. The mastoid air cells and visualized paranasal sinuses are clear.
+IMPRESSION:
+
+1. Probable increase in subdural blood at the foramen magnum and in the upper cervical spinal canal. 2. The venous sinuses now appear patent probably with left transverse sinus hypoplasia. 3. Conventional angiography suggested for assessment of residual flow in the right PCOM aneurysm. Findings discussed with Dr. Brown of the neurology team at 9 am on 7/13/07.

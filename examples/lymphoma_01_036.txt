@@ -1,0 +1,7 @@
+Diseases: ['lymphoma']
+FINDINGS:
+
+There is a mass centered within the left medial frontal and parietal lobes measuring 2.7 cm TRV x 6.8 cm AP. There are patchy predominantly peripheral areas of ill-defined enhancement. There is associated vasogenic edema and mass effect with effacement of surrounding sulci and flattening of the corpus callosum. T2 hyperintensity extends into the left medial temporal lobe to include the hippocampus and uncus. There is no evidence of hydrocephalus. The basilar cisterns are patent. No other areas of abnormal enhancement are seen. Diffusion weighted images are negative for restricted diffusion. Mucus retention cysts are present in both maxillary sinuses. Orbits are grossly unremarkable. MR perfusion does not demonstrate definite areas of increased cerebral blood volume.
+IMPRESSION:
+
+1. Mass within the left medial frontal and parietal lobes that extends into the medial left temporal lobe. There are patchy areas of ill-defined enhancement and vasogenic edema. Given the lack of increased cerebral blood volume on perfusion studies this lesion is felt to represent either lymphoma or a tumefactive demyelinating lesion. These results were discussed with Dr. Bauman from neurosurgery at the time of attending review.

@@ -1,0 +1,7 @@
+Diseases: ['amyloid']
+FINDINGS:
+
+Ventricles and CSF spaces are nearly symmetric low-normal parenchymal volume for age. Scattered small T2-bright foci deep and periventricular white matter as well as deep gray matter structures relatively mild in extent and some are encephalomalacic and may represent old lacunar insults. There are no other abnormal foci of increased or decreased signal intensity. No acute findings on diffusion weighted or ADC maps mild small blush susceptibility right cerebellar hemisphere on SWI images nonspecific and isolated possible old microbleed or perhaps small telangiectasia. Peripheral small susceptibility focus is noted left frontoparietal region peripherally (series 6 image 86) possibly old microbleed or perhaps isolated focus amyloid angiopathy no other similar foci. Mesial temporal lobe volume is probably within normal limits. No focal large asymmetric or territorial perfusion deficit on perfusion-weighted images limited quality.
+IMPRESSION:
+
+1. Nonspecific subcortical hyperintensities on T2-weighted images some encephalomalacic nonspecific but mild extent and favor probable chronic small vessel ischemic changes. Parenchymal volume loss is mild probably low-normal volume for age. 2. Small focus old microbleed or perhaps isolated focus amyloid angiopathy no other similar foci although there is a less prominent right cerebellar focus which is a little more diffuse could be related or possibly a small telangiectasia.

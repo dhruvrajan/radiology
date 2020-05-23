@@ -1,0 +1,7 @@
+Diseases: ['amyloid']
+FINDINGS:
+
+There is no restricted diffusion. Extensive subcortical periventricular and deep white matter as well as cerebellar white matter T2/FLAIR hyperintensities likely sequelae of chronic ischemia. Small chronic left caudate lacunar infarct. Old left occipital small cortical infarction. There are scattered foci of susceptibility artifact likely microhemorrhages that my be secondary to amyloid angiopathy. Moderate diffuse volume loss with associated ventriculomegaly. No extra axial fluid collections. No focal regions of mass effect. Patient status post right cataract resection. Diffuse sinus disease involving the ethmoid air cells frontal sinuses sphenoid sinus and maxillary sinus most prominently in the maxillary sinuses left much greater than right. Fluid level right maxillary sinus. Trace amount of fluid is present within the mastoid air cells. Spondylotic changes are noted of the upper cervical spine but these are not well evaluated.
+IMPRESSION:
+
+1. No evidence of acute infarction. 2. Diffuse T2/FLAIR hyperintensities as above which are nonspecific however likely sequela of represent chronic microvascular ischemia. Multiple foci of susceptibility may be secondary to amyloid angiopathy. 3. Sinus disease as above; correlate for findings of acute sinusitis. I certify that I have personally reviewed the image and interpretation for this examination and agree with the findings in this report.

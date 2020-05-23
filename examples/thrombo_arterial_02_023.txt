@@ -1,0 +1,7 @@
+Diseases: ['thrombosis']
+FINDINGS:
+
+Ventricles and CSF spaces are nearly symmetric occipital horns slightly prominent for age but stable since recent comparison may 4 2009 and also since February 19 2009. There is minimal increased signal intensity in the periatrial white matter on long-TR images which has remained stable. No other abnormal foci of increased or decreased signal intensity. Appropriate intracranial arterial flow voids are appreciated. Skull orbits and paranasal sinuses are unremarkable. No abnormal enhancing foci in the brain. Evaluation of phase contrast MR venograms reveals patent major superficial and deep venous structures with flow apparent in transverse and sigmoid sinuses bilaterally sagittal and straight sinuses vein of Galen and internal cerebral veins and basal vein of Rosenthal bilaterally. There is some irregularity as seen on prior exams in the right transverse sinus and sagittal sinus which would be consistent with history of venous thrombosis but the pattern is unchanged and flow-related enhancement is apparent. Gradient echo images are unremarkable.
+IMPRESSION:
+
+1. Stable MRI compared to May 4 and February 19 2009 studies. No acute findings minimal prominence occipital horns and periatrial signal abnormality which has remained stable. 2. Patent superficial and deep venous structures intracranially minimal irregularity right transverse sinus and sagittal sinus consistent with history of prior venous thrombosis but no change since February 2009. No acute thrombus identified.

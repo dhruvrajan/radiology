@@ -1,0 +1,7 @@
+Diseases: ['amyloid']
+FINDINGS:
+
+There is T2/FLAIR hyperintensity in the periventricular and subcortical white matter nonspecific but may represent sequelae of chronic microvascular ischemia. There are multiple punctate areas of susceptibility throughout the supra and infratentorial space most notably in the frontoparietal region. Findings may represent amyloid angiopathy and/or hypertensive microhemorrhage in a patient this age. There is prominence of the ventricles and sulci reflecting moderate to severe diffuse cerebral atrophy. There are no areas of restricted diffusion to suggest acute ischemia. No mass effect midline shift or mass lesion. The visualized paranasal sinuses are essentially clear.
+IMPRESSION:
+
+1. Multiple punctate areas of susceptibility throughout the supra and infratentorial space most notably in the frontoparietal region. Findings may represent amyloid angiopathy and/or hypertensive microhemorrhage in a patient this age. 2. T2/FLAIR hyperintensity in the periventricular and subcortical white matter nonspecific but may represent sequelae of chronic microvascular ischemia. 3. Moderate to severe diffuse cerebral atrophy. I certify that I have personally reviewed this examination and agree with this report.

@@ -1,0 +1,7 @@
+Diseases: ['metastasis']
+FINDINGS:
+
+There is mild asymmetric prominence of the left lower ventricle likely a variant anatomy. There is no mass mass effect hemorrhage or extra axial collection. No restricted diffusion. Intracranial flow voids are maintained. Orbital contents are within normal limits. Paranasal sinuses are clear aside from a polyp/retention cyst in the right maxillary sinus. Nonspecific lesion with T2 prolongation and restricted diffusion in the right temporal bone which could represent a small epidermoid.
+IMPRESSION:
+
+1. Nonspecific lesion with T2 prolongation and restricted diffusion in the right temporal bone which could represent a small epidermoid but a small metastasis is not excluded. 2. The brain parenchyma appears unremarkable but contrast-enhanced imaging is more sensitive for metastases and should be performed if there remains concern for metastatic disease.

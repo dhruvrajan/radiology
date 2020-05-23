@@ -1,0 +1,7 @@
+Diseases: ['migraine']
+FINDINGS:
+
+The ventricles are normal in size and position. There is no evidence of intra or extra-axial hemorrhage. No restricted diffusion to suggest acute infarction. There are no areas of abnormal parenchymal or meningeal enhancement. There are scattered foci of T2 prolongation in the periventricular subcortical and deep white matter without associated mass effect enhancement or restricted diffusion. This is a nonspecific finding but is more than expected for patient's age. The differential considerations are broad and include inflammatory etiologies including demyelinating and lyme disease vasculitis/vasculopathies including chronic small vessel ischemia sequela of prior trauma hypertension migraine headaches and others. To the extent that they may be evaluated with routine MR imaging the vascular structures have a normal appearance. The paranasal sinuses are clear. No osseous abnormalities are seen.
+IMPRESSION:
+
+1. No acute intracranial abnormalities. 2. Scattered foci of T2 prolongation in the periventricular subcortical and deep white matter without associated mass effect enhancement or restricted diffusion; nonspecific finding but is more than expected for patient's age. The differential considerations are broad and include inflammatory etiologies including demyelinating and lyme disease vasculitis/vasculopathies including chronic small vessel ischemia sequela of prior trauma hypertension migraine headaches and others.

@@ -1,0 +1,7 @@
+Diseases: ['normal', 'normal']
+FINDINGS:
+
+Interval increase in number of white matter lesions since the prior study. No significant mass effect. No hemorrhage. Also there is a new lesion in the right medial frontal lobe gray matter with bright signal on DWI. The lesion is perhaps too small to determine whether there is ADC hypointensity or not. There are other scattered vague areas of hyperintensity in the right hemisphere on DWI. The ventricles and sulci are normal in size and configuration. MRA of the circle of Willis shows no evidence of intracranial stenosis occlusion or aneurysm. MRV of the head shows patent dural venous sinuses. No evidence of thrombosis or stenosis. MRA of the cervical vessels shows normal caliber and course of the carotid and vertebral arteries from their origins to the intracranial portions. No stenosis by NASCET criteria (0% bilaterally).
+IMPRESSION:
+
+1. Scattered foci of hyperintensity in the right hemisphere on DWI suspicious for ischemia. At least one is probably present in the medial frontal lobe in the ACA territory. 2. Interval increase in number of brain lesions compared to 1999. These findings are nonspecific but are suggestive of a demyelinating disease. Clinical correlation advised. 2. Normal MRA and MRV of the circle of Willis. 3. Normal MRA of the cervical vessels. Findings discussed with Dr. Sansing at 5:15 pm on 6/3/09.

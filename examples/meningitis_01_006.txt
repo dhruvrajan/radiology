@@ -1,0 +1,7 @@
+Diseases: ['hematoma', 'meningitis']
+FINDINGS:
+
+The cerebrum demonstrates normal gray matter and gray/white differentiation. There is a 7 x 7 mm focus in the right frontal lobe corresponding to the previously identified parenchymal hemorrage. There is scattered FLAIR hyperintensity in the sulci representing a moderate subarachnoid hemorrhage that was also previously identified. There is minimal leptomeningeal enhancement probably related to the subarachnoid hemorrhage. There are scattered periventricular and brainstem white matter T2 hyperintense foci probably representing sequelae of small vessel ischemic disease. There is no diffusion abnormality to suggest acute infarction. The ventricles and sulci are prominent representing age-related volume loss. The extra axial spaces are normal without evidence of mass or blood. The vascular flow voids are unremarkable. There is an artifact traversing the posterior fossa and left parital and occipital lobes possibly related to the ventilator. The bony calvarium is intact. There is a scalp fluid collection which does not enhance probably a seroma. There is a 2 cm scalp hematoma on the right also previously seen on head CT. The orbits are unremarkable. The sinuses and mastoid air cells demonstrates no abnormalities. The visualized pharynx and parapharyngeal soft tissues are normal.
+IMPRESSION:
+
+1. Stable right frontal intraparenchymal hematoma and moderate subarachnoid hemorrhage. 2. Minimal leptomeningeal enhancement probably related to the patient's hemorrhage but meningitis is not excluded.

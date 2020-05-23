@@ -1,0 +1,7 @@
+Diseases: ['amyloid']
+FINDINGS:
+
+Ventricles cisterns and sulci are symmetric and normal in size and configuration. There are foci of decreased intensity on gradient echo images in the pons and left cerebellum right temporal lobe left frontotemporal region peripheral left parietal lobe and probably left corona radiata. These are consistent with prior hemorrhagic foci. On the long-TR images there are multiple foci of increased intensity which are moderate in extent located in periventricular and deep white matter as well as deep gray matter structures. Pattern is nonspecific but suggestive of chronic small vessel ischemic changes. Appropriate intracranial flow voids are identified although there is moderate dolichoectasia of vertebral basilar system and to a lesser extent anterior circulation vessels. There are no other abnormal foci of increased or decreased signal intensity. There are no abnormal enhancing foci. Skull orbits and paranasal sinuses are unremarkable.
+IMPRESSION:
+
+1. Nonspecific hyperintensities in the white matter and to a lesser extent deep gray matter structures could represent chronic small vessel ischemic changes but not specific for this. No acute findings. 2. Multiple foci of abnormal susceptibility involving pons cerebellum temporal and parietal lobes as detailed above. These could represent old microbleeds source is uncertain. Amyloid angiopathy is possible less likely multiple cavernomas. Also microbleeds from focal ischemic insults or perhaps prior hemorrhagic shear injury from trauma are other considerations.
